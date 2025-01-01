@@ -129,3 +129,4 @@ This project is licensed under the GNU General Public License v3.0 - see the [Li
 ## Related Projects
 
 - [3DSDBAPI](https://github.com/ghost-land/3DSDBAPI)
+- [3dserver](https://github.com/ghost-land/3dserver)
