@@ -57,7 +57,7 @@ db/3ds/
 
 Iso code and more :
 ```
-AE': Arabic (ar)
+'AE': Arabic (ar)
 'AG', 'AI', 'BM', 'BS', 'BZ', 'CA', 'DM', 'GD', 'GY', 'IE', 'JM', 'KN', 'KY', 'LC', 'MS', 'MT', 'NZ', 'SG', 'TC', 'TT', 'VC', 'VG', 'VI', 'ZA': English (en)
 'AN', 'AW', 'NL', 'BE': Dutch (nl)
 'AR', 'BO', 'CL', 'CO', 'CR', 'DO', 'EC', 'ES', 'GT', 'HN', 'MX', 'NI', 'PA', 'PE', 'PY', 'SV', 'UY', 'VE': Spanish (es)
