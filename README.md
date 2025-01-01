@@ -6,79 +6,51 @@ ________
 
 Structure :
 ```
-data/
-├── base/
-│   └── [tid].json              # Base game data files
-├── dlc/
-│   └── [tid].json              # DLC data files
-├── dsiware/
-│   └── [tid].json              # DSiWare data files
-├── extras/
-│   ├── Custom DSiWare/
-│   │   └── [tid].json          # Custom DSiWare content files
-│   ├── DSi System Apps/
-│   │   └── [tid].json          # DSi System applications data files
-│   ├── Dev Apps/
-│   │   └── [tid].json          # Development applications data files
-│   ├── Miscellaneous/
-│   │   └── [tid].json          # Miscellaneous extra content data files
-│   ├── Homebrew/
-│   │   └── [tid].json          # Homebrew software data files
-│   ├── ROM Hacks/
-│   │   └── [tid].json          # ROM hacks data files
-│   └── Translated Games/
-│       └── [tid].json          # Translated games data files
-├── themes/
-│   └── [tid].json              # Theme data files
-├── updates/
-│   └── [tid].json              # Update data files
-├── videos/
-│   └── [tid].json              # Video data files
-└── virtual-console/
-    └── [tid].json              # Virtual Console game data files
+db/3ds/
+├── base/                           # Base content
+│     └── [tid]/                    # Titles for base content, identified by TID
+├── dlc/                            # Downloadable content
+│     └── [tid]/                    # Titles for downloadable content, identified by TID
+├── dsiware/                        # DSiWare games and applications
+│     └── [tid]/                    # Titles for DSiWare, identified by TID
+├── extras/                         # Additional content
+│   ├── Custom DSiWare/             # Custom DSiWare creations
+│   │     └── [tid]/                # Titles for custom DSiWare, identified by TID
+│   ├── DSi System Apps/            # System applications for DSi
+│   │     └── [tid]/                # Titles for DSi system apps, identified by TID
+│   ├── Dev Apps/                   # Developer tools and apps
+│   │     └── [tid]/                # Titles for developer apps, identified by TID
+│   ├── Miscellaneous/              # Miscellaneous content
+│   │     └── [tid]/                # Titles for miscellaneous content, identified by TID
+│   ├── Homebrew/                   # Homebrew applications and games
+│   │     └── [tid]/                # Titles for homebrew, identified by TID
+│   ├── ROM Hacks/                  # Modified ROMs
+│   │     └── [tid]/                # Titles for ROM hacks, identified by TID
+│   └── Translated Games/           # Games with fan-made translations
+│         └── [tid]/                # Titles for translated games, identified by TID
+├── themes/                         # 3DS themes
+│     └── [tid]/                    # Titles for themes, identified by TID
+├── updates/                        # System or game updates
+│     └── [tid]/                    # Titles for updates, identified by TID
+├── videos/                         # Video content
+│     └── [tid]/                    # Titles for video content, identified by TID
+└── virtual-console/                # Virtual Console games
+      └── [tid]/                    # Titles for Virtual Console games, identified by TID
 ```
 
 ```
-media/
-├── [tid]/
-│   ├── banner.jpg                                   # Banner image for the content
-│   ├── icon.jpg                                     # Icon image for the content
-│   ├── top_image.jpg                                # Top image for the content
-│   ├── screenshots/                                 # Directory for screenshots
-│   │   └── screenshot_[n].jpg                       # Screenshot files
-│   ├── thumbnails/                                  # Directory for thumbnails
-│   │   └── thumbnail_[n].jpg                        # Thumbnail files
-│   └── screenshots_uncompiled/                      # Uncompiled screenshots
-│       ├── screenshot_[n]_lower.jpg                 # Lower screen
-│       └── screenshot_[n]_upper.jpg                 # Upper screen
-```
-
-
-Json Structure :
-```
-"tid": ""
-"nid": ""
-"name": ""
-"product_code": ""
-"region": ""
-"platform": {"device": "", "name": ""}
-"publisher": ""
-"genre": ""
-"rating": {"system": "", "rating": "", "age": ""}
-"keywords": [""]
-"descriptors": [""]
-"releases_dates": {"eshop": "", "retail": ""}
-"formal_name": ""
-"description": ""
-"movies_id": [""]
-"disclaimer": ""
-"genres": [""]
-"features": [""]
-"languages": [{"iso_code": "", "name": ""}]
-"number_of_players": ""
-"copyright": ""
-"catch_copy": ""
-"websites": [{"name": "", "url": "", "official" false}]
+[tid]/
+├── banner.jpg                # Banner image for the content
+├── icon.jpg                  # Icon image for the content
+├── top_image.jpg             # Main display image
+├── meta.json                 # Metadata file (e.g., title, description, etc.)
+├── screenshots/              # Folder for compiled screenshots
+│   └── screenshot_[n].jpg      # Screenshot file (variable number)
+├── thumbnails/               # Folder for thumbnails of screenshots
+│   └── thumbnail_[n].jpg       # Thumbnail file (variable number)
+└── screenshots_uncompiled/   # Folder for uncompiled screenshots
+    ├── screenshot_[n]_lower.jpg # Lower screen of screenshot (variable number)
+    ├── screenshot_[n]_upper.jpg # Upper screen of screenshot (variable number)
 ```
 
 
