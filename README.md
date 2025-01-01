@@ -117,3 +117,15 @@ Iso code and more :
 ```
 language_priority = ['en', 'jp', 'fr', 'es', 'de', 'it', 'nl', 'pt', 'zh', 'ru', 'ko', 'ar', 'tr', 'sv', 'fi', 'da', 'no', 'pl', 'cs', 'sk', 'sl', 'sr', 'hr', 'hu', 'lt', 'lv', 'el', 'bg', 'ro', 'ms', 'mt', 'et']
 ```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [License](./LICENSE) file for details.
+
+## Related Projects
+
+- [3DSDBAPI](https://github.com/ghost-land/3DSDBAPI)
