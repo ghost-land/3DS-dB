@@ -1,17 +1,13 @@
 {
-    "uid": "50010000027756",
     "tid": "0004000000145800",
-    "product_code": "CTR-N-JNVJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-11-19",
+    "uid": "50010000027756",
+    "name": "プチノベル「別離の十一月」",
     "formal_name": "プチノベル「別離の十一月」",
     "description": "『プチノベル「別離の十一月」』は、神の住まう町･多紙町で暮らす高校生、紺野柾木とその仲間たちが過ごす11月のできごとを描いたビジュアルノベルゲームです。\n<br>\n<br>ついに「選択」した柾木と耕平。\n<br>そして、それにより、想像にも及ばなかったことが起きてしまう。\n<br>選ばれた者たちの想いは? 切り捨てられた者たちの想いは?\n<br>別離の時が訪れる。",
-    "name": "プチノベル「別離の十一月」",
+    "release_date_on_eshop": "2014-11-19",
+    "product_code": "CTR-N-JNVJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アドベンチャー"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

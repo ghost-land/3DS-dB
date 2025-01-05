@@ -1,17 +1,13 @@
 {
-    "uid": "50010000012107",
     "tid": "00040000000A7B00",
-    "product_code": "CTR-P-AJYJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000012107",
+    "name": "ジュエルペット\n魔法でおしゃれにダンス☆デコ～!",
     "formal_name": "ジュエルペット\n魔法でおしゃれにダンス☆デコ～!",
     "description": "ジュエルペットたちがリズムにあわせてかわいくおどるよ!\n<br>リズムゲームをクリアするとレシピとジュエルをGET!\n<br>手に入れたジュエルで、ミニゲームにちょうせん!\n<br>ミニゲームで「種」をGETしたら「マイガーデン」で植えてお花を咲かせよう。お花はコーデの材料になるよ。\n<br>レシピをGETしてたくさんのコーデをためしてみてね。コーデができたらファッションコンテストにも挑戦してみよう。\n<br>ほかにも一日の運勢が占えたり、待ち受け画面をデコれたりと、楽しさいっぱい!!\n",
-    "name": "ジュエルペット\n魔法でおしゃれにダンス☆デコ～!",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AJYJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "音楽",
         "アクション",
@@ -23,7 +19,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000021143",
     "tid": "0004000E000B6D00",
-    "product_code": "CTR-U-JRZJ",
-    "platform_name": "更新データ",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-03-19",
+    "uid": "50010000021143",
+    "name": "更新データ Ver. 1.1\n燐光のランツェ",
     "formal_name": "更新データ Ver. 1.1\n燐光のランツェ",
     "description": "ニンテンドー3DSソフト『燐光のランツェ』のゲーム中における一部の問題点の修正と、ゲームプレイの改善を行うための更新データです。\n<br>『燐光のランツェ』をお持ちのお客様は、ダウンロードしてください。",
-    "name": "更新データ Ver. 1.1\n燐光のランツェ",
+    "release_date_on_eshop": "2014-03-19",
+    "product_code": "CTR-U-JRZJ",
+    "platform_name": "更新データ",
+    "region": "Japan",
     "genres": [
         "更新データ"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "ニンテンドー3DSソフト『燐光のランツェ』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Japan"
+    "disclaimer": "ニンテンドー3DSソフト『燐光のランツェ』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000040296",
     "tid": "0004000000199300",
-    "product_code": "CTR-N-AYQJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-05-11",
+    "uid": "50010000040296",
+    "name": "カルドセプト® リボルト\nスタートダッシュVer.",
     "formal_name": "カルドセプト® リボルト\nスタートダッシュVer.",
     "description": "『カルドセプト リボルト』序盤のストーリーを体験できる特別バージョン。\n<br>データを製品版に引き継げるため、カードを揃えておけば製品購入時、すぐに自分好みのブックを作成して本格的にゲームに取り組むことができます。\n<br>※『スタートダッシュVer.』で入手したカードは製品版でのみ使用できます。",
-    "name": "カルドセプト® リボルト\nスタートダッシュVer.",
+    "release_date_on_eshop": "2016-05-11",
+    "product_code": "CTR-N-AYQJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング",
         "テーブル"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

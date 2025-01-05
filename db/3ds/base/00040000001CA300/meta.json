@@ -1,17 +1,13 @@
 {
-    "uid": "50010000043295",
     "tid": "00040000001CA300",
-    "product_code": "CTR-N-BZMJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2018-08-02",
+    "uid": "50010000043295",
+    "name": "世界樹の迷宮X（クロス）",
     "formal_name": "世界樹の迷宮X（クロス）",
     "description": "下画面に地図を描く面白さと歯ごたえのあるゲームバランスで人気の3DダンジョンRPG『世界樹の迷宮』シリーズ。今までの作品のエッセンスを “クロスオーバー”した、シリーズの集大成が登場します。\n<br>絶海の孤島「レムリア」という新しい舞台で、世界樹の謎に迫る物語が展開。あなたは飛行都市「マギニア」を拠点に、新職業「ヒーロー」を含む19職業から夢のパーティを組み、前人未到の迷宮に挑みます。",
-    "name": "世界樹の迷宮X（クロス）",
+    "release_date_on_eshop": "2018-08-02",
+    "product_code": "CTR-N-BZMJ",
+    "platform_name": "3DSカード/ダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング"
     ],
@@ -24,7 +20,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

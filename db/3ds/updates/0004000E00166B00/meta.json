@@ -1,17 +1,13 @@
 {
-    "uid": "50010000039836",
     "tid": "0004000E00166B00",
-    "product_code": "CTR-U-BG4J",
-    "platform_name": "更新データ",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-03-23",
+    "uid": "50010000039836",
+    "name": "更新データ Ver. 1.1\n真・女神転生Ⅳ FINAL",
     "formal_name": "更新データ Ver. 1.1\n真・女神転生Ⅳ FINAL",
     "description": "ニンテンドー3DSソフト『真・女神転生Ⅳ FINAL』の更新データです。\n特定の状況下でゲームが停止することがある不具合を改善しました。\nそのほか、ゲームを快適に遊んでいただけるよう、いくつかの問題を修正しました。",
-    "name": "更新データ Ver. 1.1\n真・女神転生Ⅳ FINAL",
+    "release_date_on_eshop": "2016-03-23",
+    "product_code": "CTR-U-BG4J",
+    "platform_name": "更新データ",
+    "region": "Japan",
     "genres": [
         "更新データ"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "ニンテンドー3DSソフト『真・女神転生Ⅳ FINAL』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Japan"
+    "disclaimer": "ニンテンドー3DSソフト『真・女神転生Ⅳ FINAL』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000023015",
     "tid": "0004000000139E00",
-    "product_code": "CTR-N-KPQJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-06-11",
+    "uid": "50010000023015",
+    "name": "ピクロスe5",
     "formal_name": "ピクロスe5",
     "description": "ナビゲーション機能を搭載した、ピクロスeシリーズの第5弾です。\n<br>前作から引き続き「ミクロス」「メガピクロス」「20×15ピクロス」の全モードを搭載。\n<br>充実の完全新作問題150問以上をじっくりと遊べます。\n<br>チュートリアルやルールのカスタムも充実。\n<br>シリーズ初心者の方でも安心してプレーしていただけます。\n<br>『ピクロス』は、数字をヒントにイラストを完成させる「ピクチャークロスワードパズルゲーム」です。\n<br>シンプルで分かりやすいルールで、誰でも手軽に楽しめます。\n<br>また、過去の『ピクロスe』シリーズのセーブデータがあれば、追加のスペシャル問題が遊べます。\n<br>※スペシャル問題は『ピクロスe』『ピクロスe2』『ピクロスe3』のセーブデータがあれば追加されます。",
-    "name": "ピクロスe5",
+    "release_date_on_eshop": "2014-06-11",
+    "product_code": "CTR-N-KPQJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "パズル"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

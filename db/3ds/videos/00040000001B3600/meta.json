@@ -1,17 +1,13 @@
 {
-    "uid": "50010000042097",
     "tid": "00040000001B3600",
-    "product_code": "CTR-N-KVGJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-02-09",
+    "uid": "50010000042097",
+    "name": "アニメ 蒼き雷霆ガンヴォルト",
     "formal_name": "アニメ 蒼き雷霆ガンヴォルト",
     "description": "2014年8月にリリースされたニンテンドー3DS用ソフト『蒼き雷霆ガンヴォルト』をアニメ化しました。\n<br>テレビアニメ1話分相当のボリューム、ゲーム版のオリジナルキャストを起用した声優陣など見応えのある充実した内容となっています。\n<br>制作には LandQ Studio's×東北新社 といった強力な布陣を迎え、ゲームで描かれなかった部分にもスポットを当てた『ガンヴォルト』の世界観を一層深める作品です。",
-    "name": "アニメ 蒼き雷霆ガンヴォルト",
+    "release_date_on_eshop": "2017-02-09",
+    "product_code": "CTR-N-KVGJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "アドベンチャー",
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

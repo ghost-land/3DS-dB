@@ -1,17 +1,13 @@
 {
-    "uid": "50010000011502",
     "tid": "0004000000093900",
-    "product_code": "CTR-N-RB7P",
-    "platform_name": "Game Boy",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000011502",
+    "name": "Mole Mania",
     "formal_name": "Mole Mania",
     "description": "Produced by the legendary Shigeru\nMiyamoto, this classic action-puzzle\ngame stars Muddy Mole who must\nrescue his family from evil farmer\nJinbe.<br>\n<br>\nYour goal is to guide Muddy through\neach stage to the exit which is easier\nsaid than done! Enemies, obstacles\nand devious level designs bar your\nway.<br>\n<br>\nFortunately, Muddy can also dig\nbeneath the surface and uncover new\npaths. Also, look out for bonus stages\nwhere you can get your own back on\nJinbe.<br>\n<br>\nIf you like action games with a brain,\nyou'll dig Mole Mania!",
-    "name": "Mole Mania",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "CTR-N-RB7P",
+    "platform_name": "Game Boy",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Action"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

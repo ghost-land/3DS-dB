@@ -1,17 +1,13 @@
 {
-    "uid": "50010000003321",
     "tid": "000480044B463856",
-    "product_code": "TWL-N-KF8V",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000003321",
+    "name": "Fire Panic",
     "formal_name": "Fire Panic",
     "description": "Burn rubber with Fire Panic:<br>\n<br>\nAs a futuristic firefighter in Fire Panic,\nyou are facing the continuous\nchallenge of extinguishing more and\nmore fires that keep flaring up. To do\nthis, use your stylus and mark the\nfastest route for your fire engine to\nget to each blaze. The engine will\nfollow the line you drew and\nautomatically douse each fire it\npasses along the way. A thrilling\nexperience every time you play!",
-    "name": "Fire Panic",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KF8V",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Action",
         "Adventure",
@@ -25,7 +21,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

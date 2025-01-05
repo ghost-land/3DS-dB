@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009621",
     "tid": "000480044B4B5850",
-    "product_code": "TWL-N-KKXP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000009621",
+    "name": "Successfully Learning\nMathematics Year 5",
     "formal_name": "Successfully Learning\nMathematics Year 5",
     "description": "In \"Successfully Learning:\nMathematics, Year 5\", pupils will\nsolve exciting maths problems with the\nlittle vampire Freddy to learn maths in\na playful way. The little vampire\nFreddy motivates the children and\nhelps with tips.<br>\n<br>\nAll problems are based on the current\ncurriculum for maths.<br>\n<br>\nYou can play \"Successfully Learning:\nMathematics, Year 5\" in German,\nEnglish, Spanish, French, Italian and\nTurkish.",
-    "name": "Successfully Learning\nMathematics Year 5",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KKXP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Education"
     ],
@@ -23,7 +19,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

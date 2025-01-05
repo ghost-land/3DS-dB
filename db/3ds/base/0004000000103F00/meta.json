@@ -1,17 +1,13 @@
 {
-    "uid": "50010000021613",
     "tid": "0004000000103F00",
-    "product_code": "CTR-N-JS5J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-04-16",
+    "uid": "50010000021613",
+    "name": "@SIMPLE DLシリーズ Vol.26\nTHE テニス",
     "formal_name": "@SIMPLE DLシリーズ Vol.26 THE テニス",
     "description": "みんなで楽しめるテニスゲームが登場です。\n<br>ゲームでは8人のキャラクターと6つのコートで、シングル戦、ダブルス戦、勝ち抜き戦を楽しむことができます。\n<br>\n<br>ローカルプレイ･ダウンロードプレイ･ランキングといった通信機能や見た目が楽しいコートと衣装の追加コンテンツも充実。\n<br>\n<br>1人のプレイでも、家族や友達と対戦プレイでも楽しめることうけあいです。",
-    "name": "@SIMPLE DLシリーズ Vol.26\nTHE テニス",
+    "release_date_on_eshop": "2014-04-16",
+    "product_code": "CTR-N-JS5J",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "スポーツ",
         "アクション"
@@ -26,7 +22,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

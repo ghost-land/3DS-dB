@@ -1,17 +1,13 @@
 {
-    "uid": "50010000024395",
     "tid": "0004000000127E00",
-    "product_code": "CTR-N-JNFJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-07-30",
+    "uid": "50010000024395",
+    "name": "アクセルナイツ2 フルスロットル",
     "formal_name": "アクセルナイツ2 フルスロットル",
     "description": "本作は2010年に発売した『アクセルナイツ～汝が為我は剣を取る～』（ニンテンドーDSiウェア）に続く、対戦アクションストーリーゲーム第二弾です。\n<br>バトルシステムの改良によりさらに爽快で奥深いバトルが楽しめます。\n<br>キャラクターデザインは眞島真太郎。サウンドはベイシスケイプがドラマチックな世界を熱く盛り上げます。",
-    "name": "アクセルナイツ2 フルスロットル",
+    "release_date_on_eshop": "2014-07-30",
+    "product_code": "CTR-N-JNFJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "ロールプレイング",
@@ -26,7 +22,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.3.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

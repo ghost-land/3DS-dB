@@ -1,17 +1,13 @@
 {
-    "uid": "50010000013495",
     "tid": "0004000000088500",
-    "product_code": "CTR-N-GADP",
-    "platform_name": "Game Gear",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-07-04",
+    "uid": "50010000013495",
+    "name": "Sonic Drift 2",
     "formal_name": "Sonic Drift 2",
     "description": "Start your engines and prepare for\nthe race of your life!Choose from\nseven of your favourite Sonic\ncharacters including Sonic, Knuckles\nand Dr. Eggman (AKA Dr. Robotnik)\nand race your way to the finish line.\nUse each racer’s special ability to\ngain an edge over the competition and\nwin the fabled Chaos Emeralds!\n<br/><br/>\nRace across 17 courses in the\nultimate Chaos Grand Prix!\n<br/><br/>\nChallenge a friend via local\ntwo-player multiplayer!\n<br/><br/>\nChoose between seven classic Sonic\ncharacters including Sonic, Tails,\nKnuckles, Amy Rose and the\nnefarious Dr. Eggman!",
-    "name": "Sonic Drift 2",
+    "release_date_on_eshop": "2013-07-04",
+    "product_code": "CTR-N-GADP",
+    "platform_name": "Game Gear",
+    "region": "Europe",
     "genres": [
         "Racing"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

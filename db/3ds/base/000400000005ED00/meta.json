@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007882",
     "tid": "000400000005ED00",
-    "product_code": "CTR-P-ACQP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-01-09",
+    "uid": "50010000007882",
+    "name": "Cooking Mama 4",
     "formal_name": "Cooking Mama 4",
     "description": "Mama is cooking up a storm - for the\nfirst time in 3D!\n<br/><br/>\n- Decorate Mama's kitchen and\ncustomise your utensils!<br/>\n- 4 player wireless challenge mode<br/>\n- Over 200 new minigames<br/>\n- Tilt your Nintendo 3DS™ and cook\nin a whole new way!",
-    "name": "Cooking Mama 4",
+    "release_date_on_eshop": "2014-01-09",
+    "product_code": "CTR-P-ACQP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Arcade",
         "Lifestyle",
@@ -28,7 +24,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

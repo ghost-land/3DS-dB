@@ -1,17 +1,13 @@
 {
-    "uid": "50010000042715",
     "tid": "0004000E001A1600",
-    "product_code": "CTR-U-BNHJ",
-    "platform_name": "更新データ",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-04-26",
+    "uid": "50010000042715",
+    "name": "更新データ Ver. 1.1.0\n百ますドラ算 のび太のタイムバトル",
     "formal_name": "更新データ Ver. 1.1.0\n百ますドラ算 のび太のタイムバトル",
     "description": "●ゲームを快適に遊んでいただけるよう、問題を修正しました。",
-    "name": "更新データ Ver. 1.1.0\n百ますドラ算 のび太のタイムバトル",
+    "release_date_on_eshop": "2017-04-26",
+    "product_code": "CTR-U-BNHJ",
+    "platform_name": "更新データ",
+    "region": "Japan",
     "genres": [
         "更新データ"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "ニンテンドー3DSソフト『百ますドラ算 のび太のタイムバトル』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Japan"
+    "disclaimer": "ニンテンドー3DSソフト『百ますドラ算 のび太のタイムバトル』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "descriptors": []
 }

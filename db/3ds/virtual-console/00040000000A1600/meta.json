@@ -1,17 +1,13 @@
 {
-    "uid": "50010000014912",
     "tid": "00040000000A1600",
-    "product_code": "CTR-N-TBFE",
-    "platform_name": "NES",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-06-20",
+    "uid": "50010000014912",
+    "name": "Mega Man™ 6",
     "formal_name": "Mega Man™ 6",
     "description": "From the United States, Canada and Japan they came.  The world's premier designers and their finest robotic warriors traveled to do battle in the First Annual Robot Tournament.  On the eve of the Grand Championship, the mysterious Mr. X announced that the entire tournament was just a scheme to get his hands on the\nworld's most powerful robots!  Mega Man must battle through 16 levels to defeat this ferocious new foe.",
-    "name": "Mega Man™ 6",
+    "release_date_on_eshop": "2013-06-20",
+    "product_code": "CTR-N-TBFE",
+    "platform_name": "NES",
+    "region": "North America",
     "genres": [
         "Action",
         "Arcade",
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

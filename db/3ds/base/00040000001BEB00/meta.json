@@ -1,17 +1,13 @@
 {
-    "uid": "50010000043062",
     "tid": "00040000001BEB00",
-    "product_code": "CTR-N-J2MJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-08-23",
+    "uid": "50010000043062",
+    "name": "MHXX データ移行アプリ",
     "formal_name": "モンスターハンターダブルクロス データ移行アプリ",
     "description": "ニンテンドー3DS版とNitendo Switch版の間で、セーブデータを移行するためのプログラムです。\n<br>このプログラムを使用するには、ニンテンドー3DSソフト『モンスターハンタークロス』または『モンスターハンターダブルクロス 』のセーブデータと、Nintendo Switchソフト『モンスターハンターダブルクロス Nintendo Switch Ver.』が必要です。",
-    "name": "MHXX データ移行アプリ",
+    "release_date_on_eshop": "2017-08-23",
+    "product_code": "CTR-N-J2MJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "その他"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

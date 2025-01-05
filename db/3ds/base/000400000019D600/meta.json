@@ -1,17 +1,13 @@
 {
-    "uid": "50010000040496",
     "tid": "000400000019D600",
-    "product_code": "CTR-N-KHRJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-06-01",
+    "uid": "50010000040496",
+    "name": "Henri-アンリ-",
     "formal_name": "Henri-アンリ-",
     "description": "針山、鉄球、巨大生物……\n<br>数々の罠を潜り抜けて、さらなる恐怖を体感せよ！\n<br>これは翼を手にした少女『アンリ』の物語――\n<br>\n<br>左右移動とジャンプのみの簡単操作死にゲーアクション！\n<br>死んで死んで、死にまくって、うがぁーヾ(`□´)ﾉってなって、\n<br>でもやめられなくて、とまらない!!\n<br>\n<br>死ぬと経験値が入って残機が増えていく！\n<br>何度も死にながらダンジョン奥地を目指し、\n<br>待ち受けるボスを倒しましょう!!",
-    "name": "Henri-アンリ-",
+    "release_date_on_eshop": "2016-06-01",
+    "product_code": "CTR-N-KHRJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

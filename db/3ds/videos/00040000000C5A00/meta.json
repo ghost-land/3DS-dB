@@ -1,17 +1,13 @@
 {
-    "uid": "50010000012617",
     "tid": "00040000000C5A00",
-    "product_code": "CTR-N-MA8P",
-    "platform_name": "Downloadable Video",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000012617",
+    "name": "The 3D Machine Series:\nEpisode 1",
     "formal_name": "The 3D Machine Series:\nEpisode 1",
     "description": "A giant lizard wreaks havoc in a\nJapanese metropolis. Igor and the\nprofessor must chase this menacing\nmonster through the concrete jungle\nin order to zap it back to its comic\nbook.\n<br/><br/>\nLength 2:30 min",
-    "name": "The 3D Machine Series:\nEpisode 1",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "CTR-N-MA8P",
+    "platform_name": "Downloadable Video",
+    "region": "Europe",
     "genres": [
         "Other"
     ],
@@ -19,7 +15,11 @@
         "Displays 3D Visuals"
     ],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

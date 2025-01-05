@@ -1,17 +1,13 @@
 {
-    "uid": "50010000026539",
     "tid": "000400000011A700",
-    "product_code": "CTR-N-RCKP",
-    "platform_name": "Game Boy",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-10-30",
+    "uid": "50010000026539",
+    "name": "Donkey Kong Land™ III",
     "formal_name": "Donkey Kong Land™ III",
     "description": "Donkey Kong™ and Diddy Kong™\nhave gone to seek their fortune by\nfinding the fabled Lost World, leaving\nDixie Kong™ literally holding the\nbaby. However, Dixie decides to find\nthe Lost World before anyone else,\nbringing cousin Kiddy Kong™ along\nfor the ride.\n<br/><br/>\nPlay as Dixie or Kiddy across 36\nKong-sized levels of platforming\naction and adventure. Get a little help\nfrom your animal friends Squitter the\nspider, Squawks the parrot, Ellie the\nelephant and Enguarde the swordfish,\nas you seek out secrets to uncover\nthe truth behind the Lost World!",
-    "name": "Donkey Kong Land™ III",
+    "release_date_on_eshop": "2014-10-30",
+    "product_code": "CTR-N-RCKP",
+    "platform_name": "Game Boy",
+    "region": "Europe",
     "genres": [
         "Platformer"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

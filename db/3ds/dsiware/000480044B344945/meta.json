@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000801",
     "tid": "000480044B344945",
-    "product_code": "TWL-N-K4IE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2010-07-12",
+    "uid": "50010000000801",
+    "name": "24/7 Solitaire",
     "formal_name": "24/7 Solitaire",
     "description": "24/7 Solitaire features 24 variations of the most well-known and best-loved single-player card games including Klondike, Freecell, Spider, Pyramid, Yukon and 7 versions of Peg-Solitaire. Most games have custom gameplay options so you can enjoy the game with your favorite rules. On-screen instructions allow learning of new Solitaire variations.\n\nStatistics are available for players who love to track their wins. Save the game status any time for later. The game's style and interface has been designed for easy intuitive operation with the stylus or the +Control Pad. Sit back and relax... Enjoy the endless challenge and fun with this Solitaire game collection.",
-    "name": "24/7 Solitaire",
+    "release_date_on_eshop": "2010-07-12",
+    "product_code": "TWL-N-K4IE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Board Game",
         "Puzzle",
@@ -23,7 +19,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

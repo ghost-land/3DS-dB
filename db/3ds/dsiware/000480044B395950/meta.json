@@ -1,17 +1,13 @@
 {
-    "uid": "50010000011087",
     "tid": "000480044B395950",
-    "product_code": "TWL-N-K9YP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000011087",
+    "name": "Candle Route",
     "formal_name": "Candle Route",
     "description": "Sparky has been entrusted to bring\nthe light to the Crayon Castle before\nnightfall. Lead Sparky through over\n100 colourful levels to collect\nmatches and light candles. Don’t be\nsurprised to find various obstacles like\nbombs, puddles, dynamite or dead\nend paths! This unique and beautiful\ngame will light a fire in the heart of\nevery puzzle fan!",
-    "name": "Candle Route",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-K9YP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Strategy",
@@ -26,7 +22,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

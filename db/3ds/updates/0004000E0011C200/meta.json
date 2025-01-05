@@ -1,24 +1,24 @@
 {
-    "uid": "50010000027958",
     "tid": "0004000E0011C200",
-    "product_code": "CTR-U-BTMP",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-11-14",
+    "uid": "50010000027958",
+    "name": "LEGO® Batman™ 3:\nBEYOND GOTHAM - Update",
     "formal_name": "LEGO® Batman™ 3:\nBEYOND GOTHAM - Update",
     "description": "This new patch includes a number of\nfixes which will improve the experience\nof the game.",
-    "name": "LEGO® Batman™ 3:\nBEYOND GOTHAM - Update",
+    "release_date_on_eshop": "2014-11-14",
+    "product_code": "CTR-U-BTMP",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Update Data",
         "Other"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

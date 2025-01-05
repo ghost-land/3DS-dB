@@ -1,17 +1,13 @@
 {
-    "uid": "50010000010372",
     "tid": "0004000000086900",
-    "product_code": "CTR-P-AQLE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000010372",
+    "name": "Ice Age™ Continental Drift: \nArctic Games",
     "formal_name": "Ice Age™ Continental Drift: \nArctic Games",
     "description": "Ready to get wet, wild and wooly?\n<br><br>\nTeam up with your favorite Ice Age characters in a continental competition of glacial proportions!  Battle for treasure with the Herd and the Pirates in their craziest adventure yet!\n<br><br>\nHop, Smash and Dash in 10 wild arctic events! <br>\nBattle to win gold, silver and bronze acorns.<br>\nTest your skills in Story and Free Play mode.<br>\nChallenge your friends in fast-paced multi-player action!                                                                                                                                         ",
-    "name": "Ice Age™ Continental Drift: \nArctic Games",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AQLE",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "region": "North America",
     "genres": [
         "Adventure",
         "Sports",
@@ -24,7 +20,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

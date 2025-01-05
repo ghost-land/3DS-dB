@@ -1,17 +1,13 @@
 {
-    "uid": "50010000024897",
     "tid": "0004000E0006CF00",
-    "product_code": "CTR-U-AJ6P",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-08-08",
+    "uid": "50010000024897",
+    "name": "Jewel Quest\nThe Sapphire Dragon - Update",
     "formal_name": "Jewel Quest\nThe Sapphire Dragon - Update",
     "description": "This update fixes an issue that could\ncause the game to crash.",
-    "name": "Jewel Quest\nThe Sapphire Dragon - Update",
+    "release_date_on_eshop": "2014-08-08",
+    "product_code": "CTR-U-AJ6P",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Update Data"
     ],
@@ -24,7 +20,11 @@
         "Italian",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v2.3.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

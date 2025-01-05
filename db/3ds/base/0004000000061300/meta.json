@@ -1,17 +1,13 @@
 {
-    "uid": "50010000008125",
     "tid": "0004000000061300",
-    "product_code": "CTR-P-AABE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000008125",
+    "name": "Tales of the Abyss 3D",
     "formal_name": "Tales of the Abyss 3D",
     "description": "One of the most acclaimed titles in the Tales of series, Tales of the Abyss® stands apart from other RPGs with its depth of story and magnificent world. Now it makes its debut on the Nintendo 3DS™ system with full 3D support and the use of dual screens to bring players even closer to the action.\n<br><br>\nTales of the Abyss centers around Luke fon Fabre, sole heir to an aristocratic family, as he is suddenly thrust into the outside world on an epic adventure. Naïve and spoiled by years of isolation, Luke struggles to learn about friendship, sacrifice, duty, and choice. In the end, Luke’s actions may ultimately save the world or bring about its very destruction.",
-    "name": "Tales of the Abyss 3D",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AABE",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "region": "North America",
     "genres": [
         "RPG",
         "Adventure",
@@ -23,7 +19,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "13"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+    "descriptors": []
 }

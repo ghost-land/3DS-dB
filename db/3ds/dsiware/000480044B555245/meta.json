@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009771",
     "tid": "000480044B555245",
-    "product_code": "TWL-N-KURE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-04-19",
+    "uid": "50010000009771",
+    "name": "I Must Run!",
     "formal_name": "I Must Run!",
     "description": "I Must Run! is a skill-based action running game. Jump across gaps between jail buildings, run through a subway station, and test your reflexes in a deadly dash over construction site cranes. Reach the city center and save your wife. Remember, you have only 24 hours.\n\nLet's hope your fitness level can cope, because you must run! Once you have completed story mode, try to achieve the highest score in the never-ending run in six available levels: Jail, Subway, Sewers, Construction Site, Suburbs and Rooftops.",
-    "name": "I Must Run!",
+    "release_date_on_eshop": "2012-04-19",
+    "product_code": "TWL-N-KURE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Action",
         "Arcade",
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "13"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

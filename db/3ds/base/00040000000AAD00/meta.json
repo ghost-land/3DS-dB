@@ -1,17 +1,13 @@
 {
-    "uid": "50010000011966",
     "tid": "00040000000AAD00",
-    "product_code": "CTR-N-JAUJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-10-31",
+    "uid": "50010000011966",
+    "name": "引ク落ツ",
     "formal_name": "引ク落ツ",
     "description": "ブロックを押し出したり、引き出したり、下に落としたり…。いろいろと動かして足場を作りながら、ジャンプでのぼりおりしてゴールを目指すパズルアクション。\n<br>遊べるヒクオツはトレーニングも含めて、全230種類。\n<br>自分でオリジナルのヒクオツを作って、ひとにあげたり、ひとからもらったりして楽しむことができます。",
-    "name": "引ク落ツ",
+    "release_date_on_eshop": "2012-10-31",
+    "product_code": "CTR-N-JAUJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "パズル",
         "アクション"
@@ -24,7 +20,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

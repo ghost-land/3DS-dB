@@ -1,17 +1,13 @@
 {
-    "uid": "50010000023455",
     "tid": "0004000000104000",
-    "product_code": "CTR-N-JPGJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-06-25",
+    "uid": "50010000023455",
+    "name": "@SIMPLE DLシリーズ Vol.30\nTHE ナンバーパズル",
     "formal_name": "@SIMPLE DLシリーズ Vol.30\nTHE ナンバーパズル",
     "description": "定番の人気パズルゲームが『@SIMPLE DLシリーズ』に登場。簡単なルールで間口は広く、遊ぶと奥が深い、どなたでも長く楽しんでいただける内容です。\n<br>便利機能や遊びやすさを追求したシステムで初心者も安心。\n<br>すべてのマスを埋めて正解を導き出すことができるか、あなたの頭脳が試される。",
-    "name": "@SIMPLE DLシリーズ Vol.30\nTHE ナンバーパズル",
+    "release_date_on_eshop": "2014-06-25",
+    "product_code": "CTR-N-JPGJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "パズル",
         "テーブル"
@@ -24,7 +20,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

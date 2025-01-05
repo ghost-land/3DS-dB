@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009927",
     "tid": "0004000000052500",
-    "product_code": "CTR-N-JKTJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-04-11",
+    "uid": "50010000009927",
+    "name": "おきらくカート3D",
     "formal_name": "おきらくカート3D",
     "description": "おきらくシリーズに爽快レーシングゲームが登場! \n<br>キャラクター8人、カート8種、コース12種、難易度3段階のボリュームで\n<br>「グランプリ」「フリー対戦」「タイムアタック」を楽しめます。\n<br>また、「タイムアタック」はネットワークランキングに対応、全国のライバルとベストタイムを競い合う事ができます。",
-    "name": "おきらくカート3D",
+    "release_date_on_eshop": "2012-04-11",
+    "product_code": "CTR-N-JKTJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "レース"
     ],
@@ -23,7 +19,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

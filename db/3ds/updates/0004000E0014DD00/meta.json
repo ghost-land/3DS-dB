@@ -1,23 +1,23 @@
 {
-    "uid": "50010000033455",
     "tid": "0004000E0014DD00",
-    "product_code": "CTR-U-BLSP",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-05-14",
+    "uid": "50010000033455",
+    "name": "LEGO® Ninjago™: Shadow\nof Ronin - Update",
     "formal_name": "LEGO® Ninjago™: Shadow\nof Ronin - Update",
     "description": "This new patch includes a number of\nfixes which will improve the experience\nof the game.",
-    "name": "LEGO® Ninjago™: Shadow\nof Ronin - Update",
+    "release_date_on_eshop": "2015-05-14",
+    "product_code": "CTR-U-BLSP",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Other"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,23 +1,23 @@
 {
-    "uid": "50010000039747",
     "tid": "0004000E00153600",
-    "product_code": "CTR-U-JWVP",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-03-11",
+    "uid": "50010000039747",
+    "name": "Nintendo Badge Arcade:\nUpdate",
     "formal_name": "Nintendo Badge Arcade:\nUpdate",
     "description": "An update for Nintendo Badge\nArcade is now available from Nintendo\neShop.\n<br/><br/>\nAll customers who own a copy of\nNintendo Badge Arcade should\ndownload the update.\n<br/><br/>\nThis will update the software to\nVersion 1.3.1 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\nâ€¢ Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
-    "name": "Nintendo Badge Arcade:\nUpdate",
+    "release_date_on_eshop": "2016-03-11",
+    "product_code": "CTR-U-JWVP",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Other"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v5.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

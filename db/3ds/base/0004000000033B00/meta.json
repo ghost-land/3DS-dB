@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000209",
     "tid": "0004000000033B00",
-    "product_code": "CTR-P-ARRP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000000209",
+    "name": "RIDGE RACER™ 3D",
     "formal_name": "RIDGE RACER™ 3D",
     "description": "The high octane Ridge Racer series\nreturns to set the racing world on fire\nwith brand new features. With\nbreathtaking stereoscopic 3D visuals,\na wider variety of machines, new\nenvironments, expanded\ncustomisation and updated drift\nmechanics, Ridge Racer 3D is the\nhottest racing game on the\nNintendo 3DS.",
-    "name": "RIDGE RACER™ 3D",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ARRP",
+    "platform_name": "Nintendo 3DS (Card)",
+    "region": "Europe",
     "genres": [
         "Arcade"
     ],
@@ -25,7 +21,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

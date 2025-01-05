@@ -1,17 +1,13 @@
 {
-    "uid": "50010000003172",
     "tid": "000480044B473656",
-    "product_code": "TWL-N-KG6V",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000003172",
+    "name": "Music on:\nAcoustic Guitar",
     "formal_name": "Music on:\nAcoustic Guitar",
     "description": "An acoustic guitar in your pocket!<br>\n<br>\nPlay your favourite songs easily,\nthanks to the pre-selection chord\noption, and enjoy the sound quality\nachieved. Hear the fingers on the frets\nand the nails while strumming!<br>\n<br>\nA directory of over 900 chords\nshows you how to place your fingers\non a real guitar and let's you listen to\nthem while selected.<br>\n<br>\n5 different styles will accompany you\nto set the mood.",
-    "name": "Music on:\nAcoustic Guitar",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KG6V",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Simulation",
         "Education",
@@ -24,7 +20,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

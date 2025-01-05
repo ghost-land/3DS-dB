@@ -1,17 +1,13 @@
 {
-    "uid": "50010000026695",
     "tid": "000400000013FE00",
-    "product_code": "CTR-N-KDGJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-10-22",
+    "uid": "50010000026695",
+    "name": "王国の道具屋さん",
     "formal_name": "王国の道具屋さん",
     "description": "■RPGの裏舞台、のぞいてみませんか?\n<br>『王国の道具屋さん』は、RPGの世界で道具屋さんを経営するゲームです。\n<br>ダンジョンの探検、合成、注文の対応など、道具屋さんの仕事は盛りだくさん!\n<br>ゲームをしていないときでも店番をしたり、アイテムを売ってくれたりする「じい」と一緒に、王国一番の道具屋さんを目指しましょう!",
-    "name": "王国の道具屋さん",
+    "release_date_on_eshop": "2014-10-22",
+    "product_code": "CTR-N-KDGJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "シミュレーション",
         "ロールプレイング"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v2.4.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

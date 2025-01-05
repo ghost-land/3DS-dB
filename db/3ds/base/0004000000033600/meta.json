@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000562",
     "tid": "0004000000033600",
-    "product_code": "CTR-N-AQEP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-10-04",
+    "uid": "50010000000562",
+    "name": "The Legend of Zelda™:\nOcarina of Time 3D",
     "formal_name": "The Legend of Zelda™:\n<br>Ocarina of Time 3D",
     "description": "Legend of Zelda: Ocarina of Time 3D\n<br>is an unforgettable classic from the\n<br>Nintendo 64 console, reborn on\n<br>Nintendo 3DS. Enjoy Zelda 3D and\n<br>enter the land of Hyrule in this action\n<br>adventure andembark on a quest \n<br>through time to combat evil!",
-    "name": "The Legend of Zelda™:\nOcarina of Time 3D",
+    "release_date_on_eshop": "2012-10-04",
+    "product_code": "CTR-N-AQEP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Action",
         "Adventure"
@@ -26,7 +22,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

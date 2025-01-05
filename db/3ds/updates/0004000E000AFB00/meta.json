@@ -1,17 +1,13 @@
 {
-    "uid": "50010000021893",
     "tid": "0004000E000AFB00",
-    "product_code": "CTR-U-JCXJ",
-    "platform_name": "更新データ",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-04-21",
+    "uid": "50010000021893",
+    "name": "更新データ Ver. 1.1\nチャリ走DX",
     "formal_name": "更新データ Ver. 1.1\nチャリ走DX",
     "description": "ニンテンドー3DSソフト『チャリ走DX』のお客様サポート窓口の連絡先が変更され、取扱説明書を更新いたしました。古い情報でお客様サポートに繋がらないため、「チャリ走DX」をお持ちのお客様は、必ずダウンロードしてください。",
-    "name": "更新データ Ver. 1.1\nチャリ走DX",
+    "release_date_on_eshop": "2014-04-21",
+    "product_code": "CTR-U-JCXJ",
+    "platform_name": "更新データ",
+    "region": "Japan",
     "genres": [
         "更新データ"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "ニンテンドー3DSソフト『チャリ走DX』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Japan"
+    "disclaimer": "ニンテンドー3DSソフト『チャリ走DX』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "descriptors": []
 }

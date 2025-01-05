@@ -1,17 +1,13 @@
 {
-    "uid": "50010000023784",
     "tid": "0004000000121D00",
-    "product_code": "CTR-N-JFCJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-07-16",
+    "uid": "50010000023784",
+    "name": "3D ファンタジーゾーンⅡダブル",
     "formal_name": "3D ファンタジーゾーンⅡダブル",
     "description": "人気シューティング『ファンタジーゾーン』が、パワーアップして再び登場。前作ラストの真相が明らかになるシリーズ第2作『ファンタジーゾーンⅡ オパオパの涙』リメイクバージョンと、スコアアタックが楽しめる完全新作『ファンタジーゾーンⅡ リンク･ループ･ランド』、2つのゲームをダブルでお楽しみいただけます。",
-    "name": "3D ファンタジーゾーンⅡダブル",
+    "release_date_on_eshop": "2014-07-16",
+    "product_code": "CTR-N-JFCJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "シューティング"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v2.2.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

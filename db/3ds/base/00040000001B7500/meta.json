@@ -1,17 +1,13 @@
 {
-    "uid": "50010000042442",
     "tid": "00040000001B7500",
-    "product_code": "CTR-P-A8FP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-06-06",
+    "uid": "50010000042442",
+    "name": "Farming Simulator 18",
     "formal_name": "Farming Simulator 18",
     "description": "Become a modern farmer in Farming Simulator 18! Plant, harvest, and trade in crops, including for the first time sunflowers. Diversify your activity with animal husbandry and forestry. Develop and expand your very own farm... wherever you go!\n<br>\n<br>• More than 50 farming vehicles including AGCO brands\n<br>• Breed and transport animals: cows, sheep, and for the first time, pigs\n<br>• Plant crops, sell the product of your labor, and invest your profits! \n<br>• Develop your farm in a new American environment",
-    "name": "Farming Simulator 18",
+    "release_date_on_eshop": "2017-06-06",
+    "product_code": "CTR-P-A8FP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Simulation",
         "Other"
@@ -29,7 +25,11 @@
         "Portuguese",
         "Russian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

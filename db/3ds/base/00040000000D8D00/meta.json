@@ -1,17 +1,13 @@
 {
-    "uid": "50010000015702",
     "tid": "00040000000D8D00",
-    "product_code": "CTR-N-JRQJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-08-21",
+    "uid": "50010000015702",
+    "name": "ロボットレスキュー3D",
     "formal_name": "ロボットレスキュー3D",
     "description": "複雑な迷路の中に隠された、たくさんのトラップ(罠)を避けながら、ロボットを出口まで導くパズルゲームです。\n<br>\n<br>ボタン一つで同じ方向に動き出す、複数のロボットを上手に操りながら、電気や爆弾をクリア。迷路の中のスイッチを押して、通路をブロックするドアを開けたり、ベルトコンベヤーやテレポートなどの仕掛けを利用してステージをクリアしていきます。\n<br>\n<br>ロボットの色を染めることで、使えるドアやテレポーターも変化。しっかり作戦を立てて、頭を使いながら、すべてのロボットが脱出できるルートを見つけだす必要があります。\n<br>\n<br>合計120もの多彩なステージにチャレンジができるため、誰もが間違いなく夢中になれるのです。",
-    "name": "ロボットレスキュー3D",
+    "release_date_on_eshop": "2013-08-21",
+    "product_code": "CTR-N-JRQJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "パズル"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

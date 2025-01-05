@@ -1,17 +1,13 @@
 {
-    "uid": "50010000010992",
     "tid": "0004000000095F00",
-    "product_code": "CTR-N-JNGJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-07-25",
+    "uid": "50010000010992",
+    "name": "ARC STYLE: 女子サッカー!!3D",
     "formal_name": "ARC STYLE: 女子サッカー!!3D",
     "description": "かわいい女子キャラで簡単･爽快に楽しめるサッカーゲームです。\n<br>テンポの良い試合を楽しめるように、「ファウル」や「オフサイド」といった細かなルールをカットしてあります。操作方法もシンプルです。\n<br>チームの名前やユニフォームを設定したり、かわいくカスタマイズできるバリエーションで選手一人ひとりを設定したり、自分だけのオリジナルチームを作ることができます。ローカルプレイとダウンロードプレイに対応しており、通信対戦プレイも楽しめます。",
-    "name": "ARC STYLE: 女子サッカー!!3D",
+    "release_date_on_eshop": "2012-07-25",
+    "product_code": "CTR-N-JNGJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "スポーツ",
         "アクション"
@@ -24,7 +20,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.3.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

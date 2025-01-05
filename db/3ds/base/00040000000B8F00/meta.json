@@ -1,17 +1,13 @@
 {
-    "uid": "50010000012860",
     "tid": "00040000000B8F00",
-    "product_code": "CTR-N-JGCE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-01-03",
+    "uid": "50010000012860",
+    "name": "Gunman Clive",
     "formal_name": "Gunman Clive",
     "description": "In the year of 18XX, the west is overrun by thugs and outlaws. A group of bandits have kidnapped Mayor Johnsons daughter and are spreading havoc across the land. Only Gunman Clive can bring order to the west and save the girl! \n<br><p>\n<br>Jump and shoot your way across diverse and challenging levels and fight massive bosses. Gunman Clive is an old-school sidescrolling platform game set in the old west with full 3D graphics and a unique artstyle.  Bring out your inner cowboy and get ready for some real gunslinger action.\n<br>\n<br>",
-    "name": "Gunman Clive",
+    "release_date_on_eshop": "2013-01-03",
+    "product_code": "CTR-N-JGCE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Action"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v1.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

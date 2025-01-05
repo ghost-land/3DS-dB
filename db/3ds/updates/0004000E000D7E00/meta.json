@@ -1,24 +1,24 @@
 {
-    "uid": "50010000021253",
     "tid": "0004000E000D7E00",
-    "product_code": "CTR-U-JNUP",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-03-14",
+    "uid": "50010000021253",
+    "name": "Steel Diver™: Sub Wars:\nUpdate",
     "formal_name": "Steel Diver™: Sub Wars:\nUpdate",
     "description": "An update for \"Steel Diver™: Sub\nWars\" is now available from Nintendo\neShop.\n<br/><br/>\nAll customers who own a copy of\n“Steel Diver™: Sub Wars” should\ndownload the update.\n<br/><br/>\nThis will update the software to\nVersion 4.1 with the following\namendments:\n<br/><br/>\n- Reverts the angle at which\nsubmarines surface to their Version\n3.0 status.",
-    "name": "Steel Diver™: Sub Wars:\nUpdate",
+    "release_date_on_eshop": "2014-03-14",
+    "product_code": "CTR-U-JNUP",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Update Data",
         "Other"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v5.5.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

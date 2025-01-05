@@ -1,17 +1,13 @@
 {
-    "uid": "50010000031175",
     "tid": "0004000000136D00",
-    "product_code": "CTR-P-ARAP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-03-27",
+    "uid": "50010000031175",
+    "name": "Inazuma Eleven® GO\nChrono Stone: Thunderflash",
     "formal_name": "Inazuma Eleven® GO\nChrono Stone: Thunderflash",
     "description": "In this huge football RPG, the player\nstars as a young schoolboy, Arion\nSherwind, who discovers football has\nbeen erased from existence by an evil\norganisation from the future! Recruit\nthe ultimate squad, travel through\ntime, and win matches against rivals\nto rediscover Arion's friends, and\nrestore football to its former glory in\nInazuma Eleven GO Chrono Stones:\nThunderflash on Nintendo 3DS and\n2DS!",
-    "name": "Inazuma Eleven® GO\nChrono Stone: Thunderflash",
+    "release_date_on_eshop": "2015-03-27",
+    "product_code": "CTR-P-ARAP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "RPG",
         "Sports"
@@ -30,7 +26,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000042275",
     "tid": "0004000E001AF100",
-    "product_code": "CTR-U-JL6J",
-    "platform_name": "更新データ",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-01-11",
+    "uid": "50010000042275",
+    "name": "更新データ Ver. 1.1 新\nみんなの塗り絵 Little Twin Stars",
     "formal_name": "更新データ Ver. 1.1\n新みんなの塗り絵 Little Twin Stars",
     "description": "『新みんなの塗り絵 Little Twin Stars』の更新データです。\nお手数ですがダウンロードをお願いいたします。\n・作品を交互に通信した場合、予期せぬ作品の送信やクラッシュが起こる\n・JPEGデータを連続して受け取った際、クラッシュが起こる\n・細部のレイアウト、演出\n以上が修正されます。",
-    "name": "更新データ Ver. 1.1 新\nみんなの塗り絵 Little Twin Stars",
+    "release_date_on_eshop": "2017-01-11",
+    "product_code": "CTR-U-JL6J",
+    "platform_name": "更新データ",
+    "region": "Japan",
     "genres": [
         "更新データ"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "ニンテンドー3DSソフト『新みんなの塗り絵 Little Twin Stars』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.2.1",
-    "region": "Japan"
+    "disclaimer": "ニンテンドー3DSソフト『新みんなの塗り絵 Little Twin Stars』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000020553",
     "tid": "000400000006CD00",
-    "product_code": "CTR-P-AJQP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-02-27",
+    "uid": "50010000020553",
+    "name": "Jewel Quest Mysteries 3 -\nThe Seventh Gate",
     "formal_name": "Jewel Quest Mysteries 3 -\nThe Seventh Gate",
     "description": "Join Rupert and Emma in Jewel Quest\nMysteries as they traverse the ruins of\nancient Egypt! Mystery reigns and\nonly a keen eye can help you.\nDiscover hidden objects and secret\ngems while playing classic Jewel\nQuest as between level\nmini-games! Jewel Quest Mysteries\nCurse of the Emerald Tear",
-    "name": "Jewel Quest Mysteries 3 -\nThe Seventh Gate",
+    "release_date_on_eshop": "2014-02-27",
+    "product_code": "CTR-P-AJQP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Board Game"
@@ -27,7 +23,11 @@
         "Italian",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

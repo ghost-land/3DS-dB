@@ -1,17 +1,13 @@
 {
-    "uid": "50010000011888",
     "tid": "0004000000091300",
-    "product_code": "CTR-N-ATQJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000011888",
+    "name": "大盛り! いきものづくり\nクリエイトーイ",
     "formal_name": "大盛り! いきものづくり クリエイトーイ",
     "description": "【このソフトは配信を停止しています。】<br>\n<br>\nお絵かき感覚でいろいろな形を組み合わせ、\"クニャペ\"と呼ばれる自分だけのキャラクターを作って遊ぶ、『いきものづくり クリエイトーイ』が内容盛りだくさんになって新たに登場。\n<br>これまでの遊びに加えて、新たにダンジョンを冒険できるようになったり、みんなで楽しめるモードが追加されるなど、さらに遊びの幅が広がりました。",
-    "name": "大盛り! いきものづくり\nクリエイトーイ",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "CTR-N-ATQJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "ロールプレイング"
@@ -25,7 +21,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

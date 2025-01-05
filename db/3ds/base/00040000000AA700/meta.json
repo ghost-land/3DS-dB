@@ -1,17 +1,13 @@
 {
-    "uid": "50010000019574",
     "tid": "00040000000AA700",
-    "product_code": "CTR-N-AHRJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-02-27",
+    "uid": "50010000019574",
+    "name": "カセキホリダー ムゲンギア",
     "formal_name": "カセキホリダー ムゲンギア",
     "description": "カセキを発掘し、復活させた恐竜でバトルするRPG。「カセキモービル」で道なき道を駆け巡り、カセキを求めて冒険します。カセキを発見したら、車に搭載された装備を生かしてカセキ発掘。きれいに発掘すればするほど、蘇る恐竜も強くなります。バトルで恐竜を育てながら最強のカセキホリダーを目指します。",
-    "name": "カセキホリダー ムゲンギア",
+    "release_date_on_eshop": "2014-02-27",
+    "product_code": "CTR-N-AHRJ",
+    "platform_name": "3DSカード/ダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング"
     ],
@@ -26,7 +22,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

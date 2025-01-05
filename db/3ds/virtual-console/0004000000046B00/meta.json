@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007032",
     "tid": "0004000000046B00",
-    "product_code": "CTR-N-RAQE",
-    "platform_name": "Game Boy",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "1991-09",
+    "uid": "50010000007032",
+    "name": "Fortified Zone",
     "formal_name": "Fortified Zone",
     "description": "Originally released in 1991, this popular action game allowed two characters to be used alternately. Now making its debut on the Nintendo eShop, Fortified Zone brings 4 multi-room levels of heavy-fire and explosions, as well as the mode \"Sound Boy\" where you can listen to the music tracks outside of the action!\n<br><br>\nEnemy forces have created a gigantic fortress in a critical zone, and reports have been coming in that they are developing a powerful secret weapon! Secret agents Masato Kanzaki and Mizuki Makimura have been dispatched to infiltrate the fortress, and venture to the heart of the complex to destroy it. Masato and Mizuki each have their own abilities, so they will need to tag-team their way to breach the enemies' defenses.\n<br><br>\nJoin these two in their mission through the Fortified Zone, and destroy the threat!",
-    "name": "Fortified Zone",
+    "release_date_on_eshop": "1991-09",
+    "product_code": "CTR-N-RAQE",
+    "platform_name": "Game Boy",
+    "region": "North America",
     "genres": [
         "Action",
         "Shooter"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v1.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

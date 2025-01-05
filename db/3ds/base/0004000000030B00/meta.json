@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000082",
     "tid": "0004000000030B00",
-    "product_code": "CTR-N-ADAJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-01-30",
+    "uid": "50010000000082",
+    "name": "nintendogs + cats\n柴 & Newフレンズ",
     "formal_name": "nintendogs + cats\n柴 & Newフレンズ",
     "description": "ニンテンドー3DSの3D映像で見る子犬や子猫たちは、手を伸ばせば届きそうなほど。\n<br>ふれあうほどに仲良くなれる子犬や子猫と、おもちゃで遊んだり、お散歩にでかけたり、ときにはしつけをしてみたり……。<br>「nintendogs + cats」では、子犬や子猫たちとのそんな日々の生活を楽しむことができます。\n<br>ニンテンドー3DSで、子犬や子猫との新しい暮らしをはじめてみませんか?",
-    "name": "nintendogs + cats\n柴 & Newフレンズ",
+    "release_date_on_eshop": "2013-01-30",
+    "product_code": "CTR-N-ADAJ",
+    "platform_name": "3DSカード/ダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "コミュニケーション"
     ],
@@ -25,7 +21,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.2.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

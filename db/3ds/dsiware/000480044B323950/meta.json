@@ -1,17 +1,13 @@
 {
-    "uid": "50010000027595",
     "tid": "000480044B323950",
-    "product_code": "TWL-N-K29P",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-11-13",
+    "uid": "50010000027595",
+    "name": "Fishdom",
     "formal_name": "Fishdom",
     "description": "Fishdom - the amazingly addictive\nand popular match 3 game!\n<br/><br/>\nThrilling maritime-themed puzzles\nawait you in a beautiful underwater\nworld.\n<br/><br/>\nPlaying in your own customizable\naquarium, complete countless tricky\nmatch 3 levels to earn new fish,\nawesome underwater decorations,\nfood dispensers and much more.\n<br/><br/>\n- Classic, highly-addictive match 3\ngameplay\n<br/><br/>\n- Over 100 unlockable bonuses and\naccessories\n<br/><br/>\n- Build the aquarium of your dreams\nand win various trophies",
-    "name": "Fishdom",
+    "release_date_on_eshop": "2014-11-13",
+    "product_code": "TWL-N-K29P",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Strategy",
@@ -24,7 +20,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

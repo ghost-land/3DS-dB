@@ -1,23 +1,23 @@
 {
-    "uid": "50010000018737",
     "tid": "0004000E00102600",
-    "product_code": "CTR-U-AY9P",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-12-11",
+    "uid": "50010000018737",
+    "name": "Adventure Time™:\nETDBIDK Update",
     "formal_name": "Adventure Time™:\nETDBIDK Update",
     "description": "This update for your Adventure Time:\nExplore the Dungeon Because I DON'T\nKNOW! game contains several\nimprovements and fixes offering an\nenhanced gameplay experience. In\naddition, it addresses issues that\nusers might encounter toward the end\nof the game. ",
-    "name": "Adventure Time™:\nETDBIDK Update",
+    "release_date_on_eshop": "2013-12-11",
+    "product_code": "CTR-U-AY9P",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Update Data"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

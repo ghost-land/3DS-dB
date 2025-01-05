@@ -1,17 +1,13 @@
 {
-    "uid": "50010000029815",
     "tid": "00040000000FBB00",
-    "product_code": "CTR-P-AYFP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-01-29",
+    "uid": "50010000029815",
+    "name": "Best of Board Games",
     "formal_name": "Best of Board Games",
     "description": "Chess, Mah-jong, Solitaire:\nrediscover 3 timeless classics in this\nscintillating compilation!\n<br/><br/>\nWhether you're a beginner or a\nprofessional, you'll enjoy these\nclassics, not only with their traditional\nrules but also with brand new game\nmodes.\n<br/><br/>\nCheck the game rules at any time and\ntest your abilities in Adventure Mode\nwith lots of challenges to take up!",
-    "name": "Best of Board Games",
+    "release_date_on_eshop": "2015-01-29",
+    "product_code": "CTR-P-AYFP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Board Game"
     ],
@@ -24,7 +20,11 @@
         "Italian",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

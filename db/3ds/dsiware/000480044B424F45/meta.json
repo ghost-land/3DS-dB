@@ -1,17 +1,13 @@
 {
-    "uid": "50010000001641",
     "tid": "000480044B424F45",
-    "product_code": "TWL-N-KBOE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2009-12-07",
+    "uid": "50010000001641",
+    "name": "Ball Fighter",
     "formal_name": "Ball Fighter",
     "description": "Ball Fighter is a puzzle game where you take aim and blast groups of dropping spheres to create matches and clear the board. You can make chains to receive additional points or to make a game more difficult for an opponent. When you destroy spheres in a Multi-player mode, they will be added to the opponent’s board making his task more difficult. On a board you can find special bonuses like a Brush, a Rocket Launcher or a Bomb which can be used to destroy spheres or to paint a line of them with the same color. Try also variety of modes (Arcade, Survival, Brain Breaker, Player vs CPU) for a single player and the unique Multi-player mode played on one Nintendo DSi system!\n\n\n",
-    "name": "Ball Fighter",
+    "release_date_on_eshop": "2009-12-07",
+    "product_code": "TWL-N-KBOE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Arcade",
         "Puzzle",
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

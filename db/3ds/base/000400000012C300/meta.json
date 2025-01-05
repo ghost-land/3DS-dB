@@ -1,17 +1,13 @@
 {
-    "uid": "50010000028876",
     "tid": "000400000012C300",
-    "product_code": "CTR-N-JVMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-12-25",
+    "uid": "50010000028876",
+    "name": "Best of Mahjong",
     "formal_name": "Best of Mahjong",
     "description": "Relax your mind with the ancient\ngame of tiles.\n<br/><br/>\n\"Best of Mahjong\" features 404\nlayouts of the traditional tile-matching\ngame in 3D, each with millions of\ndifferent shuffles to play. The game's\nstyle and interface has been designed\nfor easy and intuitive operation with\nthe Nintendo 3DS stylus or +Control\nPad.\n<br/><br/>\nThe graphics can be customized with\nfabulous tile-sets and backgrounds.\nSit back, relax and enjoy the endless\nchallenge with this Mahjong game\ncollection.",
-    "name": "Best of Mahjong",
+    "release_date_on_eshop": "2014-12-25",
+    "product_code": "CTR-N-JVMP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Board Game",
@@ -28,7 +24,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

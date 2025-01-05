@@ -1,17 +1,13 @@
 {
-    "uid": "50010000010078",
     "tid": "000400000005A100",
-    "product_code": "CTR-N-JPBJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-04-25",
+    "uid": "50010000010078",
+    "name": "ARC STYLE: 三国志Pinball",
     "formal_name": "ARC STYLE: 三国志Pinball",
     "description": "あの三国志の世界を舞台にしたピンボールゲームがニンテンドー3DSに登場!\n<br>従来のピンボールゲームの型を突き破り、猛将との戦闘あり、レベルあり、必殺技あり、三国志の戦いを元にしたイベントありの、やり込み要素たっぷりのアクションピンボールゲームとなっています。\n<br>モードも、ステージを進めていく「Standard」のほか、「Standard」で戦った三国時代の猛将たちと一騎討ちできる「Boss Attack」、開放したイベントや武将の情報を閲覧できる「Library」など多彩に用意。\n<br>また、ネットワーク対応の「Ranking」も搭載。腕を磨きあげて、全国の猛者たちとランクを競え!",
-    "name": "ARC STYLE: 三国志Pinball",
+    "release_date_on_eshop": "2012-04-25",
+    "product_code": "CTR-N-JPBJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "その他"
@@ -24,7 +20,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

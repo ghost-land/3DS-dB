@@ -1,17 +1,13 @@
 {
-    "uid": "50010000029615",
     "tid": "0004000000141000",
-    "product_code": "CTR-N-KRXA",
-    "platform_name": "Nintendo 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-02-18",
+    "uid": "50010000029615",
+    "name": "Pokémon™ Shuffle",
     "formal_name": "Pokémon™ Shuffle",
     "description": "Prepare for exciting puzzle action in\nPokémon Shuffle, available to\ndownload from Nintendo eShop on\nNintendo 3DS and 2DS! In Pokémon\nShuffle, your goal is to clear various\nstages by lining up the same Pokémon\nand clearing these matches from the\npuzzle area. Within each puzzle stage,\nyou can deal damage to the wild\nPokémon you face by lining up three\nof the same Pokémon to clear them.\nBattle and try to catch the Pokémon\nbefore you run out of moves!",
-    "name": "Pokémon™ Shuffle",
+    "release_date_on_eshop": "2015-02-18",
+    "product_code": "CTR-N-KRXA",
+    "platform_name": "Nintendo 3DS (Download)",
+    "region": "Region Free",
     "genres": [
         "Puzzle"
     ],
@@ -27,7 +23,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": "Offers in-game purchases.",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v5.6.0",
-    "region": "Region Free"
+    "disclaimer": "Offers in-game purchases.",
+    "descriptors": []
 }

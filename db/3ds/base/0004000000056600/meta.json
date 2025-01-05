@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007992",
     "tid": "0004000000056600",
-    "product_code": "CTR-P-AP2J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000007992",
+    "name": "ぷよぷよ!!",
     "formal_name": "ぷよぷよ!!",
     "description": "国民的アクションパズル「ぷよぷよ」20周年記念作。「ぷよ通」「フィーバー」「ぷよSUN」などの定番に、新作を加えた全15種類のルールを収録。フルボイスの「ストーリー」では総勢24名のキャラクターが登場。初心者も安心の「がっこう」や「ショップ」など、やりこみ要素もいっぱい。全国のライバルとのネット対戦や2対2のペアで協力する新モード「ペアでぷよぷよ」も楽しめます。",
-    "name": "ぷよぷよ!!",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AP2J",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "パズル",
         "アクション"
@@ -26,7 +22,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

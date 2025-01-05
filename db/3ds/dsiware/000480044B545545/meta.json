@@ -1,17 +1,13 @@
 {
-    "uid": "50010000003570",
     "tid": "000480044B545545",
-    "product_code": "TWL-N-KTUE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2010-03-29",
+    "uid": "50010000003570",
+    "name": "Nintendo DSi™ Instrument\nTuner",
     "formal_name": "Nintendo DSi™ Instrument Tuner",
     "description": "The Nintendo DSi Instrument Tuner software can be used to tune an instrument by aligning tonal pitches. The software offers two methods of handling this: feeding sounds into the microphone to measure the difference with a target pitch or listening to a sample tone. In addition, the standard musical pitch and notation can be changed, as well as the design of the tuner (choose one of three designs). And if you’re feeling especially in-tune, test your ear by taking on the Tuner Fight minigame’s challenge: balloons with notes on them rise from pipes, and can only be popped by making a tone that matches the pitch shown.",
-    "name": "Nintendo DSi™ Instrument\nTuner",
+    "release_date_on_eshop": "2010-03-29",
+    "product_code": "TWL-N-KTUE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Other"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

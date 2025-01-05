@@ -1,17 +1,13 @@
 {
-    "uid": "50010000024195",
     "tid": "000400000014C400",
-    "product_code": "CTR-N-KXCJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-06-15",
+    "uid": "50010000024195",
+    "name": "スマブラコントローラー",
     "formal_name": "スマブラコントローラー",
     "description": "ニンテンドー3DSシリーズ本体を、『大乱闘スマッシュブラザーズ for Wii U』のコントローラーとして使えるようになるソフトです",
-    "name": "スマブラコントローラー",
+    "release_date_on_eshop": "2015-06-15",
+    "product_code": "CTR-N-KXCJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "その他"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "『大乱闘スマッシュブラザーズ for Wii U』だけをお持ちの方向けのソフトです。\n<br>・『大乱闘スマッシュブラザーズ for Wii U』をお持ちでない方\n<br>・すでに『大乱闘スマッシュブラザーズ for ニンテンドー3DS』をお持ちの方\n<br>上記の方は、本ソフトを購入いただく必要はありません。\n<br>\n<br>※本ソフトはゲームではありません。\n<br>※ニンテンドー3DSシリーズ本体をコントローラーとして使えるのは「大乱闘」モードのみです。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "『大乱闘スマッシュブラザーズ for Wii U』だけをお持ちの方向けのソフトです。\n<br>・『大乱闘スマッシュブラザーズ for Wii U』をお持ちでない方\n<br>・すでに『大乱闘スマッシュブラザーズ for ニンテンドー3DS』をお持ちの方\n<br>上記の方は、本ソフトを購入いただく必要はありません。\n<br>\n<br>※本ソフトはゲームではありません。\n<br>※ニンテンドー3DSシリーズ本体をコントローラーとして使えるのは「大乱闘」モードのみです。",
+    "descriptors": []
 }

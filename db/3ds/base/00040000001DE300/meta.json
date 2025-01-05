@@ -1,17 +1,13 @@
 {
-    "uid": "50010000048615",
     "tid": "00040000001DE300",
-    "product_code": "CTR-N-L74E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2020-06-25",
+    "uid": "50010000048615",
+    "name": "JACK AND JANE",
     "formal_name": "JACK AND JANE JUNGLE ESCAPE",
     "description": "JACK AND JANE JUNGLE ESCAPE is a platform game in which we will have to flee from the police through a dangerous jungle. An endless corridor with a colorful visual style where the game will end when we collide and the law enforcement officer catches us.",
-    "name": "JACK AND JANE",
+    "release_date_on_eshop": "2020-06-25",
+    "product_code": "CTR-N-L74E",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Action",
         "Adventure",
@@ -23,7 +19,11 @@
         "English",
         "Spanish"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

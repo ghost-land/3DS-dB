@@ -1,17 +1,13 @@
 {
-    "uid": "50010000021013",
     "tid": "0004000000110A00",
-    "product_code": "CTR-N-JUNJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-03-12",
+    "uid": "50010000021013",
+    "name": "黒子スタイル",
     "formal_name": "黒子スタイル",
     "description": "自動スクロールでせまる足場を飛び越えましょう。「スタイル」はスイマを倒すほどにレベルアップします。\n<br>「復活」や「速さの変化」･「ジュエル獲得率UP」など黒子が「スタイル」を身に着けることでページ(ステージ)の難易度が変化いたします。「スタイル」合わせは忘れずに!\n<br>\n<br>一度クリアしたステージも、足場が動くムズッ!モードで長くお楽しみいただけます。",
-    "name": "黒子スタイル",
+    "release_date_on_eshop": "2014-03-12",
+    "product_code": "CTR-N-JUNJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "音楽"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

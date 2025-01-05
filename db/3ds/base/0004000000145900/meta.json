@@ -1,17 +1,13 @@
 {
-    "uid": "50010000028955",
     "tid": "0004000000145900",
-    "product_code": "CTR-N-KDCJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-12-24",
+    "uid": "50010000028955",
+    "name": "プチノベル「収斂の十二月」",
     "formal_name": "プチノベル「収斂の十二月」",
     "description": "『プチノベル「収斂の十二月」』は、\n<br>神の住まう町･多紙町で暮らす高校生、\n<br>紺野柾木とその仲間達が過ごす12月のできごとを描いたビジュアルノベルゲームです。\n<br>\n<br>11月の事件以来、バラバラになってしまった仲間たち。\n<br>一年の終わりを迎えようとする時、\n<br>柾木は失ったものを全て取り戻すべく、最大の勝負にでる。\n<br>\n<br>【収穫の十二月】シリーズ最終章、いよいよクライマックスへ。",
-    "name": "プチノベル「収斂の十二月」",
+    "release_date_on_eshop": "2014-12-24",
+    "product_code": "CTR-N-KDCJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アドベンチャー"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

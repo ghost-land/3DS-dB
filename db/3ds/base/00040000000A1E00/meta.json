@@ -1,17 +1,13 @@
 {
-    "uid": "50010000011771",
     "tid": "00040000000A1E00",
-    "product_code": "CTR-P-AD8J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000011771",
+    "name": "ちび☆デビ!",
     "formal_name": "ちび☆デビ!",
     "description": "少女まんが誌『ちゃお』で人気の『ちび☆デビ!』が、ニンテンドー3DSでゲームになりました!\n<br>着ぐるみを着替えるとアクションの変わるまおちゃんを操作して、数々のミニゲームをクリアしましょう。時にはクリアのために着ぐるみを探さなければならないことも!\n<br>クリア後も、さらに着ぐるみを集めてミニゲームに再チャレンジできます。着ぐるみコンプをめざしましょう。",
-    "name": "ちび☆デビ!",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AD8J",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "アドベンチャー",
         "アクション"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

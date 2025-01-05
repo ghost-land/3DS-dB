@@ -1,17 +1,13 @@
 {
-    "uid": "50010000011490",
     "tid": "000480044B585350",
-    "product_code": "TWL-N-KXSP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000011490",
+    "name": "Escape the Virus:\nShoot'Em Up!",
     "formal_name": "Escape the Virus:\nShoot'Em Up!",
     "description": "The battle for micro-world domination\nisn’t over yet! Escape the Virus, an\naction puzzle series, is back with new\nmodes. In the 'shooter mode' shoot\ndown hordes of vicious viruses, while\nin the 'territory mode' prevent enemies\nfrom getting too close to certain\nzones. Get into the ultimate warfare\nand kick viruses out of the\nmicro-world for good!",
-    "name": "Escape the Virus:\nShoot'Em Up!",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KXSP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Action",
         "Shooter",
@@ -26,7 +22,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

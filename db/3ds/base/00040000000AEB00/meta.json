@@ -1,17 +1,13 @@
 {
-    "uid": "50010000012386",
     "tid": "00040000000AEB00",
-    "product_code": "CTR-N-AKGP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000012386",
+    "name": "Virtue's Last Reward",
     "formal_name": "Virtue's Last Reward",
     "description": "Will you choose to ally, or to\nbetray? Solve the puzzles and\nuncover the mysteries as you discover\nyour own morality, with 24 captivating\nendings! There is Zero Escape!",
-    "name": "Virtue's Last Reward",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "CTR-N-AKGP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Adventure"
@@ -22,7 +18,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "16"
+    },
     "version": "v1.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

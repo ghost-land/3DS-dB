@@ -1,17 +1,13 @@
 {
-    "uid": "50010000042838",
     "tid": "00040000001C4700",
-    "product_code": "CTR-N-KX5J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-07-05",
+    "uid": "50010000042838",
+    "name": "ザ・ゲーム１５　Vol２",
     "formal_name": "ザ・ゲーム１５　Vol２",
     "description": "いろいろなタイプのゲームが１５種類も楽しめるゲーム集の第２弾！\n<br>\n<br>シンプルな操作で子供から大人まで男女の性別も関係なく、だれでも楽しめるミニゲーム集です。\n<br>プレイヤーの飽きがこないようにタイプの違うミニゲームを、前作からすべて入れ替えて、新たに１５種類用意しました。\n<br>\n<br>子供から大人まで男女の性別も関係なく、シンプルな操作でだれでも楽しめるミニゲーム集です。\n<br>\n<br>電車や車での移動の間や学校や仕事の休憩時間など、ちょっとした気軽にゲームをプレイできます。\n<br>現代の忙しいライフスタイルにマッチするゲームを目指しています。",
-    "name": "ザ・ゲーム１５　Vol２",
+    "release_date_on_eshop": "2017-07-05",
+    "product_code": "CTR-N-KX5J",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "テーブル"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000037596",
     "tid": "0004000000180600",
-    "product_code": "CTR-N-KQMJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-10-21",
+    "uid": "50010000037596",
+    "name": "謎解きメイズからの脱出",
     "formal_name": "謎解きメイズからの脱出",
     "description": "このゲームの目的は、閉じ込められた迷宮(メイズ)から脱出することです。\n<br>ステージ内のさまざまなヒントから謎を解き、ロックされたドアを開けて各ステージを攻略していきます。\n<br>全部で60ステージの謎を解こう!",
-    "name": "謎解きメイズからの脱出",
+    "release_date_on_eshop": "2015-10-21",
+    "product_code": "CTR-N-KQMJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アドベンチャー",
         "パズル"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

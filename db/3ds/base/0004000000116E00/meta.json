@@ -1,17 +1,13 @@
 {
-    "uid": "50010000018573",
     "tid": "0004000000116E00",
-    "product_code": "CTR-N-JWLE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-12-12",
+    "uid": "50010000018573",
+    "name": "Life with Horses 3D",
     "formal_name": "Life with Horses 3D",
     "description": "Renovate the stables, riding arena and guesthouse, take loving care of your horses and breed cute foals. Ride at full gallop in exciting cross-country races and master the most amazing jumps.\n<br>\n<br>Fantastic 3D graphics will guarantee lots of fun with your favourite animals.\n<br>Demonstrate your skills in grooming, lunging and taking care of your horse.\n<br>Breed your own foals, with over 100 possible combinations.\n<br>Enjoy thrilling cross-country races through amazing landscapes.\n<br>Collect Nintendo Playcoins and employ someone to perform tasks for you.\n<br>Use the Nintendo 3DS™ motion controls to experience riding, grooming, and training foals first hand\n<br>StreetPass: Meet other players to breed more cute foals.",
-    "name": "Life with Horses 3D",
+    "release_date_on_eshop": "2013-12-12",
+    "product_code": "CTR-N-JWLE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Simulation",
         "Strategy",
@@ -26,7 +22,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

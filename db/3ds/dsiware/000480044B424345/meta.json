@@ -1,17 +1,13 @@
 {
-    "uid": "50010000001182",
     "tid": "000480044B424345",
-    "product_code": "TWL-N-KBCE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2009-07-13",
+    "uid": "50010000001182",
+    "name": "Brain Challenge®",
     "formal_name": "Brain Challenge®",
     "description": "Just like your body, your brain needs exercise to stay in shape!\n\nBrain Challenge is a simple, entertaining solution for stimulating your neurons that goes way beyond logic tests. Thanks to a complete range of 48 mini-games, Brain Challenge provides an exceptional variety of exercises. Not only can you train your brain for Math but also for 4 other categories: Logic, Focus, Memory and Visual!  Plus an original Stress Mode, featuring multitasking and authority challenges.\n\nPlus, you can now personalize your profile and some exercises with your own photos!\n\n",
-    "name": "Brain Challenge®",
+    "release_date_on_eshop": "2009-07-13",
+    "product_code": "TWL-N-KBCE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Puzzle",
         "Other"
@@ -22,7 +18,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "This game includes some content from \nBrain Challenge previously released for Nintendo DS.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "This game includes some content from \nBrain Challenge previously released for Nintendo DS.",
+    "descriptors": []
 }

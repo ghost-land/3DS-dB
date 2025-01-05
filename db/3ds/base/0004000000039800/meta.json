@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000161",
     "tid": "0004000000039800",
-    "product_code": "CTR-P-A78J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000000161",
+    "name": "GUNDAM THE 3D BATTLE",
     "formal_name": "GUNDAM THE 3D BATTLE",
     "description": "■劇場版『機動戦士ガンダム』『機動戦士Ｚガンダム』『機動戦士ガンダム 逆襲のシャア』の物語を再現! \n<br>オリジナルパイロットの作成は勿論、機体のカスタマイズやキャラの育成も可能! \n<br>奥行き感のあるマップ、戦闘シーンは大迫力の演出! \n<br>さらに『機動戦士ガンダムUC』から、ユニコーンガンダムとシナンジュがゲスト参戦! すれちがい通信でパイロットデータを交換できる! \n<br>\n<br>宇宙世紀のガンダムを操り、新たなる3Dの戦場へ出撃せよ!",
-    "name": "GUNDAM THE 3D BATTLE",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-A78J",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "アクション"
     ],
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

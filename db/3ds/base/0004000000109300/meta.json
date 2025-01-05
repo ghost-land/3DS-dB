@@ -1,17 +1,13 @@
 {
-    "uid": "50010000020913",
     "tid": "0004000000109300",
-    "product_code": "CTR-P-BSMP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-03-12",
+    "uid": "50010000020913",
+    "name": "Shanghai Mahjong",
     "formal_name": "Shanghai Mahjong",
     "description": "Bamboos, Circles, Winds, Dragons:\nassemble splendid 3D tiles by\ntraditional colour and clear the\nplaying area to win!\n<br/><br/>\n- 5 game modes\n<br/><br/>\n- The authentic Shanghai Mahjong\ngame on your Nintendo 3DS™\n<br/><br/>\n- A Time Attack mode so you can\nbreak all the records!",
-    "name": "Shanghai Mahjong",
+    "release_date_on_eshop": "2015-03-12",
+    "product_code": "CTR-P-BSMP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Board Game"
     ],
@@ -26,7 +22,11 @@
         "Italian",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

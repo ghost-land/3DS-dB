@@ -1,17 +1,13 @@
 {
-    "uid": "50010000025576",
     "tid": "0004000E0011C400",
-    "product_code": "CTR-U-ECRA",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-11-25",
+    "uid": "50010000025576",
+    "name": "Pokémon™ Omega Ruby:\nUpdate",
     "formal_name": "Pokémon™ Omega Ruby:\nUpdate",
     "description": "An update for Pokémon™ Omega\nRuby is now available from\nNintendo eShop.\n<br/><br/>\nThis will update the software to\nVersion 1.4 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\nOnce the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.\n<br/><br/>\nPlease note that Pokémon™ Alpha\nSapphire cannot be updated using this\ndata and you have to download the\nupdate data for Pokémon™ Alpha\nSapphire separately.",
-    "name": "Pokémon™ Omega Ruby:\nUpdate",
+    "release_date_on_eshop": "2014-11-25",
+    "product_code": "CTR-U-ECRA",
+    "platform_name": "Update Data",
+    "region": "Region Free",
     "genres": [
         "Update Data"
     ],
@@ -23,7 +19,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v7.7.0",
-    "region": "Region Free"
+    "disclaimer": null,
+    "descriptors": []
 }

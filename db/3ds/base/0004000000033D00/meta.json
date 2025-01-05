@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000211",
     "tid": "0004000000033D00",
-    "product_code": "CTR-P-AS3P",
-    "platform_name": "Nintendo 3DS (Card)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000000211",
+    "name": "The Sims™ 3",
     "formal_name": "The Sims™ 3",
     "description": "For the first time ever, enjoy a\ncomplete life simulation experience in\n3D on handheld with The Sims 3 for\nNintendo 3DS. From the creators of\nthe world's most popular life simulator\nfranchise, The Sims 3 is now\nmaximised for a fully 3D world.<br>\n<br>\nCreate Sims, the characters unique to\nThe Sims franchise, with unique\npersonalities, fulfil their desires and\ncontrol their lives within a living\nneighbourhood. Unlock new Karma\nPowers with Karma Points and unleash\namazing effects on your Sims. As you\nguide your Sims through life, you'll\nbuild relationships and experience\ndifferent careers like Criminal, Athlete\nor Musician to unlock new items,\noutfits and various rewards. Share\nyour Sims with other Nintendo 3DS\nowners using StreetPass.",
-    "name": "The Sims™ 3",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AS3P",
+    "platform_name": "Nintendo 3DS (Card)",
+    "region": "Europe",
     "genres": [
         "Strategy"
     ],
@@ -26,7 +22,11 @@
         "Italian",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

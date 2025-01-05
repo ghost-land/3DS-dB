@@ -1,17 +1,13 @@
 {
-    "uid": "50010000028615",
     "tid": "0004000000141900",
-    "product_code": "CTR-N-BLGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-12-11",
+    "uid": "50010000028615",
+    "name": "I Love My Little Girl",
     "formal_name": "I Love My Little Girl",
     "description": "Play with the baby of your dreams!\n<br><br>\nHair, face, clothes... Choose the baby of your dreams and discover lots of ways to look after her the way you want: preparing meals, dressing up in different outfits, bathing, playing, going for walks...\n<br><br>\nUnlock new, even more adorable outfits for your toddler.\nCute and colourful graphics with 3D babies\nYour baby laughs and cries just like a real one!",
-    "name": "I Love My Little Girl",
+    "release_date_on_eshop": "2014-12-11",
+    "product_code": "CTR-N-BLGE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Adventure"
     ],
@@ -23,7 +19,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

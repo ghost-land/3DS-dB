@@ -1,17 +1,13 @@
 {
-    "uid": "50010000043915",
     "tid": "000400000F70D500",
-    "product_code": "KTR-N-CB2E",
-    "platform_name": "New 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-10-19",
+    "uid": "50010000043915",
+    "name": "GALAXY BLASTER CODE RED",
     "formal_name": "GALAXY BLASTER CODE RED",
     "description": "In GALAXY BLASTER CODE RED, you must defend your ship from the oncoming alien ships. Move your paddle left or right then tap the screen to fire the blaster. Be careful, if the target enters your base, or you miss the targets too many times, it's game over!",
-    "name": "GALAXY BLASTER CODE RED",
+    "release_date_on_eshop": "2017-10-19",
+    "product_code": "KTR-N-CB2E",
+    "platform_name": "New 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Arcade",
         "Shooter",
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

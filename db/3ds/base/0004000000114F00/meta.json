@@ -1,17 +1,13 @@
 {
-    "uid": "50010000018717",
     "tid": "0004000000114F00",
-    "product_code": "CTR-N-JWCJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-12-18",
+    "uid": "50010000018717",
+    "name": "WORLD CONQUEROR 3D",
     "formal_name": "WORLD CONQUEROR 3D",
     "description": "『WORLD CONQUEROR 3D』は、第二次世界大戦を舞台とした戦争シミュレーションゲームです。<br>\n<br>\nプレイヤーは1国の指揮をとり、3つの軍隊を使って全ての敵勢力の首都を占領していきます。サイコロでバトルを行い、カードで戦略を実行するという、一見シンプルなゲームのようではありますが、国の特性とカードの選択により、戦況は多様に変化します。<br>\n<br>\nカードは全9種類。攻撃力を上げる効果をもつ戦術カードや、1度の使用で戦況をひっくり返すことができるほど強力な国独自の特殊カードなど、さまざまなカードがあります。<br><br>\nまた、このゲームでは当時の各国の特徴をなぞらえているため、国によって有利不利などが無数に存在します。軍隊の種類や国の特徴をつかみ、戦況を理解することが勝利への必要条件となります。<br><br>\n複数の国が入り乱れる当時の戦況を背景に、カードとサイコロを駆使して世界征服を目指しましょう。",
-    "name": "WORLD CONQUEROR 3D",
+    "release_date_on_eshop": "2013-12-18",
+    "product_code": "CTR-N-JWCJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "シミュレーション"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

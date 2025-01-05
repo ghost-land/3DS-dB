@@ -1,17 +1,13 @@
 {
-    "uid": "50010000023195",
     "tid": "000400000012CD00",
-    "product_code": "CTR-P-ATAZ",
-    "platform_name": "Nintendo 3DS 下載",
-    "rating_system": {
-        "name": "CGSRR",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000023195",
+    "name": "ヨッシー New アイランド(日文版)",
     "formal_name": "ヨッシー New アイランド(日文版)",
     "description": "操作背著小寶寶(瑪利歐寶寶)的耀西來闖關的橫向卷軸動作遊戲。透過吃掉敵人或投擲蛋。前往拯救被綁架的路易吉寶寶。隨著遊戲進行，可以玩2人進行的小遊戲。使用鄰近主機連線遊戲或下載遊戲，能夠玩小遊戲。",
-    "name": "ヨッシー New アイランド(日文版)",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ATAZ",
+    "platform_name": "Nintendo 3DS 下載",
+    "region": "Taiwan",
     "genres": [
         "動作"
     ],
@@ -23,7 +19,11 @@
         "Nintendo Network"
     ],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CGSRR",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "Taiwan"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000033575",
     "tid": "000400000012BE00",
-    "product_code": "CTR-P-AVMP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-06-19",
+    "uid": "50010000033575",
+    "name": "Harvest Moon®:\nThe Lost Valley",
     "formal_name": "Harvest Moon®:\n<br>The Lost Valley",
     "description": "Restore the seasons and build your\n<br>farm, your way, in this farming\n<br>adventure for Nintendo 3DS family\n<br>systems! In this title, create your ideal\n<br>farm by planting seeds and caring for\n<br>animals. Explore a fully 3D world and\n<br>shape the land by digging pits, raising\n<br>mountains and creating new paths to\n<br>make your farm exactly the way you\n<br>want it. You can also trade and build\n<br>relationships with visitors to your farm\n<br>– you might even find love!",
-    "name": "Harvest Moon®:\nThe Lost Valley",
+    "release_date_on_eshop": "2015-06-19",
+    "product_code": "CTR-P-AVMP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Simulation"
     ],
@@ -25,7 +21,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

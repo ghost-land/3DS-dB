@@ -1,17 +1,13 @@
 {
-    "uid": "50010000036455",
     "tid": "000400000014F200",
-    "product_code": "CTR-P-EDHP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-10-02",
+    "uid": "50010000036455",
+    "name": "Animal Crossing™: \nHappy Home Designer",
     "formal_name": "Animal Crossing™: \nHappy Home Designer",
     "description": "In this game, put your decorating\nskills to the test and design wonderful\nhomes to suit all your favourite Animal\nCrossing characters. Listen to each\nanimal's request, pick a style and\nfinish it off with furniture to turn their\ndream home into reality.\n<br/><br/>\n<br/><br/>\nThis game may contain product\nplacement and advertising.",
-    "name": "Animal Crossing™: \nHappy Home Designer",
+    "release_date_on_eshop": "2015-10-02",
+    "product_code": "CTR-P-EDHP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Simulation"
     ],
@@ -27,7 +23,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

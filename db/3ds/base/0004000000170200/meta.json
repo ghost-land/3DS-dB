@@ -1,17 +1,13 @@
 {
-    "uid": "50010000038399",
     "tid": "0004000000170200",
-    "product_code": "CTR-N-JNYJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-11-18",
+    "uid": "50010000038399",
+    "name": "ノアの揺り籠",
     "formal_name": "ノアの揺り籠",
     "description": "地球を追われ、『ノアの揺り籠』と呼ばれる恒星間宇宙船でさまよう人類。たどり着いた赤い星で未知の兵器から一方的な攻撃を受ける。人類は生き残るため、新兵器の投入を行った。\n<br>選べる機体は軽量型、汎用型、重装備型の3種類。ミサイル、レーザー、ドローン、バリアーなど多数の装備を組み替えて、隕石やハリケーンが吹き荒れる6つのエリアを制圧せよ!",
-    "name": "ノアの揺り籠",
+    "release_date_on_eshop": "2015-11-18",
+    "product_code": "CTR-N-JNYJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "シューティング",
         "アクション"
@@ -23,7 +19,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

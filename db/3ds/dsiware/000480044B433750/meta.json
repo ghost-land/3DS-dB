@@ -1,17 +1,13 @@
 {
-    "uid": "50010000008027",
     "tid": "000480044B433750",
-    "product_code": "TWL-N-KC7P",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000008027",
+    "name": "Commando: Steel Disaster",
     "formal_name": "Commando: Steel Disaster",
     "description": "Various sectors of a military group\nreport being attacked by some of their\nown war machines and that a terrorist\norganisation led by a man named\nRattlesnake is at the centre of each\nattack. A commando and vehicle\nspecialist code-named Storm is\nassigned to enter each affected area\nand progressively stop Rattlesnake’s\nambitions.<br>\n<br>\nFeatures<br>\n<br>\n* Excellent graphics<br>\n<br>\n* Very fluent and smooth gameplay!<br>\n<br>\n* Very intense battle scenes!<br>\n<br>\n* Many interesting foes and exciting\nbosses!\n",
-    "name": "Commando: Steel Disaster",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KC7P",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Action"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.5.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

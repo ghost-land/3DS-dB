@@ -1,17 +1,13 @@
 {
-    "uid": "50010000028959",
     "tid": "0004000000140600",
-    "product_code": "CTR-N-KSTJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-01-14",
+    "uid": "50010000028959",
+    "name": "サンゴクストーリーズ天",
     "formal_name": "サンゴクストーリーズ天",
     "description": "三国時代を生きた武将たちの物語を、さまざまなアクションゲームとして体験できるドラマチックアクションゲーム!\n<br>一騎討ち、スニーキング、探索、防衛などなど、さまざまな武将たちのエピソードを体験できるぞ!\n<br>これをプレイしたら、貴方もきっと三国志のことを好きになる!",
-    "name": "サンゴクストーリーズ天",
+    "release_date_on_eshop": "2015-01-14",
+    "product_code": "CTR-N-KSTJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000010327",
     "tid": "000400000009F900",
-    "product_code": "CTR-N-JKYJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-06-06",
+    "uid": "50010000010327",
+    "name": "AZITO 3D Kyoto",
     "formal_name": "AZITO 3D Kyoto",
     "description": "『AZITO 3D Kyoto』は、2011年11月3日に発売された『AZITO 3D』には収録されていないマップ「京都」が舞台の秘密基地作成シミュレーションゲームです。\n<br>「アジト」初心者の方に安心なやさしいチュートリアルを実装しました。子供の頃に夢見た秘密基地を思うままに作り上げ、怪人やヒーロー、怪獣やロボットを開発し、基地の守りを強化してください。\n<br>京都にちなんだ京都限定ヒーローや怪人などが登場し、あなたの秘密基地を守ります。",
-    "name": "AZITO 3D Kyoto",
+    "release_date_on_eshop": "2012-06-06",
+    "product_code": "CTR-N-JKYJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "シミュレーション"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.2.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

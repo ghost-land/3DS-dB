@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000086",
     "tid": "0004000000032A00",
-    "product_code": "CTR-P-ABBJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000000086",
+    "name": "とびだす!パズルボブル 3D",
     "formal_name": "とびだす!パズルボブル 3D",
     "description": "アーケードゲームとして1994年に登場し、以来いまだに根強い人気を持つ名作パズルゲーム『パズルボブル』が3Dに生まれ変わってニンテンドー 3DSに登場します。\n<br>\n<br>カラフルなバブルをつなげて消していく人気の定番パズルに、立体を活かした「ギミックバブル」や奥行きのある画面演出を追加。さらに「とことんモード」など楽しい新機能も満載。",
-    "name": "とびだす!パズルボブル 3D",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ABBJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "パズル"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

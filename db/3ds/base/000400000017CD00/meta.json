@@ -1,17 +1,13 @@
 {
-    "uid": "50010000042401",
     "tid": "000400000017CD00",
-    "product_code": "CTR-N-KTWP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-02-16",
+    "uid": "50010000042401",
+    "name": "Tank Troopers",
     "formal_name": "Tank Troopers",
     "description": "Attention! Assemble your own colourful crew, hop inside a range of specialised tanks and roll into crazy tank warfare for up to six players in Tank Troopers.\n<br>\n<br>Operate more than 30 different tanks with intuitive controls and slog it out with the enemy in a number of expansive maps, complete with destructible environments. Perch on a faraway hill and aim through the periscope to expertly place your shots, or face your enemies head on with a frontal assault! \n<br>\n<br>This software supports up to 6\n<br>players for both Local Play and\n<br>Download Play.",
-    "name": "Tank Troopers",
+    "release_date_on_eshop": "2017-02-16",
+    "product_code": "CTR-N-KTWP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "region": "Europe",
     "genres": [
         "Action"
     ],
@@ -28,7 +24,11 @@
         "Italian",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "7"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

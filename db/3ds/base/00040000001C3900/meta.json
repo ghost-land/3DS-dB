@@ -1,17 +1,13 @@
 {
-    "uid": "50010000043038",
     "tid": "00040000001C3900",
-    "product_code": "CTR-N-KQHJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-08-24",
+    "uid": "50010000043038",
+    "name": "ドラゴンクエストⅢ\nそして伝説へ…",
     "formal_name": "ドラゴンクエストⅢ そして伝説へ…",
     "description": "1988年に発売され社会現象にまでなった、シリーズの第三作目。\n<br>キャラクターメイキングや転職、冒険の書によるセーブといった新たなシステムが導入されました。\n<br>\n<br>-ストーリー-\n<br>小国アリアハンの勇敢なる戦士・オルテガの\n<br>息子である主人公は\n<br>16歳の誕生日を迎えたある日、王様から\n<br>重大な使命を告げられる。\n<br>それは、亡きオルテガの遺志を継ぎ、\n<br>闇の国より現れた魔王・バラモスを倒すことだった。\n<br>世界を救うため旅立った主人公を待ち受けていた\n<br>驚きの運命とは……！？",
-    "name": "ドラゴンクエストⅢ\nそして伝説へ…",
+    "release_date_on_eshop": "2017-08-24",
+    "product_code": "CTR-N-KQHJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

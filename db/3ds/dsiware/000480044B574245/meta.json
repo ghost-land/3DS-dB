@@ -1,17 +1,13 @@
 {
-    "uid": "50010000003576",
     "tid": "000480044B574245",
-    "product_code": "TWL-N-KWBE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2009-06-15",
+    "uid": "50010000003576",
+    "name": "Mario™ Clock",
     "formal_name": "Mario™ Clock",
     "description": "Turn back time and enjoy a bit of classic gameplay, based on the original Super Mario Bros., with Mario Clock. Help Mario and Luigi collect more coins than ever (POW block anyone?) while they run through a variety of stages. Gather enough coins and you’ll be treated to another scene bound to bring back fond memories for many. Mario Clock includes both analog or digital clocks which utilize the system’s internal clock or allow you to offset the time however you like. Program up to three alarms (with snooze functionality for those that need it) and assign them a Mario-related sound or use one created in the Nintendo DSi Sound application. You’ll find yourself thinking “Just a few more coins...” in no time!",
-    "name": "Mario™ Clock",
+    "release_date_on_eshop": "2009-06-15",
+    "product_code": "TWL-N-KWBE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Other"
     ],
@@ -21,7 +17,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

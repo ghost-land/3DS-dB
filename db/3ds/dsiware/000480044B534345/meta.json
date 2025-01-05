@@ -1,17 +1,13 @@
 {
-    "uid": "50010000003647",
     "tid": "000480044B534345",
-    "product_code": "TWL-N-KSCE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2009-11-30",
+    "uid": "50010000003647",
+    "name": "Sudoku Challenge!",
     "formal_name": "Sudoku Challenge!",
     "description": "Now’s your chance to play the brain-busting puzzle game taking the world by storm.  With over 100,000,000 sudoku puzzles, you’ll never see the same puzzle twice in Sudoku Challenge!  You can select the classic nine-by-nine sukodu gameboards as well as Grand Sudoku which challenges you to complete five intersecting sudoku boards simultaneously! Just a beginner? Don’t worry—with three difficulty options, even the most novice player can complete a sudoku with ease. But if you’re a seasoned pro, challenge yourself in ‘Hard’ mode and test your true skills. It’s time to get your thinking cap on and see how many sudoku puzzles you can conquer!",
-    "name": "Sudoku Challenge!",
+    "release_date_on_eshop": "2009-11-30",
+    "product_code": "TWL-N-KSCE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Puzzle",
         "Education",
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

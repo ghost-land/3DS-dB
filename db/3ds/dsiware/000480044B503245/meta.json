@@ -1,17 +1,13 @@
 {
-    "uid": "50010000003292",
     "tid": "000480044B503245",
-    "product_code": "TWL-N-KP2E",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2010-08-02",
+    "uid": "50010000003292",
+    "name": "Petz® Dogz® Family",
     "formal_name": "Petz® Dogz® Family",
     "description": "There’s a whole family of dogs you can adopt and love! Take care of them, discover their unique personalities, and teach them fun tricks!\n\n• Choose from favorite breeds like Golden Retrievers and Labradors.\n• Give your dogs the best care: feed them, groom them, and discover their individual personalities—some will be funny, others will be shy!\n• Engage in fun activities with your pups, including playing with a flying disc and running obstacle courses, to turn them into talented dogs!",
-    "name": "Petz® Dogz® Family",
+    "release_date_on_eshop": "2010-08-02",
+    "product_code": "TWL-N-KP2E",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Simulation",
         "Other"
@@ -22,7 +18,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

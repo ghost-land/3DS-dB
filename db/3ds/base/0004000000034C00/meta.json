@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000257",
     "tid": "0004000000034C00",
-    "product_code": "CTR-P-ASFE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000000257",
+    "name": "Asphalt™ 3D",
     "formal_name": "Asphalt™ 3D",
     "description": "Asphalt 3D is racing as you’ve never experienced before! Full stereoscopic 3D graphics and authentically-modeled licensed supercars make this the most realistic, immersive racing experience yet. In Asphalt 3D, you’ll power over 40 high-performance vehicles and race through 17 exotic locations in both career and multiplayer modes. \n<br><br>\nExperience surging down the road as you swerve to avoid oncoming traffic in full 3D. Uncover new racing circuits and vehicles, customize your hot rod, and play against up to 6 friends using the Local Play feature of the Nintendo 3DS™ system. \n<br><br>\nEnable StreetPass by sending and receiving game data to see how you compare with your friends and just about everyone else who plays the game. Race against the viral ghost of top-ranked players to reach the top of the charts and earn in-game cash.",
-    "name": "Asphalt™ 3D",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ASFE",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "region": "North America",
     "genres": [
         "Racing",
         "Multiplayer"
@@ -27,7 +23,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+    "descriptors": []
 }

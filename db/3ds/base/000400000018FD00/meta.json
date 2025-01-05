@@ -1,17 +1,13 @@
 {
-    "uid": "50010000039216",
     "tid": "000400000018FD00",
-    "product_code": "CTR-N-KNTJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-02-10",
+    "uid": "50010000039216",
+    "name": "～なりきりキッズ～\nおしごとテーマパーク2ライト",
     "formal_name": "～なりきりキッズ～\nおしごとテーマパーク2ライト",
     "description": "小学生の女児たちが将来なりたい職業ベスト10を中心に12種類の職業が入っており、各種お仕事の体験を通してお仕事の楽しさを伝えるとともにお仕事の基本的な内容を理解し、子供たちに未来への職業意識を抱かせることができるようになっております。",
-    "name": "～なりきりキッズ～\nおしごとテーマパーク2ライト",
+    "release_date_on_eshop": "2016-02-10",
+    "product_code": "CTR-N-KNTJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "シミュレーション",
         "学習"
@@ -20,7 +16,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

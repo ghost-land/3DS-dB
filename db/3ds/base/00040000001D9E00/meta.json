@@ -1,17 +1,13 @@
 {
-    "uid": "50010000047975",
     "tid": "00040000001D9E00",
-    "product_code": "CTR-N-BBFP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2019-07-25",
+    "uid": "50010000047975",
+    "name": "Pinball Breaker 3",
     "formal_name": "Pinball Breaker 3",
     "description": "Pinball Breaker 3 is a breakout game which combines the game mechanics of a traditional breakout game and a flipper game.\n<br>Play through 15 exciting levels as you aim for a high score.",
-    "name": "Pinball Breaker 3",
+    "release_date_on_eshop": "2019-07-25",
+    "product_code": "CTR-N-BBFP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "region": "Europe",
     "genres": [
         "Arcade",
         "Other"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

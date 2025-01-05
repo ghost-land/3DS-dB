@@ -1,17 +1,13 @@
 {
-    "uid": "50010000013418",
     "tid": "00040000000B7600",
-    "product_code": "CTR-P-AHKP",
-    "platform_name": "Nintendo 3DS (Cartão/Dwnld.)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-09-26",
+    "uid": "50010000013418",
+    "name": "Around the World with\nHello Kitty and Friends",
     "formal_name": "Around the World with\n<br>Hello Kitty and Friends",
     "description": "The world famous and incredibly\n<br>popular Hello Kitty is back and\n<br>starring in an all-new, 3-D, interactive\n<br>adventure. Join Hello Kitty and her\n<br>Sanrio Friends as they travel around\n<br>the World playing adventurous games\n<br>and shopping for new outfits for Hello\n<br>Kitty and collecting new items to\n<br>decorate her room.\n<br>\n<br>・Travel the world and play games\n<br>related to each country\n<br>\n<br>・Unlock new costumes for Hello Kitty\n<br>to wear",
-    "name": "Around the World with\nHello Kitty and Friends",
+    "release_date_on_eshop": "2013-09-26",
+    "product_code": "CTR-P-AHKP",
+    "platform_name": "Nintendo 3DS (Cartão/Dwnld.)",
+    "region": "Europe",
     "genres": [
         "Outro",
         "Aventura",
@@ -27,7 +23,11 @@
         "Alemão",
         "Italiano"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

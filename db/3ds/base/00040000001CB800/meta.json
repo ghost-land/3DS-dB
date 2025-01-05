@@ -1,17 +1,13 @@
 {
-    "uid": "50010000043135",
     "tid": "00040000001CB800",
-    "product_code": "CTR-N-KZZE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-08-10",
+    "uid": "50010000043135",
+    "name": "MONSTER HUNTER STORIES™\nDemo",
     "formal_name": "MONSTER HUNTER STORIES™\nDemo",
     "description": "Play the free demo for Monster Hunter Stories\n<br>\n<br>In Monster Hunter Stories, set off on an adventure as a monster rider and bond with your monsters along the way. Venture into monster nests to collect eggs and hatch a wide array of species with uniquely powerful skills. Form teams, battle alongside monsters, crush opponents with combo attacks, and ride into the sunset a champion.\n<br>\n<br>The downloadable demo lets you play through the first few hours of the game, and all of your progress, including the monsters and items you collect, can be transferred over to the main game after purchasing it. Get a head start on your adventure! The Nintendo eShop demo officially launches August 10th.",
-    "name": "MONSTER HUNTER STORIES™\nDemo",
+    "release_date_on_eshop": "2017-08-10",
+    "product_code": "CTR-N-KZZE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "Digital Demos",
     "genres": [
         "RPG",
         "Adventure",
@@ -23,7 +19,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v0.0.0",
-    "region": "Digital Demos"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

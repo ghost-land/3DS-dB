@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007741",
     "tid": "000400000006A600",
-    "product_code": "CTR-P-AF4P",
-    "platform_name": "Nintendo 3DS (Card)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000007741",
+    "name": "F1 2011™ ",
     "formal_name": "F1 2011™ ",
     "description": "Compete on the go with F1 2011™!\nThe official game of FORMULA ONE\nincludes all the cars, stars and\ncircuits from the 2011 season. Go for\nmotorsport’s ultimate prize across a\nfull season, enter individual GRAND\nPRIX™ races, or get a quick\nFORMULA ONE fix with Time Trials\nand Challenge mode. Then race\nsport’s fastest racing cars in F1\n2011’s multiplayer modes including\nfour player races and an innovative two\nvs. two co-op mode.",
-    "name": "F1 2011™ ",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AF4P",
+    "platform_name": "Nintendo 3DS (Card)",
+    "region": "Europe",
     "genres": [
         "Racing",
         "Action"
@@ -26,7 +22,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

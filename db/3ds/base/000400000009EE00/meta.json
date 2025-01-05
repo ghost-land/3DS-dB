@@ -1,17 +1,13 @@
 {
-    "uid": "50010000010414",
     "tid": "000400000009EE00",
-    "product_code": "CTR-N-JN2J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-06-06",
+    "uid": "50010000010414",
+    "name": "一騎当千!スマッシュヒーローズ",
     "formal_name": "一騎当千!スマッシュヒーローズ",
     "description": "無数の敵を、斬って、斬って、ふっとばす、ふっとばしアクションゲームです。\n<br>ふっとばしで敵を連続撃破する爽快感は、まさに一騎当千!\n<br>Yボタン連打でつながるコンボ攻撃、Yボタン長押しで放たれるチャージ攻撃で敵をふっとばせ!\n<br>ゲームボリュームは、使用可能キャラクター6匹、総ステージ数80以上!\n<br>キャラクターごとに異なるアクション性、豊富なミッションに育成要素、さらにはコミカルなストーリー展開と、遊びごたえ十分です。",
-    "name": "一騎当千!スマッシュヒーローズ",
+    "release_date_on_eshop": "2012-06-06",
+    "product_code": "CTR-N-JN2J",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

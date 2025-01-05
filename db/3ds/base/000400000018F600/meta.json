@@ -1,17 +1,13 @@
 {
-    "uid": "50010000044296",
     "tid": "000400000018F600",
-    "product_code": "CTR-N-KD8E",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-12-07",
+    "uid": "50010000044296",
+    "name": "80'S OVERDRIVE",
     "formal_name": "80'S OVERDRIVE",
     "description": "80'S OVERDRIVE is a 2D pixel art racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars, and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!\n<br>\n<br>Features:\n<br>2 game modes and racing track editor;\n<br>6 retro supercars;\n<br>8 unique visual themes;\n<br>13 synth/retrowave music scores;\n<br>tons of retro, handcrafted, pixel-perfect joy!",
-    "name": "80'S OVERDRIVE",
+    "release_date_on_eshop": "2017-12-07",
+    "product_code": "CTR-N-KD8E",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Racing",
         "Arcade"
@@ -22,7 +18,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

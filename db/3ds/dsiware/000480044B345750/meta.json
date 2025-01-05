@@ -1,17 +1,13 @@
 {
-    "uid": "50010000001704",
     "tid": "000480044B345750",
-    "product_code": "TWL-N-K4WP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000001704",
+    "name": "Super Swap!",
     "formal_name": "Super Swap!",
     "description": "Can't get enough of swapping puzzle\ngames, but want something different?\nSwap till you drop with Super Swap!,\nan exciting blend of arcade action and\nmatch-3 fun. Drag colourful blocks in\none of 4 directions to connect 3 or\nmore blocks and clear the board. As\nnew blocks fall, you'll have to move\nfast to keep the stack from reaching\nthe top! Experience plenty of twists\nand never-seen-before gameplay as\nyou make combos, collect special\npower-ups and gain additional points\nin 4 different game modes. With so\nmuch fast and furious puzzling fun,\nyou'll never want to stop the\nswapping!",
-    "name": "Super Swap!",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-K4WP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Arcade",
@@ -24,7 +20,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

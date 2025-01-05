@@ -1,17 +1,13 @@
 {
-    "uid": "50010000022517",
     "tid": "0004000000139B00",
-    "product_code": "CTR-N-JEGJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-06-04",
+    "uid": "50010000022517",
+    "name": "EDGE",
     "formal_name": "EDGE",
     "description": "シンプル操作で、キューブをゴールまで転がそう。100以上のステージには「移動」、「落下」するブロックなど、数多くの仕掛けとトラップが待ち受ける。プリズムを集め、短時間でステージをクリアするのがポイント。キューブの端でバランスをとることでボーナスタイムを獲得する!",
-    "name": "EDGE",
+    "release_date_on_eshop": "2014-06-04",
+    "product_code": "CTR-N-JEGJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "パズル",
@@ -23,7 +19,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

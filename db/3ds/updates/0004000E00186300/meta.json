@@ -1,23 +1,23 @@
 {
-    "uid": "50010000040497",
     "tid": "0004000E00186300",
-    "product_code": "CTR-U-KMJP",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-06-16",
+    "uid": "50010000040497",
+    "name": "The Legend of Dark Witch 2: \nUpdate",
     "formal_name": "The Legend of Dark Witch 2: \nUpdate",
     "description": "Fixed a glitch that caused some\nbosses' attack to have no effect.",
-    "name": "The Legend of Dark Witch 2: \nUpdate",
+    "release_date_on_eshop": "2016-06-16",
+    "product_code": "CTR-U-KMJP",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Other"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v2.3.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

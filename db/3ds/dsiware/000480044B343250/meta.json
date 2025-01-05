@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007982",
     "tid": "000480044B343250",
-    "product_code": "TWL-N-K42P",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000007982",
+    "name": "Elite Forces: Unit 77",
     "formal_name": "Elite Forces: Unit 77",
     "description": "A new and improved version, now\nwith Multiplayer mode.<br>\n<br>\n\"Elite Forces: Unit 77\" is an action\ngame with basic tactical elements.<br>\n<br>\nYour Unit 77 comprises 4 specialists\nwith different combat skills:<br>\n<br>\n* Bill Matic, the \"Hacker\";<br>\n<br>\n* Kendra Chase, the sniper;<br>\n<br>\n* T. K. Richter, the explosives expert;<br>\n<br>\n* Dag Hammer, the green beret.<br>\n<br>\nDrive armoured trucks and tanks,\ndefuse mines, locate explosives and\nrescue hostages.<br>\n<br>\nGather your forces into a crack\nsquad when your enemies are\nthreatening to overwhelm you or\ncontrol a single game character based\non the strategic requirements.",
-    "name": "Elite Forces: Unit 77",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-K42P",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Action",
         "Strategy",
@@ -28,7 +24,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "16"
+    },
     "version": "v0.4.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

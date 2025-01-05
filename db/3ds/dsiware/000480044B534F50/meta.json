@@ -1,17 +1,13 @@
 {
-    "uid": "50010000006244",
     "tid": "000480044B534F50",
-    "product_code": "TWL-N-KSOP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000006244",
+    "name": "Sokomania",
     "formal_name": "Sokomania",
     "description": "The game is a variation on a\nwarehouse keeper theme. There are\nseveral crates placed on the playing\narea. The player controls a figure that\ncan push the crates forward. The aim\nis to get all the crates on the places\ndesignated.",
-    "name": "Sokomania",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KSOP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Arcade"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

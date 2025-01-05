@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007721",
     "tid": "0004000000062300",
-    "product_code": "CTR-N-ASNE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-09-05",
+    "uid": "50010000007721",
+    "name": "Sonic Generations™",
     "formal_name": "Sonic Generations™",
     "description": "The ultimate celebration of 20 years in Sonic gaming, Sonic Generations delivers the definitive gaming experience for Sonic fans new and old. \n<br><br>\nSonic’s universe is thrown into chaos when a mysterious new power comes into force, creating ‘time holes’ which take Sonic and his friends back in time. While there, Sonic runs into some very familiar characters from his past including a younger, classic version of himself! Now they must defeat their enemies, save their friends, and find out who is behind this diabolical deed.\n<br><br>\nPlay as both Classic Sonic and Modern Sonic in the ultimate Sonic experience. Master the moves of each character as they race through each environment on their own specially designed track.\n<br><br>\n2 Player Versus Mode<br>\nTake on your friends and earn valuable status points.\n<br><br>\nStreetPass<br>\nCollect new content and unlock bonus material, increasing variety, interaction and replayability.",
-    "name": "Sonic Generations™",
+    "release_date_on_eshop": "2013-09-05",
+    "product_code": "CTR-N-ASNE",
+    "platform_name": "Nintendo 3DS Retail/Download",
+    "region": "North America",
     "genres": [
         "Action",
         "Adventure",
@@ -30,7 +26,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.1",
-    "region": "North America"
+    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

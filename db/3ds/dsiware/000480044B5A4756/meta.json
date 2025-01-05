@@ -1,17 +1,13 @@
 {
-    "uid": "50010000006623",
     "tid": "000480044B5A4756",
-    "product_code": "TWL-N-KZGV",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000006623",
+    "name": "Crazy Golf",
     "formal_name": "Crazy Golf",
     "description": "Welcome to \"Crazy Golf\"!<br>\n<br>\nExperience the world's wackiest\nminiature golf courses!<br>\n<br>\nSeven different courses with six\ndifferent holes will put your skills to\nthe test.Play alone or challenge your\nfriends in multiplayer mode and show\nthem who's the true champ!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "name": "Crazy Golf",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KZGV",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Action",
         "Simulation",
@@ -24,7 +20,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

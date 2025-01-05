@@ -1,17 +1,13 @@
 {
-    "uid": "50010000021395",
     "tid": "00040000000FC100",
-    "product_code": "CTR-N-AHWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-03-27",
+    "uid": "50010000021395",
+    "name": "I am an Air Traffic Controller\nAirport Hero Hawaii",
     "formal_name": "I am an Air Traffic Controller\nAirport Hero Hawaii",
     "description": "Honolulu International Airport has four runways as well as two floating ones, and it is a lively place where various types of aircrafts come and go such as international and domestic flights, flights within the island, cargo planes, water planes, and light aircrafts.\n<br><br>\nThe game is fun to play as an air traffic control simulation game, and it also gives the player the sense of the real Hawaii with its colorful, expressive sceneries.\n<br><br>\nPlease enjoy those vividly recreated landscapes of the airport and the aircrafts specially available only on Nintendo 3DS™ with the tropical-themed BGM!",
-    "name": "I am an Air Traffic Controller\nAirport Hero Hawaii",
+    "release_date_on_eshop": "2014-03-27",
+    "product_code": "CTR-N-AHWE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Simulation",
         "Puzzle"
@@ -22,7 +18,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.1.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

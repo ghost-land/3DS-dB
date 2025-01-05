@@ -1,17 +1,13 @@
 {
-    "uid": "50010000005775",
     "tid": "000480044B5A4E4A",
-    "product_code": "TWL-N-KZNJ",
-    "platform_name": "ニンテンドーDSiウェア",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2009-09-16",
+    "uid": "50010000005775",
+    "name": "G.Gシリーズ\nZ・ONE",
     "formal_name": "G.Gシリーズ\nZ・ONE",
     "description": "ブロックと敵の配置による敵の防衛線を、8方向への攻撃可能な「ポッド」を使いこなし、敵を駆逐しつつ、先へ先へと進む横スクロールシューティングゲームです。",
-    "name": "G.Gシリーズ\nZ・ONE",
+    "release_date_on_eshop": "2009-09-16",
+    "product_code": "TWL-N-KZNJ",
+    "platform_name": "ニンテンドーDSiウェア",
+    "region": "Japan",
     "genres": [
         "シューティング"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "ニンテンドーDSiウェアは、3D表示に対応しておりません。\nソフトの紹介情報やソフト内の表現は、ニンテンドーDSi向けのものです。\nニンテンドー3DSでプレイする場合は、あてはまらない内容があったり、操作感が異なることがあります。あらかじめご了承ください。",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000010410",
     "tid": "0004000000095500",
-    "product_code": "CTR-P-AKHP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000010410",
+    "name": "KINGDOM HEARTS 3D\n[Dream Drop Distance]",
     "formal_name": "KINGDOM HEARTS 3D\n[Dream Drop Distance]",
     "description": "Sora and Riku are back and must\ntake the Mark of Mastery exam to\nbecome true Keyblade Masters and\nrescue the Sleeping Worlds. Meet new\nfriends, enjoy the all-new\n\"Flowmotion\" battle system and\nexperience a whole new adventure!<br>\n<br>\n* Enjoy fast and effortless\n\"Flowmotion\" attacks!<br>\n<br>\n* New Disney characters and worlds\nincluding \"The Hunchback of Notre\nDame\" and \"Tron Legacy\" make their\nseries debut!<br>\n<br>\n* Introducing Dream Eaters: new\nenemies and your new friends!",
-    "name": "KINGDOM HEARTS 3D\n[Dream Drop Distance]",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AKHP",
+    "platform_name": "Nintendo 3DS (Card)",
+    "region": "Europe",
     "genres": [
         "Action",
         "RPG",
@@ -26,7 +22,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

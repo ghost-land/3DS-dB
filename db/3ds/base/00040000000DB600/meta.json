@@ -1,17 +1,13 @@
 {
-    "uid": "50010000017634",
     "tid": "00040000000DB600",
-    "product_code": "CTR-N-BTRJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "15"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-12-05",
+    "uid": "50010000017634",
+    "name": "BRAVELY DEFAULT\n-For the Sequel-",
     "formal_name": "BRAVELY DEFAULT\n-For the Sequel-",
     "description": "2014年7月27日(日)23時59分に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>\n<br>“完全版”というには、続編の新システムが搭載され、“廉価版”というには、細部にわたる品質向上が施され、続編の“体験版”というには、前作のすべてが楽しめる。\n<br>\n<br>それぞれの要素を内包した新たなる『ブレイブリーデフォルト』。そう、そのすべてはFor the Sequel＝“続編のため”に――。",
-    "name": "BRAVELY DEFAULT\n-For the Sequel-",
+    "release_date_on_eshop": "2013-12-05",
+    "product_code": "CTR-N-BTRJ",
+    "platform_name": "3DSカード/ダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング"
     ],
@@ -26,7 +22,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "パッケージ版の価格は5,132円(税込)です。\n<br>ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "15"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "パッケージ版の価格は5,132円(税込)です。\n<br>ソフトの内容はパッケージ版と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000040096",
     "tid": "0004000000198700",
-    "product_code": "CTR-N-KBDJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-04-20",
+    "uid": "50010000040096",
+    "name": "棒人間チャレンジ！",
     "formal_name": "棒人間チャレンジ！",
     "description": "スマホで人気の棒人間ゲームをニンテンドー3DSでゲーム化！\n<br>大ボリュームのミニゲームが遊べる!!\n<br>すべてのゲームの成績をもとに全国ランキングを集計！ 目指せ上位ランクイン！",
-    "name": "棒人間チャレンジ！",
+    "release_date_on_eshop": "2016-04-20",
+    "product_code": "CTR-N-KBDJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "レース",
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

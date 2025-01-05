@@ -1,17 +1,13 @@
 {
-    "uid": "50010000017773",
     "tid": "0004000000071500",
-    "product_code": "CTR-N-TASE",
-    "platform_name": "NES",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-11-07",
+    "uid": "50010000017773",
+    "name": "Wario's Woods™",
     "formal_name": "Wario's Woods™",
     "description": "Remember Toad, our little mushroom friend who made his first appearance in Super Mario Bros. 2™? Well, this time he is the star of the game!\n<br><Br>\nPeaceful Woods, home to the sprites and other gentle creatures, has been overtaken by Wario™ and his band of monsters. In the peaceful creatures' hour of need, Toad makes his way to what is now known as Wario's Woods to claim back the land for the sprites. Control Toad as he scrambles along the bottom of the screen picking up monsters and bombs and arranging them vertically, horizontally, and diagonally to clear the screen of enemies. Featuring several modes of play, such as basic, lesson, time race and 2P Download Play.\n<br><Br>\nIf you like puzzle games like Tetris™ and Dr. Mario™, you will definitely love this one!",
-    "name": "Wario's Woods™",
+    "release_date_on_eshop": "2013-11-07",
+    "product_code": "CTR-N-TASE",
+    "platform_name": "NES",
+    "region": "North America",
     "genres": [
         "Puzzle",
         "Multiplayer"
@@ -22,7 +18,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

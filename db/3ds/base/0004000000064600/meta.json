@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007663",
     "tid": "0004000000064600",
-    "product_code": "CTR-P-AZTJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000007663",
+    "name": "AZITO 3D",
     "formal_name": "AZITO 3D",
     "description": "「アジト」とは、1997年～2000年に3作発売され大好評を博した“元祖”防衛系シミュレーションゲームです。プレイヤーは、秘密基地の総司令官となり、地下に秘密基地を建設します。商品の開発･販売による資金調達、基地を守るために怪人やヒーロー、怪獣やロボットを開発し、攻めて来る敵を迎え撃ちます。子供の頃に夢見た秘密基地の世界をお楽しみいただけます。",
-    "name": "AZITO 3D",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AZTJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "シミュレーション"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

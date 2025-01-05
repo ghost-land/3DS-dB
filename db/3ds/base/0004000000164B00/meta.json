@@ -1,17 +1,13 @@
 {
-    "uid": "50010000031036",
     "tid": "0004000000164B00",
-    "product_code": "CTR-N-JWGJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-03-04",
+    "uid": "50010000031036",
+    "name": "ガンマンストーリー2",
     "formal_name": "ガンマンストーリー2",
     "description": "『ガンマンストーリー2』は、ガンマンの「クライブ」を操作し、ガンを片手に、ステージをクリアしていく「ガンマンアクションゲーム」です。\n<br>\n<br>ゲーム全体を彩るウェスタンテイストなビジュアルとサウンド、そしてオーソドックスなアクションが魅力です。\n<br>\n<br>宇宙から突如襲ってきた「ダークメカニック」。さすらいのガンマン「クライブ」たちのウェスタンタウンを一瞬で闇に陥れてしまう。\n<br>\n<br>手元の拳銃一丁で、行く手を阻む敵を倒し、あと、重力をあやつり(?)、パンダを乗りこなし(??)、恐竜を倒し(???)、夕日に向けて駆けるのだ!\n<br>\n<br>シンプルながらも、サプライズにあふれる「ガンマンアクションゲーム」です。",
-    "name": "ガンマンストーリー2",
+    "release_date_on_eshop": "2015-03-04",
+    "product_code": "CTR-N-JWGJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

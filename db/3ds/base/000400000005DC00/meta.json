@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009685",
     "tid": "000400000005DC00",
-    "product_code": "CTR-N-JDXJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-03-14",
+    "uid": "50010000009685",
+    "name": "ドーパミックス",
     "formal_name": "ドーパミックス",
     "description": "『ドーパミックス』とは、刺激的で心地よいビジュアルとサウンドにより、快感などに関わる脳内物質「ドーパミン」の発生を促す、新感覚のサウンドシンクロ型アクションゲームです。\n<br>\n<br>ニンテンドー3DSならではのビジュアル･サウンド表現、高速なレスポンスによって非常に高いシンクロ感･トリップ感を実現!\n<br>シンプルでクセになるゲーム性、適度に連続する緊張感がプレイヤーを快楽の世界へと誘います!",
-    "name": "ドーパミックス",
+    "release_date_on_eshop": "2012-03-14",
+    "product_code": "CTR-N-JDXJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "音楽"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

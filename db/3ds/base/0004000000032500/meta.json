@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009203",
     "tid": "0004000000032500",
-    "product_code": "CTR-N-ACMJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-11-01",
+    "uid": "50010000009203",
+    "name": "マリオ&ソニック\nAT ロンドンオリンピック™",
     "formal_name": "マリオ&ソニック\nAT ロンドンオリンピック™",
     "description": "2014年3月31日(月)に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>\n<br>2012年夏開催のロンドンオリンピックを舞台に、マリオやソニック、そしてその仲間たちがオリンピック正式種目に挑戦します。\n<br>ニンテンドー3DSならではの特徴的な操作方法で手軽に遊べる種目を57種類収録しており、さまざまな種目をテンポ良く楽しむことができます。\n<br>また本体を持ち寄れば、ソフト1本で全ての種目を最大4人まで一緒にプレイできます。",
-    "name": "マリオ&ソニック\nAT ロンドンオリンピック™",
+    "release_date_on_eshop": "2012-11-01",
+    "product_code": "CTR-N-ACMJ",
+    "platform_name": "3DSカード/ダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "スポーツ",
         "アクション",
@@ -27,7 +23,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.3.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

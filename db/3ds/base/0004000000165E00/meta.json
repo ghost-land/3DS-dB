@@ -1,17 +1,13 @@
 {
-    "uid": "50010000037275",
     "tid": "0004000000165E00",
-    "product_code": "CTR-P-BL5E",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000037275",
+    "name": "Skylanders SuperChargers\nRacing",
     "formal_name": "Skylanders SuperChargers Racing",
     "description": "Skylanders, start your engines! The infamous race promoter Pandergast has challenged the best racers in Skylands to come forward and test their driving skills in a head-to-head, no-holds-barred driving competition! Race across Land, Sea, and Sky for the ultimate prize - a mysterious token of immense power! Kick start your Skylanders adventure into overdrive with Skylanders® SuperChargers Racing.",
-    "name": "Skylanders SuperChargers\nRacing",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-BL5E",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "region": "North America",
     "genres": [
         "Arcade",
         "Racing",
@@ -29,7 +25,11 @@
         "French",
         "Portuguese"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

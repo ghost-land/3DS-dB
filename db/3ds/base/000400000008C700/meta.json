@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009441",
     "tid": "000400000008C700",
-    "product_code": "CTR-N-JF5J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-02-29",
+    "uid": "50010000009441",
+    "name": "おきらく大富豪3D",
     "formal_name": "おきらく大富豪3D",
     "description": "『おきらく』シリーズに定番トランプゲームが登場!げんきくん一家が大富豪で勝負。\n<br>「8切り」や「反則負け」など、様々なルールを自分好みに設定可能。\n<br>ギャラリーや戦績、実績など、やりこみ要素も充実!",
-    "name": "おきらく大富豪3D",
+    "release_date_on_eshop": "2012-02-29",
+    "product_code": "CTR-N-JF5J",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "テーブル"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

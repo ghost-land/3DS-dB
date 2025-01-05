@@ -1,17 +1,13 @@
 {
-    "uid": "50010000013673",
     "tid": "00040000000D8300",
-    "product_code": "CTR-N-JM7J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-03",
+    "uid": "50010000013673",
+    "name": "@SIMPLE DLシリーズ Vol.9\nTHE 密室からの脱出 テレビ局編",
     "formal_name": "@SIMPLE DLシリーズ Vol.9\nTHE 密室からの脱出\n～テレビ局密着24時編～",
     "description": "さまざまなアイテムを駆使して閉鎖空間からの脱出を試みる謎解きアドベンチャーゲーム。\n<br>\n今度の舞台はテレビ局。主人公は、人気司会者が登場するバラエティ番組のアシスタント。収録が終わり、タレントや俳優たちは控え室へ。撤収作業が終わり、スタジオを出ようとすると、あれ、ドアが開かない。今、再び脱出劇が始まる。",
-    "name": "@SIMPLE DLシリーズ Vol.9\nTHE 密室からの脱出 テレビ局編",
+    "release_date_on_eshop": "2013-04-03",
+    "product_code": "CTR-N-JM7J",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アドベンチャー"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

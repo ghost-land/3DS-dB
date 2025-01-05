@@ -1,17 +1,13 @@
 {
-    "uid": "50010000027555",
     "tid": "000400000011A900",
-    "product_code": "CTR-N-QBDP",
-    "platform_name": "Game Boy Color",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-11-13",
+    "uid": "50010000027555",
+    "name": "Bionic Commando™:\nElite Forces",
     "formal_name": "Bionic Commando™:\nElite Forces",
     "description": "You are the perfect soldier; a\nsynthesis of human and machine. You\nare the Bionic Commando! This\nfast-paced Game Boy Color exclusive\nblends elements from previous\nversions of the classic platform shoot\n‘em up and adds new features of its\nown.\n<br/><br/>\nChoose from a stealthy female or\npowerful male commando, and battle\nthrough more than 20 diverse levels.\nEnjoy favourites like communication\nscreens to contact your HQ or to tap\ninto enemy transmissions, plus all-new\nelements like a first-person sniper\nmode to take out enemies at a\ndistance.",
-    "name": "Bionic Commando™:\nElite Forces",
+    "release_date_on_eshop": "2014-11-13",
+    "product_code": "CTR-N-QBDP",
+    "platform_name": "Game Boy Color",
+    "region": "Europe",
     "genres": [
         "Action",
         "Platformer"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

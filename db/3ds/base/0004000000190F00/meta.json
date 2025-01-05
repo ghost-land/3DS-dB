@@ -1,17 +1,13 @@
 {
-    "uid": "50010000040595",
     "tid": "0004000000190F00",
-    "product_code": "CTR-N-KQME",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-06-09",
+    "uid": "50010000040595",
+    "name": "Puzzle Labyrinth",
     "formal_name": "Puzzle Labyrinth",
     "description": "Puzzle Labyrinth is a game where the player must solve puzzles and find items to open doors that lead to the exit of a maze.\n\n<br>With 60 stages filled with traps and monsters getting in the way, it is sure to keep players entertained till the last minute of their escape...if they ever manage to.",
-    "name": "Puzzle Labyrinth",
+    "release_date_on_eshop": "2016-06-09",
+    "product_code": "CTR-N-KQME",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Puzzle"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

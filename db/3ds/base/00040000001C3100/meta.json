@@ -1,17 +1,13 @@
 {
-    "uid": "50010000043195",
     "tid": "00040000001C3100",
-    "product_code": "CTR-N-BVBJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-11-23",
+    "uid": "50010000043195",
+    "name": "ベイブレードバースト ゴッド",
     "formal_name": "ベイブレードバースト ゴッド",
     "description": "▼ベイブレーダーの頂点を目指す、ベイバトル育成ゲーム！\n<br>ブレーダーの育成ができる！\n<br>トレーニングと特訓でブレーダー達の能力を伸ばせる！\n<br>\n<br>▼ベイのカスタマイズがボリュームアップ！\n<br>登場ベイ数が前作比2.5倍！\n<br>「ゴッドレイヤーシリーズ」も登場！\n<br>さらに一部未発表のベイも収録！\n<br>\n<br>▼バトルパートをパワーアップ！\n<br>ベイバトルも超進化！\n<br>バーストフィニッシュ、得意技はもちろん、ベイのゴッドアビリティも再現！\n<br>ド派手な演出がベイバトルを盛り上げる！",
-    "name": "ベイブレードバースト ゴッド",
+    "release_date_on_eshop": "2017-11-23",
+    "product_code": "CTR-N-BVBJ",
+    "platform_name": "3DSカード/ダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "シミュレーション",
         "スポーツ",
@@ -26,7 +22,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.2.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

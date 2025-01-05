@@ -1,17 +1,13 @@
 {
-    "uid": "50010000004201",
     "tid": "000480044B574645",
-    "product_code": "TWL-N-KWFE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2009-06-15",
+    "uid": "50010000004201",
+    "name": "Mario™ Calculator",
     "formal_name": "Mario™ Calculator",
     "description": "Mario and Luigi take a break from their normal adventures to dedicate their heroic talents to working with numbers. Mario Calculator features the full functionality of a traditional calculator, including a Memory key and the ability to display up to 13 digits, and adds a layer of atmosphere reminiscent of the original Super Mario Bros. Use the Unit Converter to turn one unit of measure into another (such as length, weight, volume, age, and others), or track the history of calculations you’ve performed with ease. Listen to the Mario-related sounds and watch the coins fly as calculations are performed. Now to get back to adding up those high scores...",
-    "name": "Mario™ Calculator",
+    "release_date_on_eshop": "2009-06-15",
+    "product_code": "TWL-N-KWFE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Other"
     ],
@@ -21,7 +17,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

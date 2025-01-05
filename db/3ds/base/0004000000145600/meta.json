@@ -1,17 +1,13 @@
 {
-    "uid": "50010000025815",
     "tid": "0004000000145600",
-    "product_code": "CTR-N-KSPJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-09-24",
+    "uid": "50010000025815",
+    "name": "プチノベル「子宮の九月」",
     "formal_name": "プチノベル「子宮の九月」",
     "description": "『子宮の九月』は、神の住まう町･多紙町で暮らす高校生、紺野柾木とその仲間たちが過ごす9月のできごとを描いたビジュアルノベルゲームです。\n<br>\n<br>8月の神降ろしで神の子を身に宿した雪としろ。\n<br>伴侶の役目を果たした柾木は父親になることに対して心境複雑だった。\n<br>そんな中で後輩の「ゆかり」に言い寄られ、柾木は――。",
-    "name": "プチノベル「子宮の九月」",
+    "release_date_on_eshop": "2014-09-24",
+    "product_code": "CTR-N-KSPJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アドベンチャー"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

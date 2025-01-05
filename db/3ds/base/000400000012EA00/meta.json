@@ -1,17 +1,13 @@
 {
-    "uid": "50010000038235",
     "tid": "000400000012EA00",
-    "product_code": "CTR-P-BKTP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-11-13",
+    "uid": "50010000038235",
+    "name": "Hello Kitty & Friends:\nRockin' World Tour",
     "formal_name": "Hello Kitty & Friends:\n<br>Rockin' World Tour",
     "description": "Head to the stage together with\n<br>Hello Kitty and friends, for this\n<br>musical puzzle game and travel\n<br>around the world with your band.\n<br>\n<br>Discover both rhythm and puzzle\n<br>gameplay and be rewarded with a\n<br>huge array of collectables when the\n<br>curtain falls on your exciting live show!",
-    "name": "Hello Kitty & Friends:\nRockin' World Tour",
+    "release_date_on_eshop": "2015-11-13",
+    "product_code": "CTR-P-BKTP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Music"
@@ -26,7 +22,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

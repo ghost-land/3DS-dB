@@ -1,17 +1,13 @@
 {
-    "uid": "50010000039038",
     "tid": "000400000016E700",
-    "product_code": "CTR-P-BCEP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-01-28",
+    "uid": "50010000039038",
+    "name": "FINAL FANTASY EXPLORERS™",
     "formal_name": "FINAL FANTASY EXPLORERS™",
     "description": "EXPLORE A NEW WORLD\nADVENTURE SOLO OR TOGETHER\nWITH 2-4 PLAYER CO-OP!\n<br/><br/>\n* BATTLE TOGETHER WITH UP TO\nFOUR PLAYERS\n<br/><br/>\n* OVER 20 JOBS TO EXPLORE AND\nMASTER\n<br/><br/>\n* ICONIC FINAL FANTASY\nCHARACTERS & MONSTERS",
-    "name": "FINAL FANTASY EXPLORERS™",
+    "release_date_on_eshop": "2016-01-28",
+    "product_code": "CTR-P-BCEP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Action",
         "RPG"
@@ -25,7 +21,11 @@
         "English",
         "French"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

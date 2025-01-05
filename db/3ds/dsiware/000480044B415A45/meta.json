@@ -1,17 +1,13 @@
 {
-    "uid": "50010000001121",
     "tid": "000480044B415A45",
-    "product_code": "TWL-N-KAZE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2010-09-20",
+    "uid": "50010000001121",
+    "name": "Everyday Soccer",
     "formal_name": "Everyday Soccer",
     "description": "Play soccer against teams from all over the world! Customize your characters to be normal sized, small, tall, or muscular. You can also customize shirts, shorts and shoes! Take advantage of your players' specific traits that are dictated by their body type. Assembling a well balanced team is the key to becoming world champions!\n\nThere are many teams to play against, so keep your mind sharp and your kicking foot sharper! Play against friends via DS Download Play and see who the true soccer champion is!\n\n",
-    "name": "Everyday Soccer",
+    "release_date_on_eshop": "2010-09-20",
+    "product_code": "TWL-N-KAZE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Sports",
         "Multiplayer"
@@ -23,7 +19,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

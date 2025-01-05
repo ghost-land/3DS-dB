@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000592",
     "tid": "000480044B443945",
-    "product_code": "TWL-N-KD9E",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2009-04-20",
+    "uid": "50010000000592",
+    "name": "Dr. Mario™ Express",
     "formal_name": "Dr. Mario™ Express",
     "description": "Mario once again dons his stethoscope to battle the forces of illness in this downloadable version of the classic puzzle game. Use vitamins to eliminate viruses in Classic mode, or play against a computer opponent in Vs. CPU mode. Make an appointment with Dr. Mario today!\n",
-    "name": "Dr. Mario™ Express",
+    "release_date_on_eshop": "2009-04-20",
+    "product_code": "TWL-N-KD9E",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Action",
         "Puzzle"
@@ -22,7 +18,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

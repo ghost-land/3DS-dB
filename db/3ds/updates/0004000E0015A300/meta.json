@@ -1,23 +1,23 @@
 {
-    "uid": "50010000030595",
     "tid": "0004000E0015A300",
-    "product_code": "CTR-U-BCRP",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-02-12",
+    "uid": "50010000030595",
+    "name": "ACE COMBAT™ ASSAULT\nHORIZON LEGACY + - Update",
     "formal_name": "ACE COMBAT™ ASSAULT\nHORIZON LEGACY + - Update",
     "description": "This patch enables compatibility with\nthe Nintendo 3DS™ NFC reader/writer.\nNow with any Nintendo 3DS™ model,\nyou will be able to unlock exclusive\naircrafts inspired by corresponding\namiibo™ figurine.",
-    "name": "ACE COMBAT™ ASSAULT\nHORIZON LEGACY + - Update",
+    "release_date_on_eshop": "2015-02-12",
+    "product_code": "CTR-U-BCRP",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Other"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v2.2.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

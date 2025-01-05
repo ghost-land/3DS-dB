@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009139",
     "tid": "0004000000058800",
-    "product_code": "CTR-N-RBFE",
-    "platform_name": "Game Boy",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "1991-03",
+    "uid": "50010000009139",
+    "name": "Maru's Mission",
     "formal_name": "Maru's Mission",
     "description": "Play as the ninja Maru in this action-packed side-scrolling game that will take you on a journey across the world!\n\nWhile Maru is out for a walk with his girlfriend Cori, an evil samurai named Muramasa suddenly appears and kidnaps her! In Maru's efforts to track down and rescue her, he must face a number of mythological monsters while gaining new and powerful weapons in order to defeat them. Using the hints that are left behind by his enemies, Maru will follow a trail that will lead him across six different locations--including the bug-infested forests of America and the scorching desert sands of Egypt. Help our hero on his mission as he fights to rescue Cori!",
-    "name": "Maru's Mission",
+    "release_date_on_eshop": "1991-03",
+    "product_code": "CTR-N-RBFE",
+    "platform_name": "Game Boy",
+    "region": "North America",
     "genres": [
         "Action",
         "Platformer"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

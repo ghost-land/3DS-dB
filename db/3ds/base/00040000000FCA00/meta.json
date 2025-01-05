@@ -1,17 +1,13 @@
 {
-    "uid": "50010000024556",
     "tid": "00040000000FCA00",
-    "product_code": "CTR-P-BTHP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-09-19",
+    "uid": "50010000024556",
+    "name": "THEATRHYTHM\nFinal Fantasy Curtain Call™",
     "formal_name": "THEATRHYTHM\nFinal Fantasy Curtain Call™",
     "description": "221 Songs & Over 60 Characters\nfrom FINAL FANTASY®\n<br/>\nGo head-to-head in Versus Mode\n<br/>\nRhythm Meets RPG in Quest Medley\nMode",
-    "name": "THEATRHYTHM\nFinal Fantasy Curtain Call™",
+    "release_date_on_eshop": "2014-09-19",
+    "product_code": "CTR-P-BTHP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "RPG",
         "Music"
@@ -27,7 +23,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

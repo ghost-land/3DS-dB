@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009083",
     "tid": "0004000000081200",
-    "product_code": "CTR-P-AA2J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000009083",
+    "name": "ドラえもん のび太と奇跡の島\n～アニマル アドベンチャー～",
     "formal_name": "ドラえもん のび太と奇跡の島\n～アニマル アドベンチャー～",
     "description": "ドラえもんと一緒に“奇跡の島”をまるごと大冒険!\n<br>ニンテンドー3DSのジャイロセンサーを利用したバーチャルカメラで、絶滅してしまった動物や昆虫を撮影しよう。\n<br>出会える動物たちは全部で132種類!\n<br>ストーリーの進行にあわせて、声やタッチペンを使った7種類のミニゲームが遊べるようになる。すれちがい通信を使えば育てたカブト虫を友だちと交換できる。",
-    "name": "ドラえもん のび太と奇跡の島\n～アニマル アドベンチャー～",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AA2J",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "アドベンチャー",
         "アクション",
@@ -24,7 +20,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

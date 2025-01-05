@@ -1,17 +1,13 @@
 {
-    "uid": "50010000023975",
     "tid": "0004000000118B00",
-    "product_code": "CTR-P-BLNP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-08-01",
+    "uid": "50010000023975",
+    "name": "LEGO® Ninjago™:\nNindroids™",
     "formal_name": "LEGO® Ninjago™:\nNindroids™",
     "description": "The highly popular LEGO® Ninjago™\nvideogame franchise is back with\nhigh-kicking action and adventure!\nBased on the first five new episodes of\nthe animated TV series, “LEGO\nNinjago Rebooted,” players will battle\nand defend the New Ninjago City\nwhere the Ninjas face a technological\nthreat by the evil Overlord and his\nrobotic army of Nindroids. Using swift\ncombo attacks, unique fighting moves,\nspecial weapons and new vehicles, the\nNinjas must fight with all their might\nto save Ninjago.",
-    "name": "LEGO® Ninjago™:\nNindroids™",
+    "release_date_on_eshop": "2014-08-01",
+    "product_code": "CTR-P-BLNP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Action",
         "Adventure"
@@ -27,7 +23,11 @@
         "Italian",
         "Dutch"
     ],
-    "disclaimer": "* Game contains\nEnglish voice over.",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "7"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": "* Game contains\nEnglish voice over.",
+    "descriptors": []
 }

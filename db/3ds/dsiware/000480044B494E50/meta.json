@@ -1,17 +1,13 @@
 {
-    "uid": "50010000004042",
     "tid": "000480044B494E50",
-    "product_code": "TWL-N-KINP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000004042",
+    "name": "Dancing Academy",
     "formal_name": "Dancing Academy",
     "description": "Become a dancing star!<br>\n<br>\nYour favourite show is looking for\nnew dancing talent. So, head on\ndown to the castings! Dance your way\nthrough the audition rounds and\noutshine the other contestants on the\nTV show with your natural sense of\nrhythm.<br>\n<br>\nWith a wealth of world-famous hits\nfrom Madonna, ATC, The Rasmus and\nmany more!",
-    "name": "Dancing Academy",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KINP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Simulation",
         "Other"
@@ -23,7 +19,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000041863",
     "tid": "00040000001ADD00",
-    "product_code": "CTR-N-AKQJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-12-22",
+    "uid": "50010000041863",
+    "name": "桃太郎電鉄2017 たちあがれ日本!!",
     "formal_name": "桃太郎電鉄2017 たちあがれ日本!!",
     "description": "全国を旅して日本一の社長を目指す、国民的ボードゲーム『桃太郎電鉄』シリーズの完全新作。\n<br>新しいカードや最新のニュースを含んだイベント、個性的なキャラクターたちが追加され、ひとりでもみんなでもたっぷり楽しめます。",
-    "name": "桃太郎電鉄2017 たちあがれ日本!!",
+    "release_date_on_eshop": "2016-12-22",
+    "product_code": "CTR-N-AKQJ",
+    "platform_name": "3DSカード/ダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "テーブル",
         "学習",
@@ -23,7 +19,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

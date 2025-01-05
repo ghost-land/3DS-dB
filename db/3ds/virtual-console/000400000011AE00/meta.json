@@ -1,17 +1,13 @@
 {
-    "uid": "50010000028197",
     "tid": "000400000011AE00",
-    "product_code": "CTR-N-TD5P",
-    "platform_name": "NES",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-12-04",
+    "uid": "50010000028197",
+    "name": "Shadow of the Ninja™",
     "formal_name": "Shadow of the Ninja™",
     "description": "Mad emperor Garuda holds the city in\nhis grasp. Only two brave warriors\ndare to stand against him. Playing\nsolo or co-op with a friend, you'll\nslice, bomb and shuriken your way\nthrough Garuda's army of vicious\nsoldiers, agile ninja and monstrous\nrobots.\n<br/><br/>\nUse your skills to hang from moving\nplatforms, leap over lethal pitfalls and\ndodge diabolical traps. Collect deadly\npower-ups to give yourself an edge –\nif you can hold on to them. It'll take\nall of your platforming prowess to\nnavigate the game's 13 intense levels\nand bring justice to Garuda!",
-    "name": "Shadow of the Ninja™",
+    "release_date_on_eshop": "2014-12-04",
+    "product_code": "CTR-N-TD5P",
+    "platform_name": "NES",
+    "region": "Europe",
     "genres": [
         "Action"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

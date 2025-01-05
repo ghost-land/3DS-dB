@@ -1,17 +1,13 @@
 {
-    "uid": "50010000042457",
     "tid": "00040000001BEA00",
-    "product_code": "CTR-N-KZSJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-04-05",
+    "uid": "50010000042457",
+    "name": "Ice Station Z",
     "formal_name": "Ice Station Z",
     "description": "食べ物や飲み物、医療品や武器、弾薬や衣服、燃料や道具を、さまよい歩いて見つけ出せ。\n<br>シェルターや車両を探せ。\n<br>生存に役に立ちそうな場所を見つけ、昼夜を通して生き残れ。\n<br>シングルプレイ、ローカル&インターネットでのマルチプレイで遊べます（誰とでも、ゲームチャットも楽しめます）。\n<br>友達と、もしくは1人で物資を調達し、魚を釣れ、動物を狩れ、明日命があるかは君次第だ。",
-    "name": "Ice Station Z",
+    "release_date_on_eshop": "2017-04-05",
+    "product_code": "CTR-N-KZSJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "アドベンチャー"
@@ -26,7 +22,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

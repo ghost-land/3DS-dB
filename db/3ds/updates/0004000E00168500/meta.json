@@ -1,17 +1,13 @@
 {
-    "uid": "50010000039738",
     "tid": "0004000E00168500",
-    "product_code": "CTR-U-ALEE",
-    "platform_name": "Software Update",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-03-03",
+    "uid": "50010000039738",
+    "name": "LEGO® Marvel's Avengers\nUpdate Ver. 1.2.0",
     "formal_name": "LEGO® Marvel's Avengers Update Ver. 1.2.0",
     "description": "This is an update for the LEGO® Marvel's Avengers game. This download does not contain the full version of the title. In order to use this update, you must have the full version of LEGO® Marvel's Avengers.",
-    "name": "LEGO® Marvel's Avengers\nUpdate Ver. 1.2.0",
+    "release_date_on_eshop": "2016-03-03",
+    "product_code": "CTR-U-ALEE",
+    "platform_name": "Software Update",
+    "region": "North America",
     "genres": [
         "Updates"
     ],
@@ -24,7 +20,11 @@
         "French",
         "Portuguese"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v2.2.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "descriptors": []
 }

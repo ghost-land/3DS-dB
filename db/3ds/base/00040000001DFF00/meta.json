@@ -1,17 +1,13 @@
 {
-    "uid": "50010000048815",
     "tid": "00040000001DFF00",
-    "product_code": "CTR-N-A7ZE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2020-09-24",
+    "uid": "50010000048815",
+    "name": "Maze Breaker 4",
     "formal_name": "Maze Breaker 4",
     "description": "The goal of Maze Breaker is to hit and break all the blocks to clear a level, while avoiding obstacles, and getting the highest score possible.",
-    "name": "Maze Breaker 4",
+    "release_date_on_eshop": "2020-09-24",
+    "product_code": "CTR-N-A7ZE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Arcade",
         "Other"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000042488",
     "tid": "00040000001BD400",
-    "product_code": "CTR-N-KRWE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-06-22",
+    "uid": "50010000042488",
+    "name": "RPG Maker Player",
     "formal_name": "RPG Maker Player",
     "description": "Download and play RPG games created by the amazing and imaginative users of RPG Maker Fes. To create your own RPG games, make sure to purchase RPG Maker Fes.",
-    "name": "RPG Maker Player",
+    "release_date_on_eshop": "2017-06-22",
+    "product_code": "CTR-N-KRWE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "RPG",
         "Other"
@@ -22,7 +18,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v1.1.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

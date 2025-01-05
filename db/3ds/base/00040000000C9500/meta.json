@@ -1,17 +1,13 @@
 {
-    "uid": "50010000013111",
     "tid": "00040000000C9500",
-    "product_code": "CTR-N-JMYJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-01-30",
+    "uid": "50010000013111",
+    "name": "peakvox ミュウミュウトレイン",
     "formal_name": "peakvox ミュウミュウトレイン",
     "description": "ダッシュとジャンプだけの簡単操作でゴールを目指すアクションゲームです。\n<br>逃げまわるネコたちをつかまえればつかまえるほど、猛スピードでかけぬけて行くことができます。\n<br>\n<br>ゴールタイムのランクに応じて手に入るメダルを集めて、さまざまなアイテムをアンロック! ちょっとやそっとじゃ攻略できない全30ステージで、すべてのメダルを手に入れよう!\n<br>\n<br>ほかにも、Miiでプレイできるようになったり、すれちがい通信で他のプレイヤーとベストタイムやゴーストを交換できたり、いつの間に通信でpeakvoxからお知らせやゴーストが届いたりなど、やりこみ要素が盛りだくさんです。",
-    "name": "peakvox ミュウミュウトレイン",
+    "release_date_on_eshop": "2013-01-30",
+    "product_code": "CTR-N-JMYJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "アドベンチャー",
@@ -27,7 +23,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.2.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

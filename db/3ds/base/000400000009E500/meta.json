@@ -1,17 +1,13 @@
 {
-    "uid": "50010000013071",
     "tid": "000400000009E500",
-    "product_code": "CTR-P-ACFP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000013071",
+    "name": "Castlevania: Lords of Shadow\nMirror of Fate",
     "formal_name": "Castlevania: Lords of Shadow\nMirror of Fate",
     "description": "What was once Gabriel Belmont is\nnow a powerful vampire called\nDracula. Join his descendants, the\nfamed Belmont clan as they seek his\nultimate destruction.\n<br/><br/>\n• Intense whip combat and\nplatforming.\n<br/><br/>\n• Huge adventure with deep\nexploration and challenges.\n<br/><br/>\n• Explore Dracula's castle and\ndiscover its darkest secrets.",
-    "name": "Castlevania: Lords of Shadow\nMirror of Fate",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "CTR-P-ACFP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Action",
         "Adventure"
@@ -26,7 +22,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "16"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

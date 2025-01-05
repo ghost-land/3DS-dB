@@ -1,17 +1,13 @@
 {
-    "uid": "50010000021094",
     "tid": "00040000000DCE00",
-    "product_code": "CTR-P-AJ3P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-05-02",
+    "uid": "50010000021094",
+    "name": "Mario Golf™ World Tour",
     "formal_name": "Mario Golf™ World Tour",
     "description": "Grab your clubs and bring fun to the\nfore in Mario Golf: World Tour on\nNintendo 3DS family systems! Join\nMario and friends for engrossing golf\naction on your own, or tee off with\nplayers from all over the world in\nthrilling online multiplayer matches.\n<br/><br/>\nThe Mario Golf series is known for\ncombining deceptively deep golf\ngameplay with ideas you could only\nfind in a Mario game, and Mario Golf:\nWorld Tour is no exception! Master a\nrange of courses sure to test even the\nmost experienced player. It’s not all\nlush greens and blue skies though –\ntake to the fairway on sandy shores,\nor shoot for the pin on courses\ninspired by the world of Mario!",
-    "name": "Mario Golf™ World Tour",
+    "release_date_on_eshop": "2014-05-02",
+    "product_code": "CTR-P-AJ3P",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Sports"
     ],
@@ -34,7 +30,11 @@
         "Portuguese",
         "Russian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.2.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

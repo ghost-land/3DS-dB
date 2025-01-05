@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000091",
     "tid": "0004000000034400",
-    "product_code": "CTR-P-ASCJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "17"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000000091",
+    "name": "Tom Clancy's スプリンターセル 3D",
     "formal_name": "Tom Clancy's スプリンターセル 3D",
     "description": "『スプリンターセル 3D』は現実に起こりうる国際的なテロリズムを題材とした、本格派ステルスアクションゲーム。NSA(国家安全保障局)の秘密部隊サードエシュロンに所属するエージェント“サム･フィッシャー”は、誘拐事件に端を発するテロ組織の情報を追って中米へ飛んだ。しかし見えてきたのは、世界を再び戦争に巻き込むほどの巨大な陰謀の一端。渦巻く陰謀の焦点は日本に……。\n<br>\n<br>3Dで設計されたゲーム空間は、ニンテンドー3DSならではの立体視によって、文字どおりリアルに、スリリングなものになった。敵との位置関係、さまざまな障害物などの認識しやすさは、ステルスゲームにとって大きな前進である。さらに、武器選択やガジェット管理などは、タッチスクリーンに表示されるアイコンをタッチするだけ。2画面だからこその直感的な操作により、快適なゲームプレイが可能となった。",
-    "name": "Tom Clancy's スプリンターセル 3D",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ASCJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "シューティング",
@@ -23,7 +19,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "17"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000014892",
     "tid": "00040000000F5200",
-    "product_code": "CTR-N-JT4J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-06-26",
+    "uid": "50010000014892",
+    "name": "ゲキヤバランナー",
     "formal_name": "ゲキヤバランナー",
     "description": "『ゲキヤバランナー』は、走り出したらとまらない｢森のヨーセー｣さんを操作し、ゴールを目指すハイスピードランアクションゲームです。\n<br>\n<br>道中にはさまざまな障害物があり、｢ジャンプ｣や｢バッファロー｣や｢パンツグライダー｣や｢タイムクロック(まき戻し)｣を駆使し越えていかなければなりません。\n<br>\n<br>メルヘンチックな世界観とは裏腹に、一部ゲキムズなギミックとステージが、腕に自信があるアナタを待ち受けます。",
-    "name": "ゲキヤバランナー",
+    "release_date_on_eshop": "2013-06-26",
+    "product_code": "CTR-N-JT4J",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

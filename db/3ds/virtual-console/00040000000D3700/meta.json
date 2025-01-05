@@ -1,17 +1,13 @@
 {
-    "uid": "50010000022017",
     "tid": "00040000000D3700",
-    "product_code": "CTR-N-TC3P",
-    "platform_name": "NES",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-05-22",
+    "uid": "50010000022017",
+    "name": "Double Dragon II:\nThe Revenge",
     "formal_name": "Double Dragon II:\nThe Revenge",
     "description": "Billy and Jimmy Lee, the Double\nDragons, are back to avenge the loss\nof Marian!\n<br/><br/>\nIn their quest to defeat the evil\nShadow Warriors, the duo face nine\nmissions up against deadly street\ngangs, ninjas, and huge mutant\nfighters!\n<br/><br/>\nTraverse through construction sites,\nalleyways, and underwater hideouts\nfilled with traps. Can Billy and Jimmy\ncontend with the enemies placed\nbefore them and ultimately save the\nworld?!\n<br/><br/>\nBest of all, this conversion of the\narcade smash features simultaneous\ntwo-player action!",
-    "name": "Double Dragon II:\nThe Revenge",
+    "release_date_on_eshop": "2014-05-22",
+    "product_code": "CTR-N-TC3P",
+    "platform_name": "NES",
+    "region": "Europe",
     "genres": [
         "Fighting",
         "Action",
@@ -23,7 +19,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "7"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

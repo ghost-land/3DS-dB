@@ -1,17 +1,13 @@
 {
-    "uid": "50010000023456",
     "tid": "0004000000129D00",
-    "product_code": "CTR-N-JFNJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-06-25",
+    "uid": "50010000023456",
+    "name": "不思議の国の冒険酒場",
     "formal_name": "不思議の国の冒険酒場",
     "description": "『不思議の国の冒険酒場』は ファンタジー世界で酒場を経営し、仲間と共に冒険に出かけるRPGです。\n<br>冒険に出かけた先でモンスターと戦って食材を手に入れ、料理を作ります。\n<br>作った料理を酒場で売り、王国一の店になることを目指しましょう!",
-    "name": "不思議の国の冒険酒場",
+    "release_date_on_eshop": "2014-06-25",
+    "product_code": "CTR-N-JFNJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.2.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

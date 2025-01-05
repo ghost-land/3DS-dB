@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000701",
     "tid": "000400000004C800",
-    "product_code": "CTR-P-ADTP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000000701",
+    "name": "Dream Trigger 3D",
     "formal_name": "Dream Trigger 3D",
     "description": "As the “fixer of dreams”, it’s up to\nyou to enter 10 stunning 3D\nenvironments and end the nightmarish\nattacks of the enemy before they\noverrun you. With 50 levels to\nconquer and over 100 challenges to\nachieve, the arcade action never lets\nup!",
-    "name": "Dream Trigger 3D",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ADTP",
+    "platform_name": "Nintendo 3DS (Card)",
+    "region": "Europe",
     "genres": [
         "Shooter",
         "Action"
@@ -24,7 +20,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

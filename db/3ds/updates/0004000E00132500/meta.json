@@ -1,23 +1,23 @@
 {
-    "uid": "50010000032535",
     "tid": "0004000E00132500",
-    "product_code": "CTR-U-AY6A",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-05-15",
+    "uid": "50010000032535",
+    "name": "Code Name: S.T.E.A.M.:\nUpdate",
     "formal_name": "Code Name: S.T.E.A.M.:\nUpdate",
     "description": "An update for \"Code Name:\nS.T.E.A.M.\" is now available from\nNintendo eShop.\n<br/><br/>\nAll customers who own a copy of\n“Code Name: S.T.E.A.M.” should\ndownload the update.\n<br/><br/>\nThis will update the software to\nVersion 1.2.0 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.",
-    "name": "Code Name: S.T.E.A.M.:\nUpdate",
+    "release_date_on_eshop": "2015-05-15",
+    "product_code": "CTR-U-AY6A",
+    "platform_name": "Update Data",
+    "region": "Region Free",
     "genres": [
         "Update Data"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v2.2.0",
-    "region": "Region Free"
+    "disclaimer": null,
+    "descriptors": []
 }

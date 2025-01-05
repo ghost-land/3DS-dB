@@ -1,17 +1,13 @@
 {
-    "uid": "50010000001003",
     "tid": "000480044B365145",
-    "product_code": "TWL-N-K6QE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2010-07-26",
+    "uid": "50010000001003",
+    "name": "Absolute BrickBuster",
     "formal_name": "Absolute BrickBuster",
     "description": "Classic brick game action is here on the Nintendo DSi system! There are two modes of play: Free Play and Challenge. You pick one of eight characters and set special items to play at your own pace in Free Play Mode. The special items include different balls with special attributes, expandable paddle, and paddle tilt. There are 10 stages in all. Each even-numbered stage gives you a mission, and the result of the mission will determine the level of the next two stages you will play. In Challenge Mode, different levels of missions are given—clear them to advance in the game.",
-    "name": "Absolute BrickBuster",
+    "release_date_on_eshop": "2010-07-26",
+    "product_code": "TWL-N-K6QE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Action",
         "Arcade"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

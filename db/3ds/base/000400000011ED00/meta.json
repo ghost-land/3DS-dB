@@ -1,17 +1,13 @@
 {
-    "uid": "50010000021436",
     "tid": "000400000011ED00",
-    "product_code": "CTR-N-JYJJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-04-30",
+    "uid": "50010000021436",
+    "name": "スノーモーターレーシング3D",
     "formal_name": "スノーモーターレーシング3D",
     "description": "『スノーモーターレーシング3D』は、全18のコースを舞台に雪上のレースを繰り広げる「スノーモービルレーシングゲーム」です。\n<br>少しの油断が命取りになる雪上の戦い! 一発逆転のターボブースト!\n<br>\n<br>さらに、最大6人参加可能な、ローカルプレイ対戦機能、ダウンロードプレイ対戦機能搭載! 寒い冬はコレでアツくなれ!",
-    "name": "スノーモーターレーシング3D",
+    "release_date_on_eshop": "2014-04-30",
+    "product_code": "CTR-N-JYJJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "レース",
         "スポーツ"
@@ -25,7 +21,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.2.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000001384",
     "tid": "000480044B344A50",
-    "product_code": "TWL-N-K4JP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000001384",
+    "name": "Simply Mahjong",
     "formal_name": "Simply Mahjong",
     "description": "Simply Mahjong gives you exactly\nwhat you want: pure Mahjong on your\nDSi! The simple game design and\neasy, intuitive controls make it a game\nthat the whole family can enjoy. The\ngame has 50 puzzles in each level to\nguarantee hours of gameplay fun.",
-    "name": "Simply Mahjong",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-K4JP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Puzzle"
     ],
@@ -23,7 +19,11 @@
         "German",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

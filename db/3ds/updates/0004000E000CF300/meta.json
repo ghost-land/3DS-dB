@@ -1,17 +1,13 @@
 {
-    "uid": "50010000031821",
     "tid": "0004000E000CF300",
-    "product_code": "CTR-U-JCMJ",
-    "platform_name": "更新データ",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-03-18",
+    "uid": "50010000031821",
+    "name": "更新データ Ver. 1.1\nカスタムモンスターズ",
     "formal_name": "更新データ Ver. 1.1\nカスタムモンスターズ",
     "description": "ニンテンドー3DSソフト『カスタムモンスターズ』の、Newニンテンドー3DSでQRコードを読み込むのに必要な更新データです。<br>Newニンテンドー3DSで「カスタムモンスターズ」を遊ぶお客様は、必ずダウンロードください。\n<br>※Newニンテンドー3DS以外で遊ぶ場合は、更新データをダウンロードしなくてもお楽しみいただけます。",
-    "name": "更新データ Ver. 1.1\nカスタムモンスターズ",
+    "release_date_on_eshop": "2015-03-18",
+    "product_code": "CTR-U-JCMJ",
+    "platform_name": "更新データ",
+    "region": "Japan",
     "genres": [
         "更新データ"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "ニンテンドー3DSソフト『カスタムモンスターズ』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.2.0",
-    "region": "Japan"
+    "disclaimer": "ニンテンドー3DSソフト『カスタムモンスターズ』の更新データです。\n<br>本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "descriptors": []
 }

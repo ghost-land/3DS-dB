@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009002",
     "tid": "000400000004CB00",
-    "product_code": "CTR-P-ACRJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000009002",
+    "name": "ナイトメアパズル クラッシュ3D",
     "formal_name": "ナイトメアパズル クラッシュ3D",
     "description": "3次元を2次元に、2次元を3次元に切り替える“クラッシュ”をつかい、パズルのようなステージをすすんでいくアクションゲーム。それが『ナイトメアパズル クラッシュ3D』です!\n<br>2次元と3次元を切り替えながら遊ぶという、ニンテンドー3DSの立体視とも親和性の高い、斬新なゲーム性が特徴です。",
-    "name": "ナイトメアパズル クラッシュ3D",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ACRJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "パズル",
         "アクション"
@@ -23,7 +19,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

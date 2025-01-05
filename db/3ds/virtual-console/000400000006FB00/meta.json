@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007309",
     "tid": "000400000006FB00",
-    "product_code": "CTR-N-TAHP",
-    "platform_name": "NES",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000007309",
+    "name": "NES Open Tournament Golf",
     "formal_name": "NES Open Tournament Golf",
     "description": "Tee off with Mario (and Luigi in\ntwo-player mode) in this classic\nsporting simulation.<br>\n<br>\nIn NES Open Tournament Golf,\nchoose from three international\ncourses – UK, US and Japan – and\nthree different game types – Stroke\nPlay, Match Play and Tournament.<br>\n<br>\nSet up your shot on the overhead\nmap screen by choosing the correct\nclub and adjusting for wind speed and\ndirection, then switch to the action\nscreen and make your shot using\ncareful timing!",
-    "name": "NES Open Tournament Golf",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "CTR-N-TAHP",
+    "platform_name": "NES",
+    "region": "Europe",
     "genres": [
         "Sports",
         "Other"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v1.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

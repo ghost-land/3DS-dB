@@ -1,17 +1,13 @@
 {
-    "uid": "50010000026135",
     "tid": "0004000000136100",
-    "product_code": "CTR-N-AYXE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-09-25",
+    "uid": "50010000026135",
+    "name": "Yu-Gi-Oh! ZEXAL World Duel\nCarnival",
     "formal_name": "Yu-Gi-Oh! ZEXAL World Duel\nCarnival",
     "description": "In Yu-Gi-Oh! ZEXAL World Duel Carnival, relive the story of the World Duel Carnival episodes from the first season of the Yu-Gi-Oh! ZEXAL animated series! Play as yourself or one of eleven playable characters from the series, like Yuma, Astral, Tori, Shark and more, each with their own storyline and earn an invite to the World Duel Carnival where you can battle with 40 Duelists from the TV show!\n<br><br>\nPlayers can enjoy a Story Mode and a Free Duel Mode where they can play with more than 5,700 cards from the official Yu-Gi-Oh! TRADING CARD GAME! Yu-Gi-Oh! ZEXAL World Duel Carnival is the first Yu-Gi-Oh! ZEXAL video game and the first Yu-Gi-Oh! video game to be released on the Nintendo 3DS.",
-    "name": "Yu-Gi-Oh! ZEXAL World Duel\nCarnival",
+    "release_date_on_eshop": "2014-09-25",
+    "product_code": "CTR-N-AYXE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Strategy",
         "Puzzle",
@@ -25,7 +21,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

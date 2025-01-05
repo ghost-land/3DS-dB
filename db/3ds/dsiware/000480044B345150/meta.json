@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007686",
     "tid": "000480044B345150",
-    "product_code": "TWL-N-K4QP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000007686",
+    "name": "Academy: Checkers",
     "formal_name": "Academy: Checkers",
     "description": "The world’s most famous two-player\nboard game is joining our Academy. If\nthere's no one around, skilful AI\nplayers will play you in 3 different\ndifficulty modes in 2 Checkers\nvariants: English Checkers and\nInternational Draughts. Compete in\nLeague Mode to prove that you're the\nCheckers Champ. Collect\nachievements and become a real\nCheckers Master!",
-    "name": "Academy: Checkers",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-K4QP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Board Game",
         "Puzzle",
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

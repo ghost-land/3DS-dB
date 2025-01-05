@@ -1,17 +1,13 @@
 {
-    "uid": "50010000041176",
     "tid": "000400000F704100",
-    "product_code": "KTR-N-UAZE",
-    "platform_name": "Super Nintendo",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-07-28",
+    "uid": "50010000041176",
+    "name": "Street Fighter™ II Turbo:\nHyper Fighting",
     "formal_name": "Street Fighter™ II Turbo:\n<br>Hyper Fighting",
     "description": "Street Fighter II™ defined gaming in the 1990s by revolutionising the fighting game genre.\n<br>\n<br>Regarded as one of the greatest games of all time, Street Fighter II Turbo: Hyper Fighting was the third release of the original Street Fighter II series.\n<br>\n<br>Featuring the original eight world warriors including Ryu, Chun-Li and Guile - along with playable boss characters Balrog, Vega, Sagat and M. Bison - Street Fighter II Turbo: Hyper Fighting offers enhanced gameplay speed and improved character balancing.\n<br>\n<br>This is the US version of the game.",
-    "name": "Street Fighter™ II Turbo:\nHyper Fighting",
+    "release_date_on_eshop": "2016-07-28",
+    "product_code": "KTR-N-UAZE",
+    "platform_name": "Super Nintendo",
+    "region": "North America",
     "genres": [
         "Fighting"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000014513",
     "tid": "00040000000EA800",
-    "product_code": "CTR-N-JSYP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-05-30",
+    "uid": "50010000014513",
+    "name": "SpeedX 3D Hyper Edition",
     "formal_name": "SpeedX 3D Hyper Edition",
     "description": "You won't believe what's possible in\na tunnel racing game! Speedx 3D\nHyper Edition is the fastest tunnel\nracer ever! Be amazed by its\nenhanced visuals, start your run with\njust one tap on the screen and\nexperience incredible thrills as you\nrace through the new location.\nSpeedx 3D Hyper Edition offers new\nmusic tracks, improved controls and\neven faster gameplay. Trigger Hyper\nmode and see how far can you go!",
-    "name": "SpeedX 3D Hyper Edition",
+    "release_date_on_eshop": "2013-05-30",
+    "product_code": "CTR-N-JSYP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "region": "Europe",
     "genres": [
         "Racing",
         "Arcade",
@@ -23,7 +19,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

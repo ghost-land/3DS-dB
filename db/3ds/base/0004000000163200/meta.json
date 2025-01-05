@@ -1,17 +1,13 @@
 {
-    "uid": "50010000032636",
     "tid": "0004000000163200",
-    "product_code": "CTR-N-KAAP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-05-14",
+    "uid": "50010000032636",
+    "name": "Fullblox™",
     "formal_name": "Fullblox™",
     "description": "Free to Start; Free to Discover! Now\neveryone can try out the renowned\nPullblox series.\n<br/><br/>\nFullblox is the fourth\npuzzle-platforming game in the\nPullblox series, again starring the\ncharming character Mallo and his\nfriends. It builds on the gameplay of\nPullblox, which revolves around\npulling and pushing block layers to\ncreate a path to the goal atop of a\nstructure. For the first time in the\nseries players expand blocks into all\nfour directions (including the rear) of\na structure.\n<br/><br/>\nOffers in-game purchases.",
-    "name": "Fullblox™",
+    "release_date_on_eshop": "2015-05-14",
+    "product_code": "CTR-N-KAAP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "region": "Europe",
     "genres": [
         "Puzzle"
     ],
@@ -28,7 +24,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

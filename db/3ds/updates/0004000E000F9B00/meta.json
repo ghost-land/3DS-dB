@@ -1,17 +1,13 @@
 {
-    "uid": "50010000028295",
     "tid": "0004000E000F9B00",
-    "product_code": "CTR-U-BDSJ",
-    "platform_name": "更新データ",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-03-25",
+    "uid": "50010000028295",
+    "name": "更新データ Ver. 1.4\nダービースタリオンGOLD",
     "formal_name": "更新データ Ver. 1.4\nダービースタリオンGOLD",
     "description": "2015年3月25日更新\n\nニンテンドー3DSソフト『ダービースタリオンGOLD』の更新データです。\nより快適なプレイ環境を提供するための更新となっています。\n『ダービースタリオンGOLD』をお持ちのお客様は、必ずダウンロードしてください。",
-    "name": "更新データ Ver. 1.4\nダービースタリオンGOLD",
+    "release_date_on_eshop": "2015-03-25",
+    "product_code": "CTR-U-BDSJ",
+    "platform_name": "更新データ",
+    "region": "Japan",
     "genres": [
         "更新データ"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "ニンテンドー3DSソフト『ダービースタリオンGOLD』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v4.8.0",
-    "region": "Japan"
+    "disclaimer": "ニンテンドー3DSソフト『ダービースタリオンGOLD』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "descriptors": []
 }

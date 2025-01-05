@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009463",
     "tid": "0004000000056900",
-    "product_code": "CTR-P-AP9J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000009463",
+    "name": "パックマンパーティ 3D",
     "formal_name": "パックマンパーティ 3D",
     "description": "ボードゲーム上のフィールドを回り、クッキーを集めていく「パーティモード」では、平原やオバケの街など3つの世界をミニゲームバトルで対決しながら冒険!\n<br>\n<br>ゲーム参加者全員が同時に楽しめるミニゲームの連続でゲームが進行。ボードゲームにありがちな待ち時間のストレスもありません。\n<br>\n<br>50種類以上のミニゲームバトルでは、集めたパワークッキーを使えば、一発逆転のチャンス! パワークッキー効果はゲームごとに違うので、使ってみてのお楽しみ!",
-    "name": "パックマンパーティ 3D",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AP9J",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "その他"
     ],
@@ -23,7 +19,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

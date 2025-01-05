@@ -1,17 +1,13 @@
 {
-    "uid": "50010000011636",
     "tid": "00040000000A8C00",
-    "product_code": "CTR-P-AK8J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000011636",
+    "name": "哭牙 KOKUGA",
     "formal_name": "哭牙 KOKUGA",
     "description": "敵を狙う、撃つ、破壊する……シューティングの原点に還る楽しさ、それが『哭牙』。\n<br>\n<br>基本ルールはシンプルでありながら、プレイヤーのアイテムである「カード」を使った戦略性、究極の自由度を持つ「ステージセレクト」などが、奥深いゲーム性を生み出しています。\n<br>\n<br>さらに、1つのソフトで最大4人まで遊ぶことができる「ダウンロードプレイ」に対応! いつでもどこでも、友達と協力プレイができる!\n<br>\n<br>強敵であるボスに、1人でチャレンジするもよし、仲間と協力して立ち向かうもよし……手軽に遊べる\"本格的マルチプレイシューティング\"です。",
-    "name": "哭牙 KOKUGA",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AK8J",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "シューティング",
         "アクション"
@@ -24,7 +20,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000025516",
     "tid": "0004000000139C00",
-    "product_code": "CTR-N-KRPJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-09-10",
+    "uid": "50010000025516",
+    "name": "みんなで まもって騎士\n姫のトキメキらぷそでぃ",
     "formal_name": "みんなで まもって騎士\n姫のトキメキらぷそでぃ",
     "description": "懐かしの8ビットグラフィックに、古代祐三によるこだわりのサウンド。\n<br>しっかり気持ちいいアクションと、タワーディフェンスで白熱の攻防が楽しめるぞ。\n<br>スキルシステムでキャラカスタマイズも可能! ローカル通信にも対応。マルチプレイでみんなで盛り上がろう!",
-    "name": "みんなで まもって騎士\n姫のトキメキらぷそでぃ",
+    "release_date_on_eshop": "2014-09-10",
+    "product_code": "CTR-N-KRPJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション"
     ],
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v4.8.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

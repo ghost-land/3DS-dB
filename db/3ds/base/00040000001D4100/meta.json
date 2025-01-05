@@ -1,17 +1,13 @@
 {
-    "uid": "50010000047375",
     "tid": "00040000001D4100",
-    "product_code": "CTR-N-LPDE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2019-05-23",
+    "uid": "50010000047375",
+    "name": "PDI Check",
     "formal_name": "PDI Check",
     "description": "PDI Check is an interactive multiple-choice game utilizing the unique color, 3-dimensional screen on the Nintendo 3DS™ system to quickly and accurately measure near visual acuity, color vision and stereopsis.",
-    "name": "PDI Check",
+    "release_date_on_eshop": "2019-05-23",
+    "product_code": "CTR-N-LPDE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Education",
         "Training",
@@ -24,7 +20,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

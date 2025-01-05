@@ -1,17 +1,13 @@
 {
-    "uid": "50010000010362",
     "tid": "000400000004A300",
-    "product_code": "CTR-P-APFP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-06-13",
+    "uid": "50010000010362",
+    "name": "Petz Fantasy 3D",
     "formal_name": "Petz Fantasy 3D",
     "description": "Hatch magic eggs into adorable\nfantasy creatures.\n<br/><br/>\nNurture them and watch their magical\npowers grow in 3D!\n<br/><br/>\n-Care for your Pets and watch how\nthey react to you in 3D!\n<br/><br/>\n-Jump from one magical world to\nanother and play fun mini-games to\nteach them magical powers.",
-    "name": "Petz Fantasy 3D",
+    "release_date_on_eshop": "2013-06-13",
+    "product_code": "CTR-P-APFP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Other"
     ],
@@ -26,7 +22,11 @@
         "Italian",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v1.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

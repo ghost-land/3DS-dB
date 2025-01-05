@@ -1,17 +1,13 @@
 {
-    "uid": "50010000042896",
     "tid": "000400000F70C300",
-    "product_code": "KTR-N-CACP",
-    "platform_name": "New 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-07-27",
+    "uid": "50010000042896",
+    "name": "SWIPE",
     "formal_name": "SWIPE",
     "description": "It's time to SWIPE! Move up, down, left and right to avoid the oncoming black dots. Collect as many crystals as you can to get the high score! Share your score with family and friends to see who can get the highest score - endless fun for everyone!",
-    "name": "SWIPE",
+    "release_date_on_eshop": "2017-07-27",
+    "product_code": "KTR-N-CACP",
+    "platform_name": "New 3DS (Download)",
+    "region": "Europe",
     "genres": [
         "Arcade",
         "Puzzle",
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

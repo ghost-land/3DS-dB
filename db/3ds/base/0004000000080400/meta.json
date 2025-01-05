@@ -1,17 +1,13 @@
 {
-    "uid": "50010000011627",
     "tid": "0004000000080400",
-    "product_code": "CTR-N-JMXJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-08-29",
+    "uid": "50010000011627",
+    "name": "ケモノミクス+",
     "formal_name": "ケモノミクス+",
     "description": "『ケモノミクス』はニンテンドーDSiウェアで配信されたゲームです。\n<br>\n<br>『ケモノミクス+』では『ケモノミクス』の楽しさをそのままにケモノの可愛さ、楽しさをちょっとプラスしました。\n<br>\n<br>きっと今回もあなた好みのケモノが作れることでしょう。",
-    "name": "ケモノミクス+",
+    "release_date_on_eshop": "2012-08-29",
+    "product_code": "CTR-N-JMXJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "シミュレーション"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

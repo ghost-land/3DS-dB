@@ -1,17 +1,13 @@
 {
-    "uid": "50010000002384",
     "tid": "000480044B424C50",
-    "product_code": "TWL-N-KBLP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000002384",
+    "name": "BLOONS",
     "formal_name": "BLOONS",
     "description": "BLOONS is an exciting puzzle game\nbased on the simple fact that popping\nballoons is fun. Pop your way through\ndozens of puzzling levels in this\nexciting puzzle adventure. Each level\nwill have a different arrangement of\nballoons, try and pop as many as you\ncan with the darts you are given. Look\nout for special balloons, blocks and\ndarts, and have fun discovering what\nthey do. Bloons is a great game that\nyou can pick up and play for a few\nminutes while you’re queued up at the\nshops, or you can sit on the settee for\nhours as you work your way through\nthe 70 levels included in the game.\nAnd as an added bonus, we’ve\nincluded a level editor where you can\ncreate your own balloon puzzles!",
-    "name": "BLOONS",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KBLP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Puzzle"
     ],
@@ -22,7 +18,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

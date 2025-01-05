@@ -1,17 +1,13 @@
 {
-    "uid": "50010000008701",
     "tid": "0004000000084500",
-    "product_code": "CTR-N-JVLJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-07-04",
+    "uid": "50010000008701",
+    "name": "たまごっちのプチプチ\nおみせっちでバイオリンレッスン",
     "formal_name": "ちょ～りっち! たまごっちのプチプチ\nおみせっちでバイオリンレッスン",
     "description": "2018年9月28日(金)12時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>たまごっちといっしょにおみせっちの世界でバイオリンレッスン!\n<br>表示される矢印に合わせてタッチペンをスライドさせるだけで、まるでバイオリンを弾いているかのような気分が味わえます。演奏できる曲は全部で8曲。お気に入りの曲を見つけてたくさん練習しましょう。",
-    "name": "たまごっちのプチプチ\nおみせっちでバイオリンレッスン",
+    "release_date_on_eshop": "2012-07-04",
+    "product_code": "CTR-N-JVLJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "音楽"
     ],
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

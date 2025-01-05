@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009564",
     "tid": "000400000006DB00",
-    "product_code": "CTR-P-AHGJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000009564",
+    "name": "姫ギャル♥パラダイス メチカワ!\nアゲ盛り↑センセーション!",
     "formal_name": "姫ギャル♥パラダイス メチカワ!\nアゲ盛り↑センセーション!",
     "description": "●大人気マンガ『姫ギャル♥パラダイス』の世界に飛び込んで、ギャルなりきり体験!\n<br>\n<br>原作マンガの人気キャラクターが総登場し、おもしろエピソードがたっぷり盛り込まれたオリジナルストーリーを楽しみながら、ギャルになるためのテクニックを身につけることができます! \n<br>さらに、覚えたテクニックを使って、盛り髪からメイク、デコネイルまで、ギャルのコーディネートを楽しめたり、ミニゲームでギャルのセンスをみがくこともできます!",
-    "name": "姫ギャル♥パラダイス メチカワ!\nアゲ盛り↑センセーション!",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AHGJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "アドベンチャー",
         "シミュレーション"
@@ -23,7 +19,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

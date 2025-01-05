@@ -1,17 +1,13 @@
 {
-    "uid": "50010000004343",
     "tid": "000480044B4D3350",
-    "product_code": "TWL-N-KM3P",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000004343",
+    "name": "Simply Minesweeper",
     "formal_name": "Simply Minesweeper",
     "description": "Simply Minesweeper gives you\nexactly what you want: pure\nminesweeper on your Nintendo DSi!\nThe simple game design and easy,\nintuitive controls make it a game that\nthe whole family can enjoy. The game\nhas 50 puzzles in each level to\nguarantee hours of gameplay fun.",
-    "name": "Simply Minesweeper",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KM3P",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Strategy"
@@ -24,7 +20,11 @@
         "German",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000006262",
     "tid": "000480044B535756",
-    "product_code": "TWL-N-KSWV",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000006262",
+    "name": "SteamWorld\nTower Defense",
     "formal_name": "SteamWorld\nTower Defense",
     "description": "Welcome to Cowbot County, home of\nthe robotic master race of\nSteamWorld! As the Sheriff, you must\nstop the human invaders in their mad\nhunt for gold. Build attack robots next\nto the roads they roam, and watch the\ninvaders go down!<br>\n<br>\nUse the special skills of your robots\nto your advantage in this original\nTower Defence variation, where\nstrategy and execution are equally\nimportant. For rookies, there is an\n\"Easy\" mode - but all will find a\nunique challenge in the great Western\nreaches.<br>\n<br>\nSee ya soon!",
-    "name": "SteamWorld\nTower Defense",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KSWV",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Action",
         "Strategy"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

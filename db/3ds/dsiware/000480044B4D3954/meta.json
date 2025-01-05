@@ -1,17 +1,13 @@
 {
-    "uid": "50010000004322",
     "tid": "000480044B4D3954",
-    "product_code": "TWL-N-KM9T",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2009-04-20",
+    "uid": "50010000004322",
+    "name": "Master of Illusion™ Express: Deep Psyche",
     "formal_name": "Master of Illusion™ Express: Deep Psyche",
     "description": "Master of Illusion Express titles are mind-bending magic tricks pulled from the popular Nintendo DS game. Learn the illusions, practice up and then amaze your friends. Master of Illusion Express: Deep Psyche asks a series of pointed questions and then reveals to you a startling truth.",
-    "name": "Master of Illusion™ Express: Deep Psyche",
+    "release_date_on_eshop": "2009-04-20",
+    "product_code": "TWL-N-KM9T",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Other"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "This game content was previously released as part of Master of Illusion for Nintendo DS.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "This game content was previously released as part of Master of Illusion for Nintendo DS.",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000012690",
     "tid": "00040000000BBF00",
-    "product_code": "CTR-N-JCZE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-12-13",
+    "uid": "50010000012690",
+    "name": "CRIMSON SHROUD",
     "formal_name": "CRIMSON SHROUD",
     "description": "LEVEL-5 and Yasumi Matsuno have brought together the industry's most venerated creators in the world of RPGs to take up the challenge and lend their support to the production of CRIMSON SHROUD.\n<br><br>\nA tribute to the table-top RPG, crucial decisions hinge on the roll of a die. Players roll dice in real time and chain skills together to earn bonus dice of greater and greater face value. Use your dice strategically though, or your foes may yet get the best of you!\n<br><br>\nFollow the tale of a young \"Chaser\" named Giauque, as he and his team find themselves drawn into the mystery of the Original Gift, the Crimson Shroud. A bold new adventure awaits!",
-    "name": "CRIMSON SHROUD",
+    "release_date_on_eshop": "2012-12-13",
+    "product_code": "CTR-N-JCZE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "RPG",
         "Adventure",
@@ -23,7 +19,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "13"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

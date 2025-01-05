@@ -1,23 +1,23 @@
 {
-    "uid": "50010000034015",
     "tid": "0004000E00159000",
-    "product_code": "CTR-U-KTTP",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-06-04",
+    "uid": "50010000034015",
+    "name": "Titan Attacks! - Update",
     "formal_name": "Titan Attacks! - Update",
     "description": "Fixed stability issues.",
-    "name": "Titan Attacks! - Update",
+    "release_date_on_eshop": "2015-06-04",
+    "product_code": "CTR-U-KTTP",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Other"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

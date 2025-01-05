@@ -1,17 +1,13 @@
 {
-    "uid": "50010000041787",
     "tid": "0004000000190300",
-    "product_code": "CTR-N-KZSE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-11-03",
+    "uid": "50010000041787",
+    "name": "Ice Station Z",
     "formal_name": "Ice Station Z",
     "description": "MULTIPLAYER OPEN WORLD ZOMBIE SURVIVAL for Nintendo 3DS™\n<br>\n<br>After a strange virus spreads across an Arctic island you are left alone to survive.\n<br>\n<br>Scavenge for food, drink, medical supplies, weapons, ammunition, clothes, fuel and other useful equipment.\n<br>\n<br>Find shelters, vehicles and other interesting locations to help you survive during day and night.\n<br>\n<br>Features Single Player, Local Play and Internet Multiplayer (Worldwide with anyone plus Game Chat).\n<br>\n<br>Go scavenging, fishing and hunting with friends or alone, it's up to you how you survive.",
-    "name": "Ice Station Z",
+    "release_date_on_eshop": "2016-11-03",
+    "product_code": "CTR-N-KZSE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Action"
     ],
@@ -25,7 +21,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "13"
+    },
     "version": "v2.4.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+    "descriptors": []
 }

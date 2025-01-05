@@ -1,17 +1,13 @@
 {
-    "uid": "50010000006761",
     "tid": "000400000004D800",
-    "product_code": "CTR-P-AKNJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000006761",
+    "name": "剣と魔法と学園モノ。3D",
     "formal_name": "剣と魔法と学園モノ。3D",
     "description": "…それでも、叶えたい夢がある――。\n<br>\n<br>75,000パターン以上のキャラクターメイキングと相性設定で、自分だけの妄想パーティが楽しめる。\n<br>かわいい見た目に反して、ゲーム内容はやり応え抜群。3Dで表現されたダンジョンに挑み、クエストを攻略していこう。\n<br>ニンテンドー3DSの機能を使った新システムにも注目!!",
-    "name": "剣と魔法と学園モノ。3D",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AKNJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング"
     ],
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

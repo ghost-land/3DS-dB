@@ -1,17 +1,13 @@
 {
-    "uid": "50010000044895",
     "tid": "00040000001CA400",
-    "product_code": "CTR-N-BFBJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2018-03-15",
+    "uid": "50010000044895",
+    "name": "フューチャーカードバディファイト\n誕生！オレたちの最強バディ！",
     "formal_name": "フューチャーカード バディファイト\n誕生！オレたちの最強バディ！",
     "description": "プレイヤーが白熱のカードファイトを繰り広げるオリジナルストーリーが楽しめる、\n<br>「フューチャーカード バディファイト」シリーズの第3弾が登場！\n<br>このゲームオリジナルの主人公（プレイヤー）とバディが登場！\n<br>アニメでお馴染みのキャラクターと熱いファイトを楽しもう！！",
-    "name": "フューチャーカードバディファイト\n誕生！オレたちの最強バディ！",
+    "release_date_on_eshop": "2018-03-15",
+    "product_code": "CTR-N-BFBJ",
+    "platform_name": "3DSカード/ダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "シミュレーション",
         "テーブル"
@@ -26,7 +22,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.2.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

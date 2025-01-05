@@ -1,17 +1,13 @@
 {
-    "uid": "50010000027655",
     "tid": "0004000000149800",
-    "product_code": "CTR-N-KPQE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-11-13",
+    "uid": "50010000027655",
+    "name": "PICROSS e5",
     "formal_name": "PICROSS e5",
     "description": "The 5th game in the Picross e series, with a Navigation Feature!\nFeaturing Micross, Mega Picross and 20×15 Picross, all three modes from the previous game.\nAlso includes more than 150 satisfying, all-new puzzles to solve.\nTutorials and rule options let newcomers to the series start playing with ease.\nPicross is a \"Picture Crossword Puzzle Game\" where numbers act as hints to complete images.\nThe rules are simple and easy to grasp. Anyone can do it!",
-    "name": "PICROSS e5",
+    "release_date_on_eshop": "2014-11-13",
+    "product_code": "CTR-N-KPQE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Puzzle"
     ],
@@ -23,7 +19,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000006206",
     "tid": "000480044B534750",
-    "product_code": "TWL-N-KSGP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000006206",
+    "name": "Pocket Pack\nStrategy Games",
     "formal_name": "Pocket Pack\nStrategy Games",
     "description": "Pocket Pack: Strategy Games is a\ncollection of classic strategy games.<br>\n<br>\nGames featured are: \"Checkers\",\n\"Reversi\", \"Gomoku\", \"Chinese\nCheckers\", \"Nine Men's Morris\".<br>\n<br>\nPlay against AI opponents, or against\nfriends via wireless communication and\nDS Download Play. Win the game\ntrophies which are shared across all of\nthe \"Pocket Pack\" series.<br>\n<br>\nPocket Pack: Strategy Games is one\ngame in the \"Pocket Pack\" series\navailable on Nintendo DSiWare.",
-    "name": "Pocket Pack\nStrategy Games",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KSGP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Board Game",
@@ -24,7 +20,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000002282",
     "tid": "000480044B464F45",
-    "product_code": "TWL-N-KFOE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2010-11-29",
+    "uid": "50010000002282",
+    "name": "Frenzic",
     "formal_name": "Frenzic",
     "description": "Frenzic is a unique puzzle game that dazzles the eye, teases the brain and keeps you coming back for more! It takes only minutes to learn, but months to master as you devise new, impressive play strategies to push your brain to its limit. Compete against your personal best and climb through seven levels of Devotion from Newbie all the way to Frenzic Master. Frenzic is a must have for puzzle enthusiasts of all ages!",
-    "name": "Frenzic",
+    "release_date_on_eshop": "2010-11-29",
+    "product_code": "TWL-N-KFOE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Arcade",
         "Puzzle"
@@ -22,7 +18,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

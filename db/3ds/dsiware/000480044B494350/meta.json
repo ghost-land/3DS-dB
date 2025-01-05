@@ -1,17 +1,13 @@
 {
-    "uid": "50010000004001",
     "tid": "000480044B494350",
-    "product_code": "TWL-N-KICP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000004001",
+    "name": "Music on:\nPlaying Piano",
     "formal_name": "Music on:\nPlaying Piano",
     "description": "Playing the piano has never been so\neasy and so much fun!<br>\n<br>\nThis new collection of 15 popular\nsongs allows you to enjoy a complete\nmusical experience even if you have\nno prior knowledge of the piano.<br>\n<br>\nNotes transformed into rectangles\nappear over the piano keys to show\nyou where, when and how to play\nthem. The song speed increases\ndepending on the game's level.<br>\n<br>\n\"Music on: Playing Piano\" is an easy,\nintuitive and addictive game that will\nchallenge your auditory and visual\ncoordination.",
-    "name": "Music on:\nPlaying Piano",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KICP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Simulation",
         "Education",
@@ -24,7 +20,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

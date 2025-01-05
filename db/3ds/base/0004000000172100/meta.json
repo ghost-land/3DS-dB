@@ -1,17 +1,13 @@
 {
-    "uid": "50010000037935",
     "tid": "0004000000172100",
-    "product_code": "CTR-P-AEHJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000037935",
+    "name": "アナと雪の女王 オラフの贈りもの",
     "formal_name": "アナと雪の女王 オラフの贈りもの",
     "description": "ディズニーの映画「アナと雪の女王」から、いつも陽気でおっちょこちょいなオラフが主人公となった、横スクロールアクションゲームです。\n<br>大好きなアナにブーケをプレゼントするために、オラフはきれいなお花をたくさん集めようと冒険へでかけます。\n<br>ステージにあるお花やアイテムをたくさん見つけると、オラフのおしゃれも楽しめるようになります。\n<br>スヴェンやマシュマロウなど映画にでてきたキャラクターも登場！\n<br>飛んだり転がったり、頑張るオラフを助けてあげましょう。",
-    "name": "アナと雪の女王 オラフの贈りもの",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AEHJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "パズル"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

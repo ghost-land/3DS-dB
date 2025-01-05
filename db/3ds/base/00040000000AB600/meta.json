@@ -1,17 +1,13 @@
 {
-    "uid": "50010000010991",
     "tid": "00040000000AB600",
-    "product_code": "CTR-N-JZBJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-07-18",
+    "uid": "50010000010991",
+    "name": "脱出!ゾンビシティ",
     "formal_name": "脱出!ゾンビシティ",
     "description": "ゾンビで埋め尽くされた都市から、さまざまな銃やステージギミックを駆使して残り時間が無くなる前に脱出しよう。\n<br>途中、助けを求めている人を見つけたら、ゾンビに襲われる前に助けてあげることも忘れずに。\n<br>スライドパッドで移動、Yボタンで攻撃、という分かりやすい操作性に加え3種類の難易度設定により、アクションが苦手な人から上級者まで幅広くゲームを楽しむ事が出来ます。\n<br>また、ストーリーモードの他に、10種類のエンドレスモードがあり、思う存分ゾンビ狩りを楽しむことができます。",
-    "name": "脱出!ゾンビシティ",
+    "release_date_on_eshop": "2012-07-18",
+    "product_code": "CTR-N-JZBJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

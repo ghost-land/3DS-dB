@@ -1,17 +1,13 @@
 {
-    "uid": "50010000015173",
     "tid": "00040000000A6200",
-    "product_code": "CTR-N-TBME",
-    "platform_name": "NES",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-07-11",
+    "uid": "50010000015173",
+    "name": "Super Mario Bros.™ 2",
     "formal_name": "Super Mario Bros.™ 2",
     "description": "Mario, Luigi, Princess Toadstool, and Toad embark on a quest together to save the day against the villainous Wart. Pick up items and throw them at your adversaries to clear levels in seven fantastical worlds. Even enemies can be picked up and tossed across the screen.\n<br><br>\nEach character has a unique set of abilities: Luigi can jump higher and farther than any of the other characters, Toad can dig extremely fast and pull items out of the ground quicker than anyone, and the princess is the only one who can jump and hover temporarily. This unique installment in the Mario series will keep you coming back for more!",
-    "name": "Super Mario Bros.™ 2",
+    "release_date_on_eshop": "2013-07-11",
+    "product_code": "CTR-N-TBME",
+    "platform_name": "NES",
+    "region": "North America",
     "genres": [
         "Action",
         "Arcade"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

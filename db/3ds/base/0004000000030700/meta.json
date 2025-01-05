@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007914",
     "tid": "0004000000030700",
-    "product_code": "CTR-N-AMKP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000007914",
+    "name": "Mario Kart™ 7",
     "formal_name": "Mario Kart™ 7",
     "description": "Mario Kart 7 brings Mushroom\n<br>Kingdom racing fun into glorious 3D -\n<br>and that's just the beginning, as new\n<br>courses, strategic new abilities and\n<br>customisable karts bring the racing\n<br>excitement to new heights.\n<br>\n<br>Up to 8 players can enjoy local\n<br>wireless races or race together online.",
-    "name": "Mario Kart™ 7",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "CTR-N-AMKP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Racing",
         "Party"
@@ -36,7 +32,11 @@
         "Portuguese",
         "Russian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v2.4.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

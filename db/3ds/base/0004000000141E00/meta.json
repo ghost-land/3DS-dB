@@ -1,17 +1,13 @@
 {
-    "uid": "50010000028455",
     "tid": "0004000000141E00",
-    "product_code": "CTR-N-KMDP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-12-04",
+    "uid": "50010000028455",
+    "name": "Mindfeud",
     "formal_name": "Mindfeud",
     "description": "Take your mind on a ride with\nMindFeud!\n<br/><br/>\nMindFeud is a fun and addicting\nboard game. Learning the game is\neasy: you have to create smart\nformations of tiles in different colors\nand symbols to gain more points than\nyour opponent does. You will find out\nthat winning is harder than you think!\nStart practising against our MindFeud\nrobot “ADAMA” or try to solve one of\nthe many puzzles. Then invite your\nfriends to beat them online!\n<br/><br/>\nFeatures:<br/>\n- Fun boardgame with many different\ngame modes<br/>\n- Practice against ADAMA, the smart\ncomputer player<br/>\n- Improve your best scores in the\nSingleplayer mode<br/>\n- Solve all 25 puzzles<br/>\n- Invite friends or complete strangers\nand battle online",
-    "name": "Mindfeud",
+    "release_date_on_eshop": "2014-12-04",
+    "product_code": "CTR-N-KMDP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Board Game"
@@ -27,7 +23,11 @@
         "German",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

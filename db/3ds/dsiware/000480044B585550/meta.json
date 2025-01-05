@@ -1,17 +1,13 @@
 {
-    "uid": "50010000014252",
     "tid": "000480044B585550",
-    "product_code": "TWL-N-KXUP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-05-02",
+    "uid": "50010000014252",
+    "name": "Publisher Dream",
     "formal_name": "Publisher Dream",
     "description": "Ever dream about making and\npublishing your own digital games?\n<br/><br/>\nPublisher Dream is a simulation game\nthat places you in the owner's seat of\na company called \"Triangle\". Triangle\nfocuses on a digital platform called\n\"cShop\" for development and\npublishing endeavours.\n<br/><br/>\nYou can hire people to develop\nvarious game genres, and control the\ngame budgets and quality to\nsafeguard limited resources. Do you\nwant to be one of the biggest\npublishers on cShop? This may be a\ngreat way to test your skills before\nactually starting your own game\ncompany.",
-    "name": "Publisher Dream",
+    "release_date_on_eshop": "2013-05-02",
+    "product_code": "TWL-N-KXUP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Simulation",
         "Shop"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

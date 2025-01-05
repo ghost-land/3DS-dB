@@ -1,17 +1,13 @@
 {
-    "uid": "50010000040016",
     "tid": "000400000018CD00",
-    "product_code": "CTR-N-KNJJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-05-01",
+    "uid": "50010000040016",
+    "name": "Ninja Smasher!",
     "formal_name": "Ninja Smasher!",
     "description": "忍者を操作して妖怪軍団に立ち向かう、爽快忍者2Dアクションゲーム！\n忍者が駆ける！忍者が翔ぶ！忍者が斬る！\n忍者が繰り出す軽快なアクションは爽快感抜群！\n\n刀、手裏剣、忍術などさまざまな忍者の技を駆使して、さらわれたお姫様を救出しよう！",
-    "name": "Ninja Smasher!",
+    "release_date_on_eshop": "2017-05-01",
+    "product_code": "CTR-N-KNJJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "アドベンチャー"
@@ -20,7 +16,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v1.1.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

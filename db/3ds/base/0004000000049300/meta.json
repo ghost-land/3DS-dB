@@ -1,17 +1,13 @@
 {
-    "uid": "50010000008445",
     "tid": "0004000000049300",
-    "product_code": "CTR-N-ARNJ",
-    "platform_name": "3DSカード/ダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-08-29",
+    "uid": "50010000008445",
+    "name": "ランナバウト3D\nドライブ:インポッシブル",
     "formal_name": "ランナバウト3D\nドライブ:インポッシブル",
     "description": "破壊、衝突、逆走、なんでもありのドライブアクションゲーム。\n<br>元スパイの経歴を持つ運び屋が、謎の組織からの過酷なミッションに挑んでいく。\n<br>ピックアップトラックを始めとする多彩なマシンたちと「Born To Be Wild」などの有名楽曲をBGMに、ハリウッド映画さながらの激しいカーアクションが展開される。\n<br>",
-    "name": "ランナバウト3D\nドライブ:インポッシブル",
+    "release_date_on_eshop": "2013-08-29",
+    "product_code": "CTR-N-ARNJ",
+    "platform_name": "3DSカード/ダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "レース",
         "アクション"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "※本ソフトのダウンロード版には下記4曲のBGMは収録されておりませんので、あらかじめご了承ください。\n<br>\n<br>・Highway Star\n<br>・Axel F\n<br>・MISIRLOU\n<br>・Born To Be Wild\n<br>\n<br>ソフトの内容は2012年1月19日発売のパッケージ版(価格:6,264円)と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v1.2.0",
-    "region": "Japan"
+    "disclaimer": "※本ソフトのダウンロード版には下記4曲のBGMは収録されておりませんので、あらかじめご了承ください。\n<br>\n<br>・Highway Star\n<br>・Axel F\n<br>・MISIRLOU\n<br>・Born To Be Wild\n<br>\n<br>ソフトの内容は2012年1月19日発売のパッケージ版(価格:6,264円)と同じです。\n<br>データ容量が大きいため、ソフトのダウンロードは長時間かかる場合があります。ニンテンドー3DS本体を充電しながらダウンロードしてください。",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000012229",
     "tid": "00040000000B0400",
-    "product_code": "CTR-P-ARGE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000012229",
+    "name": "Rise of the Guardians: \nThe Video Game",
     "formal_name": "Rise of the Guardians: The Video Game",
     "description": "Let your imagination soar in Rise of the Guardians: The Video Game as you play as one of the classic childhood legends, including: North (aka Santa Claus), Tooth (aka the Tooth Fairy), Bunnymund (aka the Easter Bunny), Sandman, and Jack Frost.  In this action-packed adventure game, each Guardian has their own set of upgradable and extraordinary abilities that will help you take on the evil spirit “Pitch” and his infectious nightmares.  Work together with your team of Guardians to protect the hopes and imaginations of children all over the world!",
-    "name": "Rise of the Guardians: \nThe Video Game",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ARGE",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "region": "North America",
     "genres": [
         "Action",
         "Adventure"
@@ -24,7 +20,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

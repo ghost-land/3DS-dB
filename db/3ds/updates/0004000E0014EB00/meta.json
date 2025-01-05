@@ -1,17 +1,13 @@
 {
-    "uid": "50010000033115",
     "tid": "0004000E0014EB00",
-    "product_code": "CTR-U-BLSE",
-    "platform_name": "Software Update",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-04-28",
+    "uid": "50010000033115",
+    "name": "LEGO® Ninjago™: Shadow\nof Ronin™ Update Ver. 2.0",
     "formal_name": "LEGO® Ninjago™: Shadow\nof Ronin™ Update Ver. 2.0",
     "description": "This is an update for the LEGO® Ninjago™: Shadow of Ronin™ game. This download does not contain the full version of the title. In order to use this update, you must have the full version of LEGO® Ninjago™: Shadow of Ronin™.",
-    "name": "LEGO® Ninjago™: Shadow\nof Ronin™ Update Ver. 2.0",
+    "release_date_on_eshop": "2015-04-28",
+    "product_code": "CTR-U-BLSE",
+    "platform_name": "Software Update",
+    "region": "North America",
     "genres": [
         "Updates"
     ],
@@ -24,7 +20,11 @@
         "French",
         "Portuguese"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v1.1.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "descriptors": []
 }

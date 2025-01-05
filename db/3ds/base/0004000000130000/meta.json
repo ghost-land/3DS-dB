@@ -1,17 +1,13 @@
 {
-    "uid": "50010000027759",
     "tid": "0004000000130000",
-    "product_code": "CTR-N-JCJJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-11-26",
+    "uid": "50010000027759",
+    "name": "SQUIDS-ひっぱりイカの大冒険-",
     "formal_name": "SQUIDS-ひっぱりイカの大冒険-",
     "description": "イカたちの足をぎゅ～とひっぱって、パッと離して発射して、敵にぶつけて倒していく「ターン制おはじき風戦略バトルゲーム」です。\n<br>\n<br>敵にぶつけた勢いが強ければ強いほど大ダメージ! ショップで「ヘルメット」を買ってパラメーター強化! 「ヒトデシュリケン」や「オスシ」を使ってバトルをもっと有利に!\n<br>\n<br>簡単操作で、戦略性いっぱいのバトルが楽しめるゲームです。",
-    "name": "SQUIDS-ひっぱりイカの大冒険-",
+    "release_date_on_eshop": "2014-11-26",
+    "product_code": "CTR-N-JCJJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "アドベンチャー"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

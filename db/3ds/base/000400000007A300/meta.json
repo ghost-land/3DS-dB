@@ -1,17 +1,13 @@
 {
-    "uid": "50010000010424",
     "tid": "000400000007A300",
-    "product_code": "CTR-P-AT2P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-06-13",
+    "uid": "50010000010424",
+    "name": "Harvest Moon:\nThe Tale of Two Towns",
     "formal_name": "Harvest Moon:\nThe Tale of Two Towns",
     "description": "Years ago, a tunnel connected the\nlivestock-loving Bluebell Village with\nthe crop-growing town of Konohana,\nbut boisterous bickering between the\nburgs created a cave-in and collapsed\nthe tunnel! Build a bustling farm,\nbefriend the villagers and maybe you\ncan find a way to bring these towns\ntogether once again!",
-    "name": "Harvest Moon:\nThe Tale of Two Towns",
+    "release_date_on_eshop": "2013-06-13",
+    "product_code": "CTR-P-AT2P",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Simulation"
     ],
@@ -27,7 +23,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

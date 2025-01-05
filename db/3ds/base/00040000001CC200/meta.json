@@ -1,17 +1,13 @@
 {
-    "uid": "50010000044235",
     "tid": "00040000001CC200",
-    "product_code": "CTR-N-J99J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2018-01-10",
+    "uid": "50010000044235",
+    "name": "マシンナイト",
     "formal_name": "マシンナイト",
     "description": "世界の深刻なエネルギー不足を解決するべく、使者として異世界の大都市ダンドンに訪れたフレイン。\n<br>しかし、突如ダンドン近隣の村が、フレインの世界の機械兵に襲われ、フレインは容疑者となってしまう。\n<br>ダンドンの兵から追われ、祖国に裏切られ、独りとなってしまった彼に手を差し伸べたのは、二人の少女だった――\n<br>\n<br>『マシンナイト』は、自由にキャラクターを育てる事のできるマキナ盤システムや、\n<br>豊富なクエスト、勲章集めといった、やりこみ要素満載のファンタジーRPGです。",
-    "name": "マシンナイト",
+    "release_date_on_eshop": "2018-01-10",
+    "product_code": "CTR-N-J99J",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

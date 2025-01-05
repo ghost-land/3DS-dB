@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009728",
     "tid": "000480044B584145",
-    "product_code": "TWL-N-KXAE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-03-15",
+    "uid": "50010000009728",
+    "name": "Pirates Assault",
     "formal_name": "Pirates Assault",
     "description": "Enemies have come in search of your treasure, Captain!\n\nPirates Assault is tower defense game that brings a little twist to the genre. A treasure must be protected, and to accomplish that you have to build the best defense strategy. Even if some pieces of the treasure are stolen, they can be retrieved as long as the enemy that stole your treasure is on the screen and alive. If the enemy is sunk, that piece of treasure can’t be recovered.\n\nGame features:\n*Use rum to buy weapons usable on land or sea to protect your treasure!\n*Upgrade your weapons and rob rum ships to gain currency.\n*Send your enemies straight to Davie Jones's locker, by releasing God-like destruction on them with a devastating storm attack.",
-    "name": "Pirates Assault",
+    "release_date_on_eshop": "2012-03-15",
+    "product_code": "TWL-N-KXAE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Strategy"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "13"
+    },
     "version": "v0.2.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

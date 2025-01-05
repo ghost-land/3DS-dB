@@ -1,17 +1,13 @@
 {
-    "uid": "50010000048855",
     "tid": "000400000F714300",
-    "product_code": "KTR-N-CF2P",
-    "platform_name": "New 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2021-01-07",
+    "uid": "50010000048855",
+    "name": "B.O.O.L: Master\nlabyrinth puzzles",
     "formal_name": "B.O.O.L: Master\n<br>labyrinth puzzles",
     "description": "B.O.O.L: Master labyrinth puzzles is a fun and challenging puzzle game for everyone. B.O.O.L. stands for 'Box Out Of Labyrinth' and means to get the box out of the labyrinth and describes the aim of the game. Your task is to get the box out of the labyrinth to the target. This sounds like a simple task? You did the calculation without the puzzle masters. The game box cannot be moved freely, but only up, down, left and right and only up to the next obstacle without stopping in between. But that's not all, you only have a certain number of moves at your disposal. Get ready and face the challenge of more than 120 labyrinth puzzles.\n<br>- Puzzles in three difficulty levels.\n<br>- Puzzles contain doors, switches and the four elements earth, fire, water and air.\n<br>- Give your creativity free rein and create your own labyrinth puzzles with the editor on 100 free memory slots.",
-    "name": "B.O.O.L: Master\nlabyrinth puzzles",
+    "release_date_on_eshop": "2021-01-07",
+    "product_code": "KTR-N-CF2P",
+    "platform_name": "New 3DS (Download)",
+    "region": "Germany",
     "genres": [
         "Puzzle",
         "Board Game"
@@ -27,7 +23,11 @@
         "Portuguese",
         "Russian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.1.0",
-    "region": "Germany"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,23 +1,23 @@
 {
-    "uid": "50010000039980",
     "tid": "0004000E0016E900",
-    "product_code": "CTR-U-BM9P",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-03-31",
+    "uid": "50010000039980",
+    "name": "Etrian Odyssey 2 Untold:\nThe Fafnir Knight - Update",
     "formal_name": "Etrian Odyssey 2 Untold:\nThe Fafnir Knight - Update",
     "description": "You can read QR codes and\nsuccessfully suspend save in\ndungeons!",
-    "name": "Etrian Odyssey 2 Untold:\nThe Fafnir Knight - Update",
+    "release_date_on_eshop": "2016-03-31",
+    "product_code": "CTR-U-BM9P",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Other"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

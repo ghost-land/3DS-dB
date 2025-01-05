@@ -1,17 +1,13 @@
 {
-    "uid": "50010000026355",
     "tid": "000400000013FC00",
-    "product_code": "CTR-N-KFRJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-10-08",
+    "uid": "50010000026355",
+    "name": "フェアルーン",
     "formal_name": "フェアルーン",
     "description": "『フェアルーン』は、レトロな世界観の中で、モンスターを倒しながら、世界に隠されたさまざまなナゾを解いていく、「レトロ風謎解きアクションRPG」です。\n<br>\n<br>8Bitテイストのイラストとサウンド、およびシンプルな操作方法で、誰でも簡単にプレイできます。(片手だけでのプレイにも対応。)\n<br>\n<br>選ばれし勇者よ、3体の精霊像を見つけ出し再び魔王の魂を封印するのだ!",
-    "name": "フェアルーン",
+    "release_date_on_eshop": "2014-10-08",
+    "product_code": "CTR-N-KFRJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "ロールプレイング"
@@ -20,7 +16,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

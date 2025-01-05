@@ -1,17 +1,13 @@
 {
-    "uid": "50010000026538",
     "tid": "0004000000143F00",
-    "product_code": "CTR-N-JBSP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-10-30",
+    "uid": "50010000026538",
+    "name": "ARC STYLE: Baseball 3D",
     "formal_name": "ARC STYLE: Baseball 3D",
     "description": "This is a fun, full-scale baseball game\nthat anyone can easily enjoy, with a\n3D display that makes it easy to\ncontrol.\n<br/><br/>\nEnjoy 3 different game modes\nincluding Tournament, Exhibition and\nCustom.\n<br/><br/>\nTournament play consists of 7 teams.\nDefeat your opponents and aim for the\nchampionship.\n<br/><br/>\nIn Exhibition, you can select any\nteam and play a quick game. You can\nalso enjoy Network Matched via\nDownload or Local Play.\n<br/><br/>\nIn Custom Mode you can customize\nyour players in many ways including\ntheir names and even their\nappearance. There are 5 different\nability types including defensive and\noffensive-oriented types, so you can\nconfigure your team exactly how you\nwant. You can also attach pictures\nfrom the internal camera to a player\nso you can model them after yourself\nand have them compete.\n<br/><br/>\nEnjoy baseball anywhere, and at\nanytime on the Nintendo 3DS™!",
-    "name": "ARC STYLE: Baseball 3D",
+    "release_date_on_eshop": "2014-10-30",
+    "product_code": "CTR-N-JBSP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "region": "Europe",
     "genres": [
         "Sports",
         "Action",
@@ -30,7 +26,11 @@
         "Italian",
         "Portuguese"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

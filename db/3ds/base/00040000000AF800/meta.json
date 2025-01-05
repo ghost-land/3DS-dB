@@ -1,17 +1,13 @@
 {
-    "uid": "50010000014878",
     "tid": "00040000000AF800",
-    "product_code": "CTR-N-APRE",
-    "platform_name": "Nintendo 3DS Retail/Download",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-06-25",
+    "uid": "50010000014878",
+    "name": "LEGO® Legends of Chima:\nLaval's Journey",
     "formal_name": "LEGO® Legends of Chima:\nLaval's Journey",
     "description": "In this all new story, join Laval the lion and his friends on an action-packed journey as you explore the world of Chima and fight to defeat the power-hungry Cragger to restore justice and the balance of CHI to the land. Explore the Lion Temple, Eagle Spire, Gorilla Forrest and more as they harness the power of CHI to leap, swing, fly and fight through 15 levels of intense action!",
-    "name": "LEGO® Legends of Chima:\nLaval's Journey",
+    "release_date_on_eshop": "2013-06-25",
+    "product_code": "CTR-N-APRE",
+    "platform_name": "Nintendo 3DS Retail/Download",
+    "region": "North America",
     "genres": [
         "Action",
         "Adventure"
@@ -25,7 +21,11 @@
         "French",
         "Portuguese"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v0.1.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000024779",
     "tid": "0004000000121F00",
-    "product_code": "CTR-N-JGAJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-08-20",
+    "uid": "50010000024779",
+    "name": "神創世界グリンシア",
     "formal_name": "神創世界グリンシア",
     "description": "トレジャーハンターの主人公一家は、古代の遺跡が発掘されたという情報を聞きつけ、財宝を見つけるべく遺跡に忍び込みます。彼らは果たして財宝を見つけることが出来るのでしょうか……?\n<br>昼と夜とで変わる世界、キャラクターごとに異なるイベント、手に入れた秘宝を装備できるシステムなど楽しさ一杯の冒険が待ち受けます。",
-    "name": "神創世界グリンシア",
+    "release_date_on_eshop": "2014-08-20",
+    "product_code": "CTR-N-JGAJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング",
         "アドベンチャー"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

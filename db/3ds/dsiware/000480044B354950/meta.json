@@ -1,17 +1,13 @@
 {
-    "uid": "50010000001441",
     "tid": "000480044B354950",
-    "product_code": "TWL-N-K5IP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000001441",
+    "name": "5 in 1 Solitaire",
     "formal_name": "5 in 1 Solitaire",
     "description": "Now you can take five of the most\npopular solitaire games with you on\nthe go! 5 in 1 Solitaire features the\nalways popular Klondike, Spider and\nFreeCell games as well as the unique\nGolf and Gaps versions of solitaire.\nEach of these versions has a unique\ngameplay style that is easy enough\nfor any novice player to enjoy, but\nwill also challenge the expert solitaire\nplayer. You’ll also be able to view\ntutorials for each game as well as\ntrack your scores and gaming stats to\nsee your progress. See how fast you\ncan win!",
-    "name": "5 in 1 Solitaire",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-K5IP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Board Game",
@@ -26,7 +22,11 @@
         "German",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

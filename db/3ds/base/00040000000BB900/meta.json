@@ -1,17 +1,13 @@
 {
-    "uid": "50010000012594",
     "tid": "00040000000BB900",
-    "product_code": "CTR-P-AYDJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000012594",
+    "name": "アクリルパレット\n～彩りカフェ･Cheers～",
     "formal_name": "アクリルパレット\n～彩りカフェ･Cheers～",
     "description": "本作は架空のカフェを舞台とした、コミュニケーションゲームです。リアルで活動するアイドルたちがそのままゲーム中のキャラクターとして登場し、彼女たちとの会話や物語を楽しむことができます。\n<br>また、ミニゲームでポイントを獲得することにより、立体視機能で飛び出すグラビアやムービーを集めることもできます。\n",
-    "name": "アクリルパレット\n～彩りカフェ･Cheers～",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AYDJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "シミュレーション",
         "コミュニケーション"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000001423",
     "tid": "000480044B435245",
-    "product_code": "TWL-N-KCRE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2010-07-19",
+    "uid": "50010000001423",
+    "name": "Crazy Sudoku",
     "formal_name": "Crazy Sudoku",
     "description": "Crazy Sudoku: Play sudoku on the go and anywhere you want on your Nintendo DSi system. The game features five different levels of difficulty—a challenge for sudoku beginners and pros alike! Choose from two different grid sizes (9x9 or 6x6)! With the handy Note feature you can add comments to each and every cell and solve even the hardest sudoku puzzles! Or try challenging a friend with the brilliant two player mode!\n",
-    "name": "Crazy Sudoku",
+    "release_date_on_eshop": "2010-07-19",
+    "product_code": "TWL-N-KCRE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Arcade",
         "Puzzle",
@@ -24,7 +20,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

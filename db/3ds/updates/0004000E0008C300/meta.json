@@ -1,17 +1,13 @@
 {
-    "uid": "50010000022855",
     "tid": "0004000E0008C300",
-    "product_code": "CTR-U-EC6E",
-    "platform_name": "Software Update",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-06-06",
+    "uid": "50010000022855",
+    "name": "Tomodachi Life™ Update\nVer. 1.1",
     "formal_name": "Tomodachi Life™ Update\nVer. 1.1",
     "description": "This update enhances gameplay stability and performance. This download does not contain the full version of the title. In order to use this update, you must have the full version of Tomodachi Life.",
-    "name": "Tomodachi Life™ Update\nVer. 1.1",
+    "release_date_on_eshop": "2014-06-06",
+    "product_code": "CTR-U-EC6E",
+    "platform_name": "Software Update",
+    "region": "North America",
     "genres": [
         "Updates"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v1.1.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "descriptors": []
 }

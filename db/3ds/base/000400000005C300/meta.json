@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007603",
     "tid": "000400000005C300",
-    "product_code": "CTR-P-AMRJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000007603",
+    "name": "スライムもりもり\nドラゴンクエスト3",
     "formal_name": "スライムもりもり\nドラゴンクエスト3",
     "description": "『スライムもりもりドラゴンクエスト』はスライムが主人公のゲーム。\n<br>のびて、はねて、せおって、なげるスライムの爽快アクションがそのまま3Dに!\n<br>冒険の舞台は全世界! 手に入れたアイテムや船パーツを駆使して、自分だけの船をカスタマイズしよう! 通信対戦では最大4人で対戦や協力プレイが可能!",
-    "name": "スライムもりもり\nドラゴンクエスト3",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AMRJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "アドベンチャー"
@@ -27,7 +23,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

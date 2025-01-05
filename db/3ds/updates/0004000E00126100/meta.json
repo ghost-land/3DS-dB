@@ -1,23 +1,23 @@
 {
-    "uid": "50010000030555",
     "tid": "0004000E00126100",
-    "product_code": "CTR-U-BFGP",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-02-13",
+    "uid": "50010000030555",
+    "name": "Monster Hunter™ 4 Ultimate:\nUpdate",
     "formal_name": "Monster Hunter™ 4 Ultimate:\nUpdate",
     "description": "An update for Monster Hunter™ 4\nUltimate is now available from\nNintendo eShop.\n<br/><br/>\nThis will update the software to\nVersion 1.1 with the following\namendments:\n<br/><br/>\n- A section called “Gift Area” has\nbeen added to the download contents\nsection.\n<br/><br/>\nOnce the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
-    "name": "Monster Hunter™ 4 Ultimate:\nUpdate",
+    "release_date_on_eshop": "2015-02-13",
+    "product_code": "CTR-U-BFGP",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Other"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

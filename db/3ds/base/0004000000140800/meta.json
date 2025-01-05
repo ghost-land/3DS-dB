@@ -1,17 +1,13 @@
 {
-    "uid": "50010000039415",
     "tid": "0004000000140800",
-    "product_code": "CTR-N-KWHJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-02-17",
+    "uid": "50010000039415",
+    "name": "魔女と勇者Ⅱ",
     "formal_name": "魔女と勇者Ⅱ",
     "description": "『魔女と勇者Ⅱ』は、ちび魔女とちび勇者を同時に操作し、\n<br>敵を倒して進んでいく「8Bit」テイストアクションゲームです。\n<br>\n<br>ちび魔女がやられるとゲームオーバーだけど、\n<br>ちび勇者は何度でも立ち上がる！\n<br>体を張ってちび魔女を守り、\n<br>ちび魔女の魔法でピンチを切り抜けろ！\n<br>\n<br>レトロな8Bitテイストのイラストとサウンド、\n<br>そしてシンプルだけど奥深いゲームルール。\n<br>誰でも簡単にプレイすることが可能です。 \n<br>\n<br>後半のステージでは敵がわらわらと大量に出現し、\n<br>それをまとめて倒す快感がハマります。",
-    "name": "魔女と勇者Ⅱ",
+    "release_date_on_eshop": "2016-02-17",
+    "product_code": "CTR-N-KWHJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

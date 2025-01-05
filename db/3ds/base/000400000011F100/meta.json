@@ -1,17 +1,13 @@
 {
-    "uid": "50010000020733",
     "tid": "000400000011F100",
-    "product_code": "CTR-N-JXSJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-03-05",
+    "uid": "50010000020733",
+    "name": "バードマニア ウィンター 3D",
     "formal_name": "バードマニア ウィンター 3D",
     "description": "人気のアクションゲーム『バードマニア』シリーズが、白く輝く雪に彩られたウインターワンダーランドを舞台に再び登場!\n<br>\n<br>軽快なスライド操作で楽しむ“スピード感覚”や、気分を盛り上げてくれるダイナミックな音楽もそのままに、世界中のプレイヤーとハイスコアを競い合うことができる「オンラインリードボーダー」を新設。さらにエキサイティングに、さらに夢中になれるスコアアタックゲームとして生まれ変わりました。\n<br>\n<br>アフリカを目指して冒険を続ける小さな主人公･モージョと一緒に、たくさんの敵や障害物を避けながら、冬の空を飛んでいきましょう!",
-    "name": "バードマニア ウィンター 3D",
+    "release_date_on_eshop": "2014-03-05",
+    "product_code": "CTR-N-JXSJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "レース"
@@ -24,7 +20,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

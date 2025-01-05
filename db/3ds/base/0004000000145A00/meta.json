@@ -1,17 +1,13 @@
 {
-    "uid": "50010000028967",
     "tid": "0004000000145A00",
-    "product_code": "CTR-N-KSDJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-01-07",
+    "uid": "50010000028967",
+    "name": "新宿ダンジョン",
     "formal_name": "新宿ダンジョン",
     "description": "2017年4月6日(木)18時に、本ソフトの配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>新宿駅とその地下に広がる通路をモチーフにした、ダンジョンRPGです。\n<br>伝説の宝石を求めて、ダンジョンの謎を解きながら都庁を目指しましょう!",
-    "name": "新宿ダンジョン",
+    "release_date_on_eshop": "2015-01-07",
+    "product_code": "CTR-N-KSDJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング",
         "アクション"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

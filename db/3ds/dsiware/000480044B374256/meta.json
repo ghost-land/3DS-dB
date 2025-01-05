@@ -1,17 +1,13 @@
 {
-    "uid": "50010000027975",
     "tid": "000480044B374256",
-    "product_code": "TWL-N-K7BV",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-11-20",
+    "uid": "50010000027975",
+    "name": "Around the World in 80 Days",
     "formal_name": "Around the World in 80 Days",
     "description": "Join Phileas Fogg and his faithful\ncompanion Passepartout on their\nwonderous journey around the world\nin 80 days!\n<br/><br/>\nCollect all the items you need for the\nadventure by creating rows of three\nfrom identical symbols. By removing\nthe symbols, the individual parts of\nthe artifacts will end up in your\nsuitcase. Mighty bonus items - like\nfireballs and bombs - will help you\nreach your destinations on time!\n<br/><br/>\n- More than 80 levels per journey\n<br/><br/>\n- 2 player mode with two Nintendo\nDS™\n<br/><br/>\n- Repeat the journey to discover\nmore difficult levels\n<br/><br/>\n- Upright mode for right and left\nhanders\n<br/><br/>\n- Several great bonus items with\nmicrophone support",
-    "name": "Around the World in 80 Days",
+    "release_date_on_eshop": "2014-11-20",
+    "product_code": "TWL-N-K7BV",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Puzzle",
         "Strategy",
@@ -25,7 +21,11 @@
         "English",
         "French"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.3.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

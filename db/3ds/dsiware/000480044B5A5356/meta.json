@@ -1,17 +1,13 @@
 {
-    "uid": "50010000006662",
     "tid": "000480044B5A5356",
-    "product_code": "TWL-N-KZSV",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000006662",
+    "name": "Zoonies - Escape from Makatu",
     "formal_name": "Zoonies - Escape from Makatu",
     "description": "Join the exciting adventures of Leo\nthe tiny lion as his Sunday afternoon\nflight suddenly ends with a spear\nthrough his engine!<br>\n<br>\nEvil shaman Makatu and his savage\ntribe of Tuba warriors chase Leo to\ntrap him forever. Only YOU can help\nhim find his way back to friends and\nfamily.<br>\n<br>\nSolve puzzles and defeat enemies in\nthis unique and original puzzle\nplatformer.<br>\n<br>\nMost importantly: Keep Running!",
-    "name": "Zoonies - Escape from Makatu",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KZSV",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Action",
         "Puzzle",
@@ -25,7 +21,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

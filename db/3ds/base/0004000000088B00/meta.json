@@ -1,17 +1,13 @@
 {
-    "uid": "50010000010027",
     "tid": "0004000000088B00",
-    "product_code": "CTR-N-JBLJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-04-25",
+    "uid": "50010000010027",
+    "name": "ブラッディヴァンパイア",
     "formal_name": "ブラッディヴァンパイア",
     "description": "人間とヴァンパイアのふたつの血を持つ女性、ラティスの冒険が今始まる。古城、地下牢、湖などの多彩なマップを舞台に、誰もが手軽に爽快なアクションを楽しめます。魔法、変身などの技も駆使し、ラティスを成長させながら襲い掛かる魔物たちをなぎ倒します。4つの十字架を求め、人間世界に侵入したヴァンパイアを撃破しよう。",
-    "name": "ブラッディヴァンパイア",
+    "release_date_on_eshop": "2012-04-25",
+    "product_code": "CTR-N-JBLJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "ロールプレイング"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

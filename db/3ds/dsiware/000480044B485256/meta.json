@@ -1,17 +1,13 @@
 {
-    "uid": "50010000003961",
     "tid": "000480044B485256",
-    "product_code": "TWL-N-KHRV",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000003961",
+    "name": "Hair Salon\nPocket Stylist",
     "formal_name": "Hair Salon\nPocket Stylist",
     "description": "With Hair Salon Pocket Stylist your\nhairdresser will always be with you!\nHave fun inventing new hairstyles for\nthe cartoon characters or for you and\nyour friends!<br>\n<br>\nTake a picture of yourself and see\nhow you look with a new haircut!\nWhen you find the right style, save it\nin the Nintendo Dsi album. There are\nthousands of combinations of styles\nand makeup!<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
-    "name": "Hair Salon\nPocket Stylist",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KHRV",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Simulation",
         "Education",
@@ -26,7 +22,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

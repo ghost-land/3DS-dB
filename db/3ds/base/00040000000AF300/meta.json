@@ -1,17 +1,13 @@
 {
-    "uid": "50010000012024",
     "tid": "00040000000AF300",
-    "product_code": "CTR-N-JSGE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-10-04",
+    "uid": "50010000012024",
+    "name": "Samurai G™",
     "formal_name": "Samurai G™",
     "description": "Become the Shining Samurai of legend! Samurai G™ is a non-stop action game that will challenge players of all levels! As Tetsuo, you must collect as much of Tengu’s Gold as possible before the evil Warlord Fuma’s assassins do. Tengu’s Gold is rumored to possess the power of Tengu, the harbinger of war himself! Activate Golden Mode to harness the power of Tengu’s Gold and see why this power must not fall into the wrong hands! Defeat Fuma’s assassins and avoid deadly traps on your quest to becoming the Shining Samurai!",
-    "name": "Samurai G™",
+    "release_date_on_eshop": "2012-10-04",
+    "product_code": "CTR-N-JSGE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Action",
         "Arcade",
@@ -22,7 +18,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "13"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

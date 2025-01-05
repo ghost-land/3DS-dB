@@ -1,17 +1,13 @@
 {
-    "uid": "50010000015697",
     "tid": "00040000000A6900",
-    "product_code": "CTR-N-TBPP",
-    "platform_name": "NES",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-08-22",
+    "uid": "50010000015697",
+    "name": "Solomon's Key™",
     "formal_name": "Solomon's Key™",
     "description": "To save his world from demons, Dana\nthe Wizard goes on a dangerous quest\nto find Solomon's Key and seal the\nmonsters away. An audacious mix of\naction game and puzzler, Solomon's\nKey was one of the toughest\nchallenges on the NES™, but also one\nof its most endearing adventures.\n<br/><br/>\nCombine logic and reflexes to unravel\nthe mysteries of each room. Bright\nminds are needed to unlock its\nsecrets, and only a few have been\ndeemed worthy of seeing all the\ndifferent endings. Will you be clever\nenough?",
-    "name": "Solomon's Key™",
+    "release_date_on_eshop": "2013-08-22",
+    "product_code": "CTR-N-TBPP",
+    "platform_name": "NES",
+    "region": "Europe",
     "genres": [
         "Puzzle"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

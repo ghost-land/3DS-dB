@@ -1,17 +1,13 @@
 {
-    "uid": "50010000006763",
     "tid": "0004000000045C00",
-    "product_code": "CTR-N-SAEJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2011-06-07",
+    "uid": "50010000006763",
+    "name": "3Dクラシックス エキサイトバイク",
     "formal_name": "3Dクラシックス エキサイトバイク",
     "description": "1984年にファミコン用ソフトとして発売された「エキサイトバイク」が3Dになって帰ってきました。\n<br>スーパーモトクロッサーと呼ばれるバイクを操作し、ぬかるみや障害物が設置されたコースを走りぬけます。一定時間だけ加速できるターボでライバル車を抜いたり、ジャンプ台で障害物を跳び越したりして、ベストタイム更新を目指します。｢デザインモード」では、ぬかるみや障害物、ジャンプ台などのパーツを自由に配置してオリジナルのコースを作り、レースをすることができます。\n",
-    "name": "3Dクラシックス エキサイトバイク",
+    "release_date_on_eshop": "2011-06-07",
+    "product_code": "CTR-N-SAEJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "レース"
     ],
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000012266",
     "tid": "0004000000094100",
-    "product_code": "CTR-N-TAUP",
-    "platform_name": "NES",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000012266",
+    "name": "MIGHTY BOMB JACK™",
     "formal_name": "MIGHTY BOMB JACK™",
     "description": "When the royal family is imprisoned\ninside the Great Pyramid of Evil by the\ndemon Belzebut, it's up to Jack, the\nonly remaining heir, to rescue them.<br>\n<br>\nAs Mighty Bomb Jack you must jump\nand glide through treacherous\ncorridors and enemy-infested rooms,\ncollecting bombs and treasures as you\ngo.<br>\n<br>\nJack can increase his abilities by\ncollecting Mighty Coins - but don't be\ngreedy or you'll be sent to the\nTorture Room!",
-    "name": "MIGHTY BOMB JACK™",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "CTR-N-TAUP",
+    "platform_name": "NES",
+    "region": "Europe",
     "genres": [
         "Action",
         "Arcade"
@@ -20,7 +16,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

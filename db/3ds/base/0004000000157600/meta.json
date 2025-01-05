@@ -1,17 +1,13 @@
 {
-    "uid": "50010000032055",
     "tid": "0004000000157600",
-    "product_code": "CTR-N-KLSJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-03-25",
+    "uid": "50010000032055",
+    "name": "マル合格! 医療事務 診療報酬\n請求事務能力認定試験(医科)",
     "formal_name": "マル合格! 医療事務 診療報酬請求事務能力認定試験(医科)",
     "description": "ニンテンドー3DSダウンロードソフトに医療事務が新登場!\n<br>\n<br>大人気の『マル合格!』シリーズに、医療事務が新登場。\n<br>病院など人気の医療系への就職に有利な人気資格を、誰でも手軽に学習することができます。",
-    "name": "マル合格! 医療事務 診療報酬\n請求事務能力認定試験(医科)",
+    "release_date_on_eshop": "2015-03-25",
+    "product_code": "CTR-N-KLSJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "学習",
         "実用"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

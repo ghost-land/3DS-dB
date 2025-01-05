@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009383",
     "tid": "000480044B514245",
-    "product_code": "TWL-N-KQBE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-02-23",
+    "uid": "50010000009383",
+    "name": "Box Pusher",
     "formal_name": "Box Pusher",
     "description": "Push! In this classic puzzle game you play a warehouse worker who has to move boxes to the correct locations. Sound easy? Prove you have the brain power to solve over 250 missions and master all situations with the correct strategy.\n\nFunny animations, a zoomable playing area, and unlimited chances to undo steps will help you with these brain teasers. Play with friends in multiplayer or make and exchange your own levels. This puzzler will captivate you.",
-    "name": "Box Pusher",
+    "release_date_on_eshop": "2012-02-23",
+    "product_code": "TWL-N-KQBE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Strategy",
         "Puzzle",
@@ -27,7 +23,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v1.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

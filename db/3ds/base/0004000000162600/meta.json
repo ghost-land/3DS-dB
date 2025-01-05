@@ -1,17 +1,13 @@
 {
-    "uid": "50010000034455",
     "tid": "0004000000162600",
-    "product_code": "CTR-N-KGHJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-06-24",
+    "uid": "50010000034455",
+    "name": "3D ガンスターヒーローズ",
     "formal_name": "3D ガンスターヒーローズ",
     "description": "次から次へと現れる敵を、多彩な武器を駆使して蹴散らしていく傑作アクションシューティングが、「セガ3D復刻プロジェクト」として復活! 立体視によってさらに魅力を増したステージと、追加された新モードで爽快感もさらにアップ。ローカルプレイによる2人協力プレイも楽しめます(それぞれの本体にソフトが必要です)。",
-    "name": "3D ガンスターヒーローズ",
+    "release_date_on_eshop": "2015-06-24",
+    "product_code": "CTR-N-KGHJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "シューティング"
@@ -23,7 +19,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

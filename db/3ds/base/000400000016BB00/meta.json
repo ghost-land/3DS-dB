@@ -1,17 +1,13 @@
 {
-    "uid": "50010000036235",
     "tid": "000400000016BB00",
-    "product_code": "CTR-N-JCNJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-08-19",
+    "uid": "50010000036235",
+    "name": "クロノスアーク",
     "formal_name": "クロノスアーク",
     "description": "10年に一度の「時返り」のためにクロノスの欠片を師匠テスと祠(ほこら)へと取りに行く最中、ゲッペルと名乗る謎の男が現れて欠片を奪おうと迫ります。何とか単身で逃げ切れた主人公のロカですが、テスとゲッペルは行方不明になってしまいます。ロカはテスや欠片を狙うゲッペルの情報を追ってサーナとともに旅に出ることを決意します。\n<br>\n<br>お馴染みのクエストはもちろん、ギミック満載の謎解きダンジョンやジョブチェンジシステム、成長要素のあるキャラクターたちが待っています。",
-    "name": "クロノスアーク",
+    "release_date_on_eshop": "2015-08-19",
+    "product_code": "CTR-N-JCNJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング",
         "パズル",
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

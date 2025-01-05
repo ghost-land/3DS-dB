@@ -1,17 +1,13 @@
 {
-    "uid": "50010000008461",
     "tid": "000400000007E900",
-    "product_code": "CTR-P-ATKP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000008461",
+    "name": "TEKKEN 3D PRIME EDITION",
     "formal_name": "TEKKEN 3D PRIME EDITION",
     "description": "TEKKEN 3D PRIME EDITION for\nNintendo 3DS will see the famous\nKing of Iron Fist Tournament fought in\n3D for the first time, allowing for a\nmore realistic and dynamic TEKKEN\nexperience thanks to the unique\nfunctionality of Nintendo 3DS.<br>\n<br>\nPlayers will choose from a selection\nof more than 40 characters and do\nbattle on totally new stages alongside\nothers redesigned especially for\nNintendo 3DS.<br>\n<br>\nTEKKEN 3D PRIME EDITION will\nmake the most of the Wi-Fi\nfunctionality of the Nintendo 3DS,\nand deliver fast-paced dynamic battles\nwith impressive graphics running at a\nhigh frame rate.",
-    "name": "TEKKEN 3D PRIME EDITION",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ATKP",
+    "platform_name": "Nintendo 3DS (Card)",
+    "region": "Europe",
     "genres": [
         "Fighting"
     ],
@@ -29,7 +25,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "16"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

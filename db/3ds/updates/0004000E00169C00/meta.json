@@ -1,17 +1,13 @@
 {
-    "uid": "50010000038895",
     "tid": "0004000E00169C00",
-    "product_code": "CTR-U-BMDJ",
-    "platform_name": "更新データ",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2016-01-20",
+    "uid": "50010000038895",
+    "name": "更新データ Ver. 1.2\nちゃおイラストクラブ",
     "formal_name": "更新データ Ver. 1.2\nちゃおイラストクラブ",
     "description": "ニンテンドー3DSソフト『ちゃおイラストクラブ』の更新データです。\n■2016年1月20日配信\nいつの間に通信で配信しているお手本イラストが正常に受け取ることができない不具合を修正しました。",
-    "name": "更新データ Ver. 1.2\nちゃおイラストクラブ",
+    "release_date_on_eshop": "2016-01-20",
+    "product_code": "CTR-U-BMDJ",
+    "platform_name": "更新データ",
+    "region": "Japan",
     "genres": [
         "更新データ"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "ニンテンドー3DSソフト『ちゃおイラストクラブ』の更新データです。\n本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v2.3.0",
-    "region": "Japan"
+    "disclaimer": "ニンテンドー3DSソフト『ちゃおイラストクラブ』の更新データです。\n本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000011526",
     "tid": "000480044B584745",
-    "product_code": "TWL-N-KXGE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-08-23",
+    "uid": "50010000011526",
+    "name": "Abyss",
     "formal_name": "Abyss",
     "description": "Earth, 3024.\n\n Natural resources are scarce and the survival of the human race is in danger. Desperate to find new energy resources, the ASAN creates a biomechanical robot called Nep2no that is capable of withstanding extreme depths in the hope of finding new energy sources. After many years of exploration, a new energy source is found, code named \"Gaia\".\n\n Your mission will be to find the \"Gaia\" energy stones by exploring the depths. To do so, you must control Nep2no by counteracting gravity and the surrounding darkness with the aid of a Light that will go out little by little.",
-    "name": "Abyss",
+    "release_date_on_eshop": "2012-08-23",
+    "product_code": "TWL-N-KXGE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Arcade",
         "Action",
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

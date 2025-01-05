@@ -1,17 +1,13 @@
 {
-    "uid": "50010000017555",
     "tid": "00040000000ED900",
-    "product_code": "CTR-P-AY7P",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-01-23",
+    "uid": "50010000017555",
+    "name": "Bella Sara 2 -\nThe Magic of Drasilmare",
     "formal_name": "Bella Sara 2 -\nThe Magic of Drasilmare",
     "description": "Return to the universe of Bella Sara™\nand set off to the Drasilmare Tree’s\nrescue!\n<br/><br/>\nThe great Magic Tree of Drasilmare\nhas been cursed! Only you can\nremove the deadly curse and save the\nworld of Bella Sara.\n<br/><br/>\nCreate your hero and your magic\nhorse using hundreds of costumes and\naccessories.\n<br/><br/>\nTake photos of your characters and\nprint them or send them to your\nfriends.",
-    "name": "Bella Sara 2 -\nThe Magic of Drasilmare",
+    "release_date_on_eshop": "2014-01-23",
+    "product_code": "CTR-P-AY7P",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Adventure",
         "Platformer"
@@ -28,7 +24,11 @@
         "Dutch",
         "Portuguese"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

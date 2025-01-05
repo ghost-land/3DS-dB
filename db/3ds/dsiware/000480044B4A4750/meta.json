@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007065",
     "tid": "000480044B4A4750",
-    "product_code": "TWL-N-KJGP",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000007065",
+    "name": "Jagged Alliance",
     "formal_name": "Jagged Alliance",
     "description": "Jagged Alliance is the much awaited\nintroduction of the award winning \nJagged Alliance franchise on the\nNintendo DSi - one of the biggest\nstrategy game series of all time.<br>\n<br>\n<br>\nJagged Alliance is an explosive fusion\nof role-playing game and turn-based\ntactical combat, allowing players to \nbecome fully immersed in their \ncharacters. Combining a delicate mix\nof technology, tactical manoeuvres\nand strategic planning with a nerve-\nracking storyline, Jagged Alliance\nwill take your strategic talents to\ntheir very limits.",
-    "name": "Jagged Alliance",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KJGP",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Strategy",
         "Adventure",
@@ -23,7 +19,11 @@
         "French",
         "German"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

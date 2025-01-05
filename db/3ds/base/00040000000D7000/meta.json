@@ -1,17 +1,13 @@
 {
-    "uid": "50010000017433",
     "tid": "00040000000D7000",
-    "product_code": "CTR-P-AZEP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "16"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-11-07",
+    "uid": "50010000017433",
+    "name": "Batman:\nArkham Origins Blackgate",
     "formal_name": "Batman:\nArkham Origins Blackgate",
     "description": "Batman: Arkham Origins Blackgate is\na 2.5-D game developed by Armature\nStudios that brings the Batman\nArkham experience for the first time to\nNintendo 3DS™. A companion game\nto Batman: Arkham Origins, players\ncan continue the storyline of the\nconsole version and discover more\ndetails of the Dark Knight’s past.",
-    "name": "Batman:\nArkham Origins Blackgate",
+    "release_date_on_eshop": "2013-11-07",
+    "product_code": "CTR-P-AZEP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Action",
         "Adventure"
@@ -26,7 +22,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "16"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

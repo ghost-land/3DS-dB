@@ -1,17 +1,13 @@
 {
-    "uid": "50010000008621",
     "tid": "000480044B5A5045",
-    "product_code": "TWL-N-KZPE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2009-10-12",
+    "uid": "50010000008621",
+    "name": "Pinball Pulse:\nThe Ancients Beckon™",
     "formal_name": "Pinball Pulse:\nThe Ancients Beckon™",
     "description": "Pinball takes on mythological proportions in the exclusive Nintendo DSiWare game Pinball Pulse: The Ancients Beckon. Choose from two modes of play (Regular Game or Daily Game) and begin your journey to becoming a pinball champion. Conquer mythic quests, collect gifts from the 12 Olympians, and push your skills to the limit by facing Medusa, the Sirens, and more. Your portable pinball table will give you a quick adrenaline rush, as you watch the steel ball fly through ramps and carom off bumpers all over the playfield. Rack up combo points, open specific game modes, and even enlist the Oracle for some help. Will you accept Zeus’s challenge?",
-    "name": "Pinball Pulse:\nThe Ancients Beckon™",
+    "release_date_on_eshop": "2009-10-12",
+    "product_code": "TWL-N-KZPE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Arcade",
         "Board Game",
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

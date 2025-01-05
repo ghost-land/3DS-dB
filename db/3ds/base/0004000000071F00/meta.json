@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007929",
     "tid": "0004000000071F00",
-    "product_code": "CTR-P-ACHJ",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000007929",
+    "name": "クレヨンしんちゃん 宇宙DE\nアチョー!? 友情のおバカラテ!!",
     "formal_name": "クレヨンしんちゃん 宇宙DE\nアチョー!? 友情のおバカラテ!!",
     "description": "2016年11月16日(水)10時00分に、体験版の配信を終了いたしました。\n<br>\n<br>-------------------------------------------\n<br>「クレヨンしんちゃん」のゲームがニンテンドー3DSに初登場!\n<br>アニメと同じビジュアルでキャラクターが動く新感覚の「アニメアクション」で、しんちゃんが宇宙を大冒険する!\n<br>謎の三姉妹によって、町ごと宇宙にさらわれたカスカベと操られて友情の心を失ったカスカベ防衛隊。みんなをおたすけするため、しんちゃんが立ち上がる!",
-    "name": "クレヨンしんちゃん 宇宙DE\nアチョー!? 友情のおバカラテ!!",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ACHJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "アクション"
     ],
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

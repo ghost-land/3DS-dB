@@ -1,23 +1,23 @@
 {
-    "uid": "50010000042676",
     "tid": "0004000E001BB700",
-    "product_code": "CTR-U-JKPP",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-05-03",
+    "uid": "50010000042676",
+    "name": "Go! Go! Kokopolo 3D:\nUpdate Ver. 1.1",
     "formal_name": "Go! Go! Kokopolo 3D:\n<br>Update Ver. 1.1",
     "description": "This is an update for Go! Go! Kokopolo. This download does not contain the full version of the title. In order to use this update, you must have the full version of Go! Go! Kokopolo 3D.\n<br>Fix the recipe card save issue, the Boss C spawn issue and a few other small fixes.",
-    "name": "Go! Go! Kokopolo 3D:\nUpdate Ver. 1.1",
+    "release_date_on_eshop": "2017-05-03",
+    "product_code": "CTR-U-JKPP",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Update Data"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

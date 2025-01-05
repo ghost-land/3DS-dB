@@ -1,17 +1,13 @@
 {
-    "uid": "50010000003171",
     "tid": "000480044B473556",
-    "product_code": "TWL-N-KG5V",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000003171",
+    "name": "DodoGo! Robo",
     "formal_name": "DodoGo! Robo",
     "description": "Entertaining and accessible to\neveryone, DodoGo! Robo is a puzzle\nwhere you have to use your head to\navoid getting broken. No need to have\nany knowledge of previous games to\nexplore this new episode of the\nfamous \"DodoGo!\" series: become\nthe well-known Robo-Egg and collect\nthe maximum number of icons\nscattered around at new puzzle levels!\nIt’s your go! Use the stylus to help\nyour Robo progress then click on the\n\"play\" button to see the result. You\ncan even change your route until your\nRobo picks up all the icons for the\nlevel you are playing!",
-    "name": "DodoGo! Robo",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KG5V",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Action",
         "Adventure",
@@ -26,7 +22,11 @@
         "German",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000033435",
     "tid": "000400000013BB00",
-    "product_code": "CTR-N-AX8A",
-    "platform_name": "Nintendo 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-06-11",
+    "uid": "50010000033435",
+    "name": "Dr. Mario™: Miracle Cure",
     "formal_name": "Dr. Mario™: Miracle Cure",
     "description": "If you’re itching for puzzle fun, we’ve\ngot the perfect prescription – Dr.\nMario: Miracle Cure, only for\nNintendo 3DS family systems! Both\nDr. Mario and Dr. Luigi are on call to\ndeal with an outbreak of troublesome\nviruses in loads of modes filled with\nclassic Dr. Mario mayhem. When\nviruses strike, matching colours is the\nonly remedy!",
-    "name": "Dr. Mario™: Miracle Cure",
+    "release_date_on_eshop": "2015-06-11",
+    "product_code": "CTR-N-AX8A",
+    "platform_name": "Nintendo 3DS (Download)",
+    "region": "Region Free",
     "genres": [
         "Puzzle",
         "Action"
@@ -31,7 +27,11 @@
         "Italian",
         "Portuguese"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.1",
-    "region": "Region Free"
+    "disclaimer": null,
+    "descriptors": []
 }

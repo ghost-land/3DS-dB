@@ -1,17 +1,13 @@
 {
-    "uid": "50010000024638",
     "tid": "000400000012A400",
-    "product_code": "CTR-N-JWEJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-08-06",
+    "uid": "50010000024638",
+    "name": "メゾン･ド･魔王",
     "formal_name": "メゾン･ド･魔王",
     "description": "インディーズゲームでおなじみの『メゾン･ド･魔王』が、ついにニンテンドー3DSに登場!!\n<br>\n<br>『メゾン･ド･魔王』はアパートの管理人である魔王となって、モンスターたちを住民として受け入れマンションを運営しながら、クエストで襲い掛かってくる勇者たちを撃退するゲームです。\n<br>\n<br>はじめての人も大丈夫!\n<br>親切なチュートリアルがあります。\n<br>\n<br>自分だけのアパート経営で世界征服を目指しましょう!",
-    "name": "メゾン･ド･魔王",
+    "release_date_on_eshop": "2014-08-06",
+    "product_code": "CTR-N-JWEJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "シミュレーション",
         "アクション",
@@ -21,7 +17,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v1.2.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

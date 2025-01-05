@@ -1,17 +1,13 @@
 {
-    "uid": "50010000008821",
     "tid": "000480044B494945",
-    "product_code": "TWL-N-KIIE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2012-01-12",
+    "uid": "50010000008821",
+    "name": "101 Pinball World",
     "formal_name": "101 Pinball World",
     "description": "Get ready for fast-paced pinball action with a twist! Complete special objectives to earn fun bonuses as you shoot your ball through pipes, up ramps and around mind-blowing obstacles. Choose from two game modes, Quick Play and Random, and blast through over 100 fun tables on four exciting worlds filled with eye-popping details. Be a pinball wiz in Wizard World, go on a galactic adventure in Alien Spaceship, enjoy a spooky trip through Halloween and become a buccaneer in Pirate's Bay. Rack up enough points to top the High Scores and you'll be the pinball champ!\n\nFeatures:\n• 101 amazing tables in four unique worlds\n• Three player profiles and High Scores list\n• Classic pinball gameplay enhanced with beautiful graphics\n• Multiple special objectives earn extra points and power-ups\n• Fun bonuses include table tilt, slow ball, and immunity",
-    "name": "101 Pinball World",
+    "release_date_on_eshop": "2012-01-12",
+    "product_code": "TWL-N-KIIE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Arcade",
         "Action",
@@ -21,7 +17,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

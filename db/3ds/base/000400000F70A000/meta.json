@@ -1,17 +1,13 @@
 {
-    "uid": "50010000042359",
     "tid": "000400000F70A000",
-    "product_code": "KTR-N-CCHP",
-    "platform_name": "New 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2017-02-09",
+    "uid": "50010000042359",
+    "name": "Hit Ninja",
     "formal_name": "Hit Ninja",
     "description": "In this arcade game your task is to hit all the targets with your shuriken. Beat the target score on every level and become a ninja legend! Enjoy the intuitive and fun launch mechanic which becomes more challenging at higher levels! This colourful 3D graphics and the Japan inspired settings is waiting for you!",
-    "name": "Hit Ninja",
+    "release_date_on_eshop": "2017-02-09",
+    "product_code": "KTR-N-CCHP",
+    "platform_name": "New 3DS (Download)",
+    "region": "Europe",
     "genres": [
         "Arcade",
         "Action",
@@ -24,7 +20,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

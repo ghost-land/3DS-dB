@@ -1,17 +1,13 @@
 {
-    "uid": "50010000000213",
     "tid": "0004000000037600",
-    "product_code": "CTR-P-ASFP",
-    "platform_name": "Nintendo 3DS (Card)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000000213",
+    "name": "Asphalt™ 3D",
     "formal_name": "Asphalt™ 3D",
     "description": "Take the wheel of your dream car or\nbike and make a name for yourself in\nthe third instalment of the famous\nracing game Asphalt, now in full 3D\non Nintendo 3DS. Plunge into the\nheart of the world of underground\nracing where respect and money are\nwon through drifts and pileups. Force\nyour opponents off the road and avoid\nthe police roadblocks to win.",
-    "name": "Asphalt™ 3D",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ASFP",
+    "platform_name": "Nintendo 3DS (Card)",
+    "region": "Europe",
     "genres": [
         "Racing"
     ],
@@ -26,7 +22,11 @@
         "Italian",
         "Dutch"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

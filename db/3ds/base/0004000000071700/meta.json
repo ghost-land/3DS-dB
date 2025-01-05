@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009768",
     "tid": "0004000000071700",
-    "product_code": "CTR-P-ABSE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000009768",
+    "name": "BATTLESHIP®",
     "formal_name": "BATTLESHIP®",
     "description": "Your Fleet. Your Fight. OUR Fate.\n<br><br>\nTake command of a US Naval fleet to wage war against an unknown alien force. Secure the seas before it’s too late.\n<br><br>\nDefend and protect your Battleships.<br>\nPlay in DUEL! Mode to fire on your enemies!<br>\nCall on your fleet!<br>\nFire At Will!",
-    "name": "BATTLESHIP®",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-ABSE",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "region": "North America",
     "genres": [
         "Strategy",
         "Action",
@@ -24,7 +20,11 @@
         "English",
         "French"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": null,
+    "descriptors": []
 }

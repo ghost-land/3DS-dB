@@ -1,17 +1,13 @@
 {
-    "uid": "50010000014016",
     "tid": "00040000000CCF00",
-    "product_code": "CTR-P-AYTP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-05-24",
+    "uid": "50010000014016",
+    "name": "Donkey Kong™\nCountry Returns 3D",
     "formal_name": "Donkey Kong™\n<br>Country Returns 3D",
     "description": "Go ape with the swingin’ king of the\n<br>jungle! Donkey Kong and his simian\n<br>sidekick Diddy Kong are back for\n<br>more action-packed platforming antics\n<br>in Donkey Kong Country Returns 3D,\n<br>an enhanced version of Wii adventure\n<br>Donkey Kong Country Returns, only\n<br>on Nintendo 3DS and Nintendo 3DS\n<br>XL!",
-    "name": "Donkey Kong™\nCountry Returns 3D",
+    "release_date_on_eshop": "2013-05-24",
+    "product_code": "CTR-P-AYTP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Platformer"
     ],
@@ -26,7 +22,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.2.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

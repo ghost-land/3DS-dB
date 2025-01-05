@@ -1,17 +1,13 @@
 {
-    "uid": "50010000034776",
     "tid": "0004000000177200",
-    "product_code": "CTR-N-KPWJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-07-08",
+    "uid": "50010000034776",
+    "name": "ピンポントリックショット2",
     "formal_name": "ピンポントリックショット2",
     "description": "『ピンポントリックショット2』は、ピンポン玉をグラスに投げ入れるゲームです。\n<br>\n<br>フラットな床のオーソドックスなステージや、動く壁のあるステージなど、さまざまなギミックのステージで遊べます。\n<br>\n<br>タッチパネルを使用した直感的な操作と、スライドパッドを使用したオーソドックスな操作が選択できるので、誰でも気軽に楽しむことができます。\n<br>\n<br>■『ピンポントリックショット2』の変更点:\n<br>･前作よりテクニカルなステージ(全30ステージ)\n<br>･ステージは全て新規に用意(全30ステージ)\n<br>･現実に近いバウンド処理\n<br>･サイバー風の新しいデザイン",
-    "name": "ピンポントリックショット2",
+    "release_date_on_eshop": "2015-07-08",
+    "product_code": "CTR-N-KPWJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "パズル",
         "アクション"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

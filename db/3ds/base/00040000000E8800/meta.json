@@ -1,17 +1,13 @@
 {
-    "uid": "50010000014317",
     "tid": "00040000000E8800",
-    "product_code": "CTR-N-JGCJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-05-22",
+    "uid": "50010000014317",
+    "name": "ガンマンストーリー",
     "formal_name": "ガンマンストーリー",
     "description": "『ガンマンストーリー』は、ガンマンの「クライブ」を操作し、ガンを片手に、さらわれてしまった「いとしのアイツ」を助けに行く「ガンマンアクションゲーム」です。道中には、さまざまなテキとギミックが主人公のクライブを待ち受けます。\n<br>\n<br>西部劇にありそうなシチュエーションと、現実世界にはありえないギミック! 反射神経を最大限に駆使し、クリアを目指せ!",
-    "name": "ガンマンストーリー",
+    "release_date_on_eshop": "2013-05-22",
+    "product_code": "CTR-N-JGCJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "アクション",
         "シューティング"
@@ -22,7 +18,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": null,
+    "descriptors": []
 }

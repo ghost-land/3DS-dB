@@ -1,17 +1,13 @@
 {
-    "uid": "50010000029675",
     "tid": "0004000000154300",
-    "product_code": "CTR-N-KSLE",
-    "platform_name": "Nintendo 3DS Download Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "13"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-01-15",
+    "uid": "50010000029675",
+    "name": "Space Lift Danger Panic!",
     "formal_name": "Space Lift Danger Panic!",
     "description": "Fire portals and save people in this science-fiction reaction-testing hyper-arcade game!\n<br><br>\nThe Ceranthian's have been using their space lift to travel between the surface of their home planet and low orbit, where they go about their daily work. A series of attacks on their planet have culminated with the unleashing of a space weapon inside the lift putting all the travellers in deadly peril. \n<br><br>\nYour job is to use a teleportation cannon to fire portals into the traveller’s path and transport them to safety. It will be tough, but you are the Ceranthian's only hope!\n<br><br>\nFeatures:\nPlay through an epic  mode that tests your reactions to their limits across 40 levels. \nChallenge you friends in survival mode, where the real test awaits! can you reach the top of the leaderboards and claim global victory?\nFrom the makers of the hit game Tiny Dice Dungeon comes their first game on Nintendo 3DS™!",
-    "name": "Space Lift Danger Panic!",
+    "release_date_on_eshop": "2015-01-15",
+    "product_code": "CTR-N-KSLE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "region": "North America",
     "genres": [
         "Action",
         "Arcade",
@@ -27,7 +23,11 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "13"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "descriptors": []
 }

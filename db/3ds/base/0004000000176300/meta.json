@@ -1,17 +1,13 @@
 {
-    "uid": "50010000038715",
     "tid": "0004000000176300",
-    "product_code": "CTR-N-KHMP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "7"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-12-10",
+    "uid": "50010000038715",
+    "name": "The Magic Hammer",
     "formal_name": "The Magic Hammer",
     "description": "Every Hammer needs a hero.\n<br/><br/>\nThe Magic Hammer is an open-world\naction RPG where you embark on an\nepic adventure with your Hammer!\n<br/><br/>\nCustomize your character, explore\ntowns, battle in boneyards and roam\nthe open world in thirdperson.\n<br/><br/>\nLevel up to unlock new magical\npowers, travel to different realms,\ntame animals and take on greater\nenemies!\n<br/><br/>\nPlay the entire Story Mode co-op\nwith a friend using Local Play or\nInternet.\n<br/><br/>\nThe Magic Hammer also features a\ncreative mode that can be played\nsingle player or co-op.",
-    "name": "The Magic Hammer",
+    "release_date_on_eshop": "2015-12-10",
+    "product_code": "CTR-N-KHMP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "region": "Europe",
     "genres": [
         "Action",
         "RPG"
@@ -24,7 +20,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "7"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

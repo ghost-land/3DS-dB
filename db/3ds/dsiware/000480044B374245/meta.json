@@ -1,17 +1,13 @@
 {
-    "uid": "50010000031217",
     "tid": "000480044B374245",
-    "product_code": "TWL-N-K7BE",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "6"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-02-26",
+    "uid": "50010000031217",
+    "name": "Around the World in 80 Days",
     "formal_name": "Around the World in 80 Days",
     "description": "Join Phileas Fogg and his faithful companion Passepartout on their adventurous journey around the world in 80 days!\n<br><br>\nCollect all items you need for the adventure by creating rows of three from identical symbols. By removing the symbols the individual parts of the artifacts end up in your suitcase. Mighty bonus items - like fireballs and bombs - help you reach the destinations of your journey on time!\n<br><br>\nMore than 80 levels per journey\n2 player mode with two Nintendo DS\nRepeat the journey to discover more difficult levels \nUpright mode for right and left handers \nSeveral great bonus items with microphone support",
-    "name": "Around the World in 80 Days",
+    "release_date_on_eshop": "2015-02-26",
+    "product_code": "TWL-N-K7BE",
+    "platform_name": "Nintendo DSiWare",
+    "region": "North America",
     "genres": [
         "Puzzle",
         "Strategy",
@@ -25,7 +21,11 @@
         "English",
         "French"
     ],
-    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
     "version": "v0.1.0",
-    "region": "North America"
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n",
+    "descriptors": []
 }

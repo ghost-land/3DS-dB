@@ -1,23 +1,23 @@
 {
-    "uid": "50010000018414",
     "tid": "0004000E000FCE00",
-    "product_code": "CTR-U-AH9P",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-11-28",
+    "uid": "50010000018414",
+    "name": "Hakuoki\nUpdate",
     "formal_name": "Hakuoki: Memories of the\nShinsengumi Update",
     "description": "Fixes an issue with Hakuoki Memories\nâ€“ game will no longer crash if the\nplayer has not created a save file prior\nto starting the additional content.",
-    "name": "Hakuoki\nUpdate",
+    "release_date_on_eshop": "2013-11-28",
+    "product_code": "CTR-U-AH9P",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Update Data"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

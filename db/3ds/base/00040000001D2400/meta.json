@@ -1,17 +1,13 @@
 {
-    "uid": "50010000045955",
     "tid": "00040000001D2400",
-    "product_code": "CTR-N-J2MP",
-    "platform_name": "Nintendo 3DS (Download)",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2018-08-23",
+    "uid": "50010000045955",
+    "name": "MH Gen U Save Data\nTransfer App",
     "formal_name": "MH Gen U Save Data\n<br>Transfer App",
     "description": "This application allows you to transfer your save data from the Nintendo 3DS title Monster Hunter Generations to the Nintendo Switch™ title Monster Hunter Generations Ultimate.\n<br>\n<br>Note: a copy of each of the aforementioned titles is required to perform save data transfer. For details on what data is transferred, please visit the official website.",
-    "name": "MH Gen U Save Data\nTransfer App",
+    "release_date_on_eshop": "2018-08-23",
+    "product_code": "CTR-N-J2MP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "region": "Europe",
     "genres": [
         "Other"
     ],
@@ -25,7 +21,11 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

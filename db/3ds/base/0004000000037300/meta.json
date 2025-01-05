@@ -1,17 +1,13 @@
 {
-    "uid": "50010000007701",
     "tid": "0004000000037300",
-    "product_code": "CTR-P-AHDE",
-    "platform_name": "Nintendo 3DS Retail Only",
-    "rating_system": {
-        "name": "ESRB",
-        "age": "10"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000007701",
+    "name": "The Hidden",
     "formal_name": "The Hidden",
     "description": "What if your new Nintendo 3DS game was more than a game? The Hidden, an augmented reality adventure, turns your handheld into a portal to the astral plane as you investigate your real-world environments to search, capture, and destroy supernatural entities as a paranormal investigator.",
-    "name": "The Hidden",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AHDE",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "region": "North America",
     "genres": [
         "Adventure",
         "Action"
@@ -22,7 +18,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
     "version": "v0.0.0",
-    "region": "North America"
+    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000021818",
     "tid": "000400000012A600",
-    "product_code": "CTR-N-JL2J",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-04-23",
+    "uid": "50010000021818",
+    "name": "SLICE IT!",
     "formal_name": "SLICE IT!",
     "description": "さまざまな図形を同じ大きさに切り分ける「スライス」パズルゲームが登場!\n<br>簡単そうに見えるって? でも、だんだん複雑で難しい図形が出てくるから油断大敵です!\n<br>ステージ数は200+αの大ボリューム! すべての図形を切り分けよう!\n<br>\n<br>30秒間に次々と問題をクリアしていく「クイックモード」や10種のさまざまな条件を開放していく「ミッション」など、クリアしても楽しめるやり込み要素も盛りだくさん!\n<br>\n<br>ちょっとした時間でも気軽に楽しめるスライスパズルの世界へようこそ!",
-    "name": "SLICE IT!",
+    "release_date_on_eshop": "2014-04-23",
+    "product_code": "CTR-N-JL2J",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "パズル"
     ],
@@ -19,7 +15,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }

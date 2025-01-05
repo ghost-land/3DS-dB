@@ -1,24 +1,24 @@
 {
-    "uid": "50010000006462",
     "tid": "000480044B574756",
-    "product_code": "TWL-N-KWGV",
-    "platform_name": "Nintendo DSiWare",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-04-10",
+    "uid": "50010000006462",
+    "name": "Animal Crossing™ Calculator",
     "formal_name": "Animal Crossing™ Calculator",
     "description": "Make maths more fun with this Animal\nCrossing-themed calculator! Simply\nuse the Touch Screen to enter figures\nand make calculations, accompanied\nby classic Animal Crossing visuals and\nsounds.<br>\n<br>\nIn addition to a fully-featured\ncalculator, Animal Crossing Calculator\nalso includes a unit converter for\nconverting to and from a variety of\ndifferent measurements such as\nweight, length, speed, temperature\nand more. You can even convert\nhuman years to and from animal\nyears!",
-    "name": "Animal Crossing™ Calculator",
+    "release_date_on_eshop": "2013-04-10",
+    "product_code": "TWL-N-KWGV",
+    "platform_name": "Nintendo DSiWare",
+    "region": "Europe",
     "genres": [
         "Education",
         "Other"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

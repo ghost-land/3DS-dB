@@ -1,23 +1,23 @@
 {
-    "uid": "50010000020396",
     "tid": "0004000E00102000",
-    "product_code": "CTR-U-AFJP",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": null,
-        "age": null
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2014-02-13",
+    "uid": "50010000020396",
+    "name": "The LEGO Movie Videogame\nSoftware Update",
     "formal_name": "The LEGO Movie Videogame\nSoftware Update",
     "description": "3D Slider bug fix.<br>Language\nselection text update.",
-    "name": "The LEGO Movie Videogame\nSoftware Update",
+    "release_date_on_eshop": "2014-02-13",
+    "product_code": "CTR-U-AFJP",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Update Data"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
     "version": "v1.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

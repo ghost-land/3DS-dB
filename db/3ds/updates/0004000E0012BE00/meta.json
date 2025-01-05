@@ -1,23 +1,23 @@
 {
-    "uid": "50010000038055",
     "tid": "0004000E0012BE00",
-    "product_code": "CTR-U-AVMP",
-    "platform_name": "Update Data",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-10-28",
+    "uid": "50010000038055",
+    "name": "Harvest Moon®:\nThe Lost Valley: Update",
     "formal_name": "Harvest Moon®:\nThe Lost Valley: Update",
     "description": "An update for \"Harvest Moon®: The\nLost Valley\" is now available from\nNintendo eShop.\n<br/><br/>\nAll customers who own a copy of\n“Harvest Moon®: The Lost Valley”\nshould download the update.\n<br/><br/>\nThis will update the software to\nVersion 1.1 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
-    "name": "Harvest Moon®:\nThe Lost Valley: Update",
+    "release_date_on_eshop": "2015-10-28",
+    "product_code": "CTR-U-AVMP",
+    "platform_name": "Update Data",
+    "region": "Europe",
     "genres": [
         "Other"
     ],
     "features": [],
     "languages": [],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v1.1.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

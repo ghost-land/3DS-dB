@@ -1,17 +1,13 @@
 {
-    "uid": "50010000009766",
     "tid": "0004000000056700",
-    "product_code": "CTR-P-AT5J",
-    "platform_name": "ニンテンドー3DSカードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "0"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": null,
+    "uid": "50010000009766",
+    "name": "ちょ～りっち!\nたまごっちのプチプチおみせっち",
     "formal_name": "ちょ～りっち!\nたまごっちのプチプチおみせっち",
     "description": "今回はおみせやさんごっこだけじゃない!\n<br>おみせやさん遊びで、おきゃくさまと知り合って「ごよーぼー」をきこう! 「ごよーぼー」をきいたら「みらいけんきゅうじょ」で新製品を開発しよう!\n<br>\n<br>新商品を開発するための素材は、おうちでたまごっちたちと仲良くなってもゲットできるよ!\n<br>開発した商品は、もちろん3Dで立体的に楽しめます!\n<br>さらに通信機能を使ってお友だちの「おうち」に遊びに行くこともできちゃいます!",
-    "name": "ちょ～りっち!\nたまごっちのプチプチおみせっち",
+    "release_date_on_eshop": null,
+    "product_code": "CTR-P-AT5J",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "region": "Japan",
     "genres": [
         "その他"
     ],
@@ -23,7 +19,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは、体験版配信ができます。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
     "version": "v0.0.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは、体験版配信ができます。",
+    "descriptors": []
 }

@@ -1,17 +1,13 @@
 {
-    "uid": "50010000015394",
     "tid": "00040000000EAE00",
-    "product_code": "CTR-P-ABQP",
-    "platform_name": "Nintendo 3DS (Card/Download)",
-    "rating_system": {
-        "name": "PEGI",
-        "age": "3"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2013-09-19",
+    "uid": "50010000015394",
+    "name": "Harvest Moon:\nA New Beginning",
     "formal_name": "Harvest Moon:\nA New Beginning",
     "description": "Welcome to your idylic new life on\nthe farm! Create and customise your\ncharacter, tend your land and look\nafter your animals!\n<br/><br/>\nGrow fruit, flowers and vegetables to\nsell at the market - and use the\nproceeds to improve your home and\nthe town you live in!\n<br/><br/>\nMeet and greet the local townsfolk,\nmake new friends and who knows, you\nmay find love and start a family!",
-    "name": "Harvest Moon:\nA New Beginning",
+    "release_date_on_eshop": "2013-09-19",
+    "product_code": "CTR-P-ABQP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "region": "Europe",
     "genres": [
         "Simulation",
         "Adventure",
@@ -28,7 +24,11 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null,
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
     "version": "v0.0.0",
-    "region": "Europe"
+    "disclaimer": null,
+    "descriptors": []
 }

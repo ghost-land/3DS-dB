@@ -1,17 +1,13 @@
 {
-    "uid": "50010000030896",
     "tid": "0004000000156100",
-    "product_code": "CTR-N-KMTJ",
-    "platform_name": "ニンテンドー3DSダウンロードソフト",
-    "rating_system": {
-        "name": "CERO",
-        "age": "12"
-    },
-    "descriptors": [],
-    "release_date_on_eshop": "2015-02-25",
+    "uid": "50010000030896",
+    "name": "マーセナリーズサーガ2",
     "formal_name": "マーセナリーズサーガ2",
     "description": "『マーセナリーズサーガ2』は騎士隊隊長クロードをはじめとする多数のユニットを操作して敵ユニットを戦闘で倒し、ステージ(章)クリアで進行するタクティカルシミュレーションRPGです。\n<br>手に入れたポイントを使ってスキル習得やクラスチェンジ、フリーバトルでレベル上げなど、やりこみ度満載です。",
-    "name": "マーセナリーズサーガ2",
+    "release_date_on_eshop": "2015-02-25",
+    "product_code": "CTR-N-KMTJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "region": "Japan",
     "genres": [
         "ロールプレイング",
         "シミュレーション"
@@ -20,7 +16,11 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
     "version": "v0.1.0",
-    "region": "Japan"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "descriptors": []
 }
