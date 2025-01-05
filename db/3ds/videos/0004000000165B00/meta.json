@@ -1,0 +1,32 @@
+{
+    "uid": "50010000030296",
+    "tid": "0004000000165B00",
+    "product_code": "CTR-N-SZMP",
+    "platform_name": "Downloadable Video",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-02-05",
+    "formal_name": "The Legend of Zelda™:\nMajora's Mask 3D: Trailer",
+    "description": "This is a downloadable 3D trailer of\nThe Legend of Zelda™: Majora's Mask\n3D.",
+    "name": "The Legend of Zelda™:\nMajora's Mask 3D: Trailer",
+    "genres": [
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch",
+        "Portuguese",
+        "Russian"
+    ],
+    "disclaimer": null
+}
