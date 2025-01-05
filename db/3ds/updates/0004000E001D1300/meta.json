@@ -1,0 +1,25 @@
+{
+    "uid": "50010000046075",
+    "tid": "0004000E001D1300",
+    "product_code": "CTR-U-LPCE",
+    "platform_name": "Software Update",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2018-06-14",
+    "formal_name": "Link-a-Pix Color\n<br>Update Ver. 1.01",
+    "description": "This update fixes an issue which could potentially leave puzzles in an incomplete state.",
+    "name": "Link-a-Pix Color\nUpdate Ver. 1.01",
+    "genres": [
+        "Updates"
+    ],
+    "features": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

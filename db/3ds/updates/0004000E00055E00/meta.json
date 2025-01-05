@@ -1,0 +1,27 @@
+{
+    "uid": "50010000017454",
+    "tid": "0004000E00055E00",
+    "product_code": "CTR-U-EK2A",
+    "platform_name": "Update Data",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-10-25",
+    "formal_name": "Pokémon™ Y: Update",
+    "description": "An update for Pokémon™ Y is now\navailable from Nintendo eShop.\n<br/><br/>\nAll customers who own a copy of\n“Pokémon Y” should download the\nupdate.\n<br/><br/>\nThis will update the software to\nVersion 1.5 with the following\namendments:\n<br/><br/>\n- Various bugs have been fixed in\norder to provide a smoother gaming\nexperience.\n<br/><br/>\nPlease note that ”Pokémon™ X”\ncannot be updated using this data and\nyou have to download the update\ndata for “Pokémon X” separately.",
+    "name": "Pokémon™ Y: Update",
+    "genres": [
+        "Update Data"
+    ],
+    "features": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

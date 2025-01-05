@@ -1,0 +1,21 @@
+{
+    "uid": "50010000046315",
+    "tid": "0004000E001D0E00",
+    "product_code": "CTR-U-LPCP",
+    "platform_name": "Update Data",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2018-07-04",
+    "formal_name": "Link-a-Pix Colour:\n<br>Update",
+    "description": "This update fixes an issue which could potentially leave a puzzle in an unsolvable state.",
+    "name": "Link-a-Pix Colour:\nUpdate",
+    "genres": [
+        "Update Data"
+    ],
+    "features": [],
+    "languages": [],
+    "disclaimer": null
+}

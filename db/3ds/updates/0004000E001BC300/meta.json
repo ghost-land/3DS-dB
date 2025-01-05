@@ -1,0 +1,21 @@
+{
+    "uid": "50010000042778",
+    "tid": "0004000E001BC300",
+    "product_code": "CTR-U-KZVP",
+    "platform_name": "Update Data",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2017-05-04",
+    "formal_name": "Blaster Master Zero:\n<br>Update",
+    "description": "The following notes are bug fixes that have been implemented in the Nintendo 3DS title \"Blaster Master Zero\".\n<br>\n<br>â– Ver. 1.4.1\n<br># A bug that would sometimes cause the game to freeze when you would get knocked out as Jason on sideview maps in Boss Blaster Mode has been fixed.\n<br># A number of other small bug fixes and general game improvements have also been implemented.",
+    "name": "Blaster Master Zero:\nUpdate",
+    "genres": [
+        "Update Data"
+    ],
+    "features": [],
+    "languages": [],
+    "disclaimer": null
+}

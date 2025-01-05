@@ -1,0 +1,27 @@
+{
+    "uid": "50010000033875",
+    "tid": "0004000E00158600",
+    "product_code": "CTR-U-KTTE",
+    "platform_name": "Software Update",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-05-28",
+    "formal_name": "Titan Attacks! Update Ver. 1.1",
+    "description": "This is an update for the Titan Attacks! game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Titan Attacks!.",
+    "name": "Titan Attacks! Update Ver. 1.1",
+    "genres": [
+        "Updates"
+    ],
+    "features": [
+        "Nintendo Network"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately."
+}

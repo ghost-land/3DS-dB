@@ -1,0 +1,23 @@
+{
+    "uid": "50010000020233",
+    "tid": "0004000E000DB600",
+    "product_code": "CTR-U-BTRJ",
+    "platform_name": "更新データ",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-02-07",
+    "formal_name": "更新データ Ver. 1.1\nBRAVELY DEFAULT -For the Sequel-",
+    "description": "ニンテンドー3DSソフト『BRAVELY DEFAULT -For the Sequel-』の更新データです。\n<br>\n<br>･一部データを引き継いでゲームを始めるとDの手帳の「NEW」が消えない場合がある問題を修正しました。\n<br>\n<br>･一部データを引き継いでゲームを始めるとDの手帳の一部ページを解放できなくなる場合がある問題を修正しました。\n<br>\n<br>･スクエニメンバーズのパスワード入力時に「%」が入力できない問題を修正しました。\n<br>\n<br>･強くてニューゲームをするとスクエニメンバーズ上の「強敵討伐数」がリセットされる問題を修正しました。",
+    "name": "更新データ Ver. 1.1\nBRAVELY DEFAULT FtS ",
+    "genres": [
+        "更新データ"
+    ],
+    "features": [],
+    "languages": [
+        "日本語"
+    ],
+    "disclaimer": "ニンテンドー3DSソフト『BRAVELY DEFAULT -For the Sequel-』の更新データです。本データはダウンロード後、ニンテンドー3DSのHOMEメニューにアイコンが表示されません。「本体設定」の「追加コンテンツ」に、本データが表示されますが、削除しないようにご注意ください。"
+}

@@ -1,0 +1,23 @@
+{
+    "uid": "50010000018056",
+    "tid": "0004000E000DD900",
+    "product_code": "CTR-U-AH9E",
+    "platform_name": "Software Update",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "17"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-11-22",
+    "formal_name": "Hakuoki: Memories of the\nShinsengumi Update",
+    "description": "The Hakuoki: Memories of the Shinsengumi update fixes the issues regarding the \"Extras\" section of the game.",
+    "name": "Hakuoki: Memories of the\nShinsengumi Update",
+    "genres": [
+        "Updates"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n"
+}

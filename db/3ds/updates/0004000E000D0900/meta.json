@@ -1,0 +1,28 @@
+{
+    "uid": "50010000025935",
+    "tid": "0004000E000D0900",
+    "product_code": "CTR-U-BPCP",
+    "platform_name": "Update Data",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-09-17",
+    "formal_name": "Pokémon™ Art Academy™:\nUpdate",
+    "description": "An update for Pokémon™ Art\nAcademy™ is now available from\nNintendo eShop. This will update the\nsoftware to Version 1.1.\n<br/><br/>\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
+    "name": "Pokémon™ Art Academy™:\nUpdate",
+    "genres": [
+        "Update Data",
+        "Other"
+    ],
+    "features": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

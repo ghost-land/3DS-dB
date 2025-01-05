@@ -1,0 +1,30 @@
+{
+    "uid": "50010000016313",
+    "tid": "0004000E000D9000",
+    "product_code": "CTR-U-AYMP",
+    "platform_name": "Update Data",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-09-04",
+    "formal_name": "Mario & Luigi™:\nDream Team Bros. Update",
+    "description": "An update for Mario & Luigi™:\nDream Team Bros. is\nnow available from Nintendo eShop.\nThis will update the software to\nVersion 1.1.\n<br/><br/>\n• Once the update has been\ndownloaded, it will be installed\nautomatically.\n<br/><br/>\nWe apologize for any inconvenience\ncaused, and recommend downloading\nthis update to ensure a smooth game\nexperience.",
+    "name": "Mario & Luigi™:\nDream Team Bros. Update",
+    "genres": [
+        "Update Data"
+    ],
+    "features": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch",
+        "Portuguese",
+        "Russian"
+    ],
+    "disclaimer": null
+}

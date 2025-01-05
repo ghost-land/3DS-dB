@@ -1,0 +1,28 @@
+{
+    "uid": "50010000040055",
+    "tid": "0004000E00153500",
+    "product_code": "CTR-U-JWVE",
+    "platform_name": "Software Update",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2016-04-07",
+    "formal_name": "Nintendo Badge Arcade Update\nVer. 1.3.1",
+    "description": "This is an update for the Nintendo Badge Arcade game. This download does not contain the full version of the title. In order to use this update, you must have the full version of Nintendo Badge Arcade.",
+    "name": "Nintendo Badge Arcade Update\nVer. 1.3.1",
+    "genres": [
+        "Updates"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports SpotPass",
+        "Mii",
+        "Nintendo Network"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately."
+}
