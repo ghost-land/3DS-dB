@@ -53,7 +53,35 @@ db/3ds/
     ├── screenshot_[n]_upper.jpg # Upper screen of screenshot (variable number)
 ```
 
+___
 
+Metadata:   
+db/3ds/:category/:tid/meta.json
+```json
+{
+    "tid": "",
+    "uid": "",
+    "name": "",
+    "formal_name": "",
+    "description": "",
+    "release_date_on_eshop": "",
+    "product_code": "",
+    "platform_name": "",
+    "region": "",
+    "genres": [],
+    "features": [],
+    "languages": [],
+    "rating_system": {
+        "name": "",
+        "age": ""
+    },
+    "version": "",
+    "disclaimer": null,
+    "descriptors": []
+}
+```
+
+___
 
 Iso code and more :
 ```
