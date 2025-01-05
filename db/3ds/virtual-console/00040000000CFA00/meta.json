@@ -1,0 +1,23 @@
+{
+    "uid": "50010000021014",
+    "tid": "00040000000CFA00",
+    "product_code": "CTR-N-TCKP",
+    "platform_name": "NES",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-03-27",
+    "formal_name": "Adventure Island II",
+    "description": "That Evil Witch Doctor never gives\nup! Not content with kidnapping\nPrincess Leilani in the first Adventure\nIsland, now he’s swiped her sister\nTina!\n<br/><br/>\nEight islands of perilous platform\naction stand between you and your\nsweetheart. Prepare to battle\ndinosaurs, survive avalanches and\noutwit the Witch Doctor’s minions.\n<br/><br/>\nHiggins is helped by four dinosaurs\nwith abilities on land, sea and even in\nthe air. With the help of his\ncompanions, only Master Higgins can\nrestore peace to the island and save\nTina!",
+    "name": "Adventure Island II",
+    "genres": [
+        "Platformer"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

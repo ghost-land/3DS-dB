@@ -1,0 +1,23 @@
+{
+    "uid": "50010000026295",
+    "tid": "0004000000050200",
+    "product_code": "CTR-N-RA3P",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-10-16",
+    "formal_name": "Donkey Kong™ Land",
+    "description": "Donkey Kong teams up with his\nsidekick, Diddy Kong, on a new\nadventure in this platformer inspired\nby the classic Donkey Kong Country™.\n<br/><br/>\nFace flying pigs, deadly Zingers and\nreptilian Kremlings, as you journey\nthrough a mysterious pirate ship,\nperilous snow, an unbelievable\nunderwater temple and crazy capers in\nthe sky.\n<br/><br/>\nFun fact: the original Game Boy\nversion was released with a special\nbanana-yellow Game Pak!",
+    "name": "Donkey Kong™ Land",
+    "genres": [
+        "Platformer"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

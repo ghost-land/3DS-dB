@@ -1,0 +1,26 @@
+{
+    "uid": "50010000038521",
+    "tid": "0004000000171700",
+    "product_code": "CTR-N-RCVA",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2016-02-27",
+    "formal_name": "Pokémon™ Version Bleue",
+    "description": "You've got to be the very best, like\nno one ever was - and the only way\nto do that is by catching all the\nPokémon you can!\n<br/><br/>\nYour quest to catch 'em all and\ncomplete your Pokédex will take you\nall over the world, and maybe one\nday you'll even be able to defeat all\nthe Gym Leaders and collect their\nbadges!",
+    "name": "Pokémon™ Version Bleue",
+    "genres": [
+        "RPG",
+        "Adventure"
+    ],
+    "features": [
+        "Supports Local Play"
+    ],
+    "languages": [
+        "French"
+    ],
+    "disclaimer": null
+}

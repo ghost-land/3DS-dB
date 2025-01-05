@@ -1,0 +1,24 @@
+{
+    "uid": "50010000007436",
+    "tid": "000400000004F200",
+    "product_code": "CTR-N-RAWP",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "7"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "Mega Man™:\nDr. Wily's Revenge",
+    "description": "They're alive, and ripping up the\ntown!<br>\n<br>\nInsane industrial wizard Dr. Wily has\nrevived 8 of his Robot Masters in\nanother try at taking over the world.<br>\n<br>\nDr. Wily's really raving this time. As\nyou blaze and blast your way closer,\nhe runs further into even nastier\nmazes, and hides behind terrifying\ntons of mechanized maniacs, including\nthe all-new, Mega Man Hunter!",
+    "name": "Mega Man™:\nDr. Wily's Revenge",
+    "genres": [
+        "Action",
+        "Platformer"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

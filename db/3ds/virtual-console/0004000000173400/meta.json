@@ -1,0 +1,25 @@
+{
+    "uid": "50010000044740",
+    "tid": "0004000000173400",
+    "product_code": "CTR-N-QB5A",
+    "platform_name": "Game Boy Color",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2018-01-26",
+    "formal_name": "Pokémon Versione Cristallo",
+    "description": "Delve into the mysterious world of Pokémon Crystal! Although this unique companion to Pokémon Gold and Silver shares many of the exciting adventures and challenges of its predecessors, a host of new changes, both big and small, add up to a brand-new experience.",
+    "name": "Pokémon Versione Cristallo",
+    "genres": [
+        "RPG"
+    ],
+    "features": [
+        "Supports Local Play"
+    ],
+    "languages": [
+        "Italian"
+    ],
+    "disclaimer": null
+}

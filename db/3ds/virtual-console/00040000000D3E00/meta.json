@@ -1,0 +1,23 @@
+{
+    "uid": "50010000018953",
+    "tid": "00040000000D3E00",
+    "product_code": "CTR-N-QAWP",
+    "platform_name": "Game Boy Color",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-01-02",
+    "formal_name": "Mario Tennis™",
+    "description": "The Game Boy™ Color version of\nMario Tennis is a winning mix of court\naction and RPG. Train your character\nfrom novice to pro as you rise through\nthe ranks of the Royal Tennis\nAcademy, before taking on the\nchampion himself: Mario!\n<br/><br/>\nBuild up your skills in Mario Tour\ncareer mode, jump right into the\naction with exhibition matches and\nrelax with minigames while playing as\nLuigi, Donkey Kong and more. There\nis even a dictionary to help you brush\nup on your tennis terminology!",
+    "name": "Mario Tennis™",
+    "genres": [
+        "Sports"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

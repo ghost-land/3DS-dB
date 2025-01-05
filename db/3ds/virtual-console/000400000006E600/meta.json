@@ -1,0 +1,23 @@
+{
+    "uid": "50010000007301",
+    "tid": "000400000006E600",
+    "product_code": "CTR-N-TAAP",
+    "platform_name": "NES",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "Super Mario Bros.™",
+    "description": "For more than 25 years, the Super\nMario series has conquered the\ncharts, and won the hearts of fans the\nworld over.\n\nNow you can discover - or\nrediscover - the original game that\nmade Mario a household name.\n\nRun and jump with Mario or Luigi\nthrough caves and castles, down\npipes and across platforms, and face\noff against Bowser to rescue your\nbeloved Princess Peach.\n\nIt may be more than a quarter of a\ncentury old, but Super Mario Bros. is\nstill as enchanting as ever!",
+    "name": "Super Mario Bros.™",
+    "genres": [
+        "Platformer"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

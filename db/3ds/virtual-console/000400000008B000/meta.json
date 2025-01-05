@@ -1,0 +1,24 @@
+{
+    "uid": "50010000011007",
+    "tid": "000400000008B000",
+    "product_code": "CTR-N-RBZE",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2012-07-12",
+    "formal_name": "Kirby's Pinball Land™",
+    "description": "Original Release Date:  November 1993\n<br><br>\nChoose your world and take aim! Kirby™ will be launched into the fast-paced dangers of uncharted worlds, but you can help him face his foes head on. It's a pinball race to check out each new world's surprise enemies and pitfalls. Flip Kirby in battles against lethal eyeballs, a shooting tree and mace-swinging maniacs. Take aim and leap to new worlds.  Three different pinball games, four screens tall, with tons of secret bonus levels!",
+    "name": "Kirby's Pinball Land™",
+    "genres": [
+        "Action",
+        "Arcade"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately."
+}

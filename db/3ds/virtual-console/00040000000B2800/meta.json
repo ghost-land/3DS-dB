@@ -1,0 +1,25 @@
+{
+    "uid": "50010000016214",
+    "tid": "00040000000B2800",
+    "product_code": "CTR-N-RCCP",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-09-05",
+    "formal_name": "Pinball: Revenge of the Gator",
+    "description": "Revenge of the Gator is a snappy\npinball simulation that packs a table\nfull of tricks and traps into a perfect\npocket size.\n<br/><br/>\nThere are four scrolling screens and\nthree bonus stages to get your teeth\ninto. Direct the ball into certain spots\nto trigger extra balls and score\nmultipliers. But don’t let the ball fall,\nor the hungry gator below will\nswallow it up.\n<br/><br/>\nYou can also grab a friend and\nengage in the two player mode by\ntaking turns to see who can score the\nhighest.",
+    "name": "Pinball: Revenge of the Gator",
+    "genres": [
+        "Arcade",
+        "Simulation",
+        "Other"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

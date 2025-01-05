@@ -1,0 +1,25 @@
+{
+    "uid": "50010000014090",
+    "tid": "00040000000A1200",
+    "product_code": "CTR-N-TBDP",
+    "platform_name": "NES",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "7"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-25",
+    "formal_name": "Mega Man™ 4",
+    "description": "A year after the events of Mega\nMan™ 3, the world is still at peace.\nHowever, mysterious scientist Dr.\nCossack announces his plan to\neliminate Mega Man, and prove\nhimself to be the greatest robot\ndesigner of all time. It's up to Mega\nMan to save the day once again!\n<br/><br/>\nMega Man 4 provides even more\nfiendish platform-action gameplay and\neight new robot masters to defeat.\nMega Man now also has his Mega\nBuster to charge up energy, allowing\nhim to fire larger and more damaging\nblasts.",
+    "name": "Mega Man™ 4",
+    "genres": [
+        "Action",
+        "Platformer",
+        "Arcade"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

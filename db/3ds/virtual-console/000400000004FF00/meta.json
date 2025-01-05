@@ -1,0 +1,23 @@
+{
+    "uid": "50010000007910",
+    "tid": "000400000004FF00",
+    "product_code": "CTR-N-RA2P",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "ADVENTURE ISLAND",
+    "description": "Master Higgins is back! Help him\nsearch through uncharted islands for\nthe missing princess Tina! Grab a\nskateboard and dash across savage\nlands filled with spiders, cobras,\nskeletons and more! Crack open\nmonster eggs to free your dinosaur\nbuddies - they'll give you a wild ride!",
+    "name": "ADVENTURE ISLAND",
+    "genres": [
+        "Platformer"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

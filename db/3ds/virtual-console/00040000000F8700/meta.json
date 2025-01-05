@@ -1,0 +1,24 @@
+{
+    "uid": "50010000026455",
+    "tid": "00040000000F8700",
+    "product_code": "CTR-N-TDMP",
+    "platform_name": "NES",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-10-09",
+    "formal_name": "Mighty Final Fight",
+    "description": "Haggar, Guy and Cody are back to\nrescue Haggar’s kidnapped daughter\nand clean up the streets of Metro\nCity! Mighty Final Fight takes the\nconcept of the original arcade version\nbut shrinks the characters to mini\nproportions, yet beefs up the\ngameplay with the addition of an\nexperience system to level-up\ncharacters’ abilities.\n<br/><br/>\nUnlike other versions you can play as\neach of the three main characters.\nBrawl your way through five\nhard-hitting levels, plus bonus rounds,\nbefore the face-off with the final boss.",
+    "name": "Mighty Final Fight",
+    "genres": [
+        "Fighting",
+        "Arcade"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "50010000008583",
+    "tid": "0004000000058400",
+    "product_code": "CTR-N-RBDE",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "1992-09",
+    "formal_name": "BIONIC COMMANDO™",
+    "description": "Rad Spencer is a member of FF Corps, an elite group of commandos that serve the Federation, specially trained in the use of powerful wired grappling guns. When the Federation’s greatest soldier, Super Joe, is captured while infiltrating the enemy Doraize Army and investigating the development of a powerful super-weapon, Rad Spencer is sent in to save his missing comrade. Take control of Rad and his powerful bionic arm as you infiltrate the Doriaze Army's heavily-guarded fortress, across 19 levels, and fight to save Super Joe and ultimately take down the enemy leader, Doraize Wiseman, in this classic side-scrolling adventure!",
+    "name": "BIONIC COMMANDO™",
+    "genres": [
+        "Action",
+        "Arcade",
+        "Platformer"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately."
+}

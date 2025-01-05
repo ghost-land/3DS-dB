@@ -1,0 +1,23 @@
+{
+    "uid": "50010000011107",
+    "tid": "0004000000083200",
+    "product_code": "CTR-N-RBVP",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "The Sword of Hope II",
+    "description": "When the ancient demon Zakdos was\nfinally sealed away, it ended the war\nagainst evil. But now Zakdos is free\nagain, and to make matters worse, the\nSword of Hope has been stolen!<br>\n<br>\nIn this classic adventure game, take\non the role of young Prince Theo and\nembark on a journey to retrieve the\nSword of Hope.<br>\n<br>\nExplore the land and recruit allies to\njoin your band of warriors and\nmagicians, and take control of three\ndifferent characters. The fate of the\nkingdom is in your hands!",
+    "name": "The Sword of Hope II",
+    "genres": [
+        "RPG"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

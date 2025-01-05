@@ -1,0 +1,25 @@
+{
+    "uid": "50010000017293",
+    "tid": "0004000000071600",
+    "product_code": "CTR-N-TASP",
+    "platform_name": "NES",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-10-24",
+    "formal_name": "Wario's Woods",
+    "description": "The Peaceful Woods were once a\nsafe haven for all gentle\ncreatures…until Wario turned up. Now\nthe place is swarming with monsters,\nand only Toad can clear up the mess!\n<br/><br/>\nWario’s Woods is a fast-paced puzzle\ngame in which Toad must line up\nbombs and enemies into rows of\nmatching colours. Clear enough\nsections of the forest to go up against\nthe mighty Wario himself!\n<br/><br/>\nThis version also features Download\nPlay allowing you to connect to\nanother player’s Nintendo 3DS™ and\ncompete in a VS battle, with just one\ncopy of the game.",
+    "name": "Wario's Woods",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [
+        "Supports Download Play"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

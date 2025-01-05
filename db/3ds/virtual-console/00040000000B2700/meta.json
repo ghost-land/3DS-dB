@@ -1,0 +1,26 @@
+{
+    "uid": "50010000017153",
+    "tid": "00040000000B2700",
+    "product_code": "CTR-N-RCCE",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-10-17",
+    "formal_name": "Pinball: Revenge of the Gator",
+    "description": "Pinball: Revenge of the Gator is a pinball game in which you hit a falling ball with flippers to score points by aiming at targets and shooting the ball through lanes. Play across five main and three bonus stages, where each stage will have its own unique objective to complete.\n<br><br>\nStart with three balls and work your way up. But if your ball falls all the way down to the Gator Stage, it will be the end of that turn. Lose all of the balls, and it's game over!\n<br><br>\nPlay solo in Gator 1Player mode, and try for a spot on the top 5 scores! You can also play with a friend in Gator 2Players mode where you will take turns in beating each other's score! ",
+    "name": "Pinball: Revenge of the Gator",
+    "genres": [
+        "Arcade",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately."
+}

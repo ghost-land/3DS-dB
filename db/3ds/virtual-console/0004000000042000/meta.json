@@ -1,0 +1,23 @@
+{
+    "uid": "50010000007149",
+    "tid": "0004000000042000",
+    "product_code": "CTR-N-RAJE",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "1995-03",
+    "formal_name": "Mario's Picross™",
+    "description": "Help Mario™ unlock the mystery of Picross! The secrets lie in the numeric codes on the top and left side of the window. Decipher these numbers and uncover a hidden picture in each mind-bending puzzle!\n<br><br>\nQuick wits and a speedy pace are required to solve the clues before the clock runs out! Chisel away boxes strategically and reveal the hidden image in record time! But be careful! Every mistake will cost precious minutes!\n<br><br>\nOver 250 brain-bending puzzles to solve! Different levels of difficulty provide mind-melting puzzle action for players of all skill levels!",
+    "name": "Mario's Picross™",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately."
+}

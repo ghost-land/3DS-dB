@@ -1,0 +1,23 @@
+{
+    "uid": "50010000009910",
+    "tid": "000400000007D900",
+    "product_code": "CTR-N-QAJP",
+    "platform_name": "Game Boy Color",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "Wario Land II",
+    "description": "Wario sleeps soundly every night,\nknowing his precious treasure is safely\nlocked away. That was until the Black\nSugar Gang broke in and pinched the\nlot!<br>\n<br>\nHelp Wario recover his riches in this\nclassic, comical platformer. Wario\ncan't be hurt, but certain enemy\nattacks will have weird effects on his\nbody; transforming him into new\nguises such as flaming Hot Wario or\nZombie Wario – each with unique\nabilities.<br>\n<br>\nSolve puzzles, play mini-games, and\nlook for hidden exits that lead to\nmore treasure and even different game\nendings.",
+    "name": "Wario Land II",
+    "genres": [
+        "Platformer"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

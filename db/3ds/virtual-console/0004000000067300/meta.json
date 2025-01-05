@@ -1,0 +1,24 @@
+{
+    "uid": "50010000008841",
+    "tid": "0004000000067300",
+    "product_code": "CTR-N-RBEP",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "Balloon Kid™",
+    "description": "Take to the skies on a trip through a\nland filled with danger, with nothing\nbut balloons to keep you afloat!<br>\n<br>\nWhen her brother is swept away on\nthe wind, Alice must save him by\nfloating through eight perilous stages.\nNavigate your way through enemies\nand obstacles, collect balloons to\nearn bonuses, or let go of your\nballoons to face enemies on the\nground.<br>\n<br>\nAlso, in Balloon Trip mode, negotiate\nincreasingly tricky levels to earn a\nhigh score and move up the ranks.\nWill you rise to the challenge?",
+    "name": "Balloon Kid™",
+    "genres": [
+        "Arcade",
+        "Adventure"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

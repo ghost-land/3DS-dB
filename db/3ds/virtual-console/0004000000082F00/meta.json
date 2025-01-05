@@ -1,0 +1,24 @@
+{
+    "uid": "50010000010415",
+    "tid": "0004000000082F00",
+    "product_code": "CTR-N-RBUP",
+    "platform_name": "Game Boy",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "Tumble Pop",
+    "description": "In the future, the world is infested\nwith strange beasties and weird\nmutations. So grab your trusty\nVacuulator and suck up those critters,\nand make the world fit for humans\nagain!<br>\n<br>\nThis classic action-platformer tasks\nyou with vacuuming up all the evil\nmutants, robots and aliens, and\nblasting them back at each other.<br>\n<br>\nTumble and pop your way through\neight worlds in the single player\ngame, and you can also get creative\nin Construction Mode and make your\nown levels!",
+    "name": "Tumble Pop",
+    "genres": [
+        "Action",
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

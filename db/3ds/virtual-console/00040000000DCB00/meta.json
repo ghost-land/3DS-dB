@@ -1,0 +1,23 @@
+{
+    "uid": "50010000014452",
+    "tid": "00040000000DCB00",
+    "product_code": "CTR-N-GAVP",
+    "platform_name": "Game Gear",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-06-20",
+    "formal_name": "Tails Adventure™",
+    "description": "Sonic’s trusty sidekick flies solo in\nhis very own adventure! When Tails\nstumbles upon a small part of what\nlooks to be a very large machine, he\ndecides to embark on a journey to\nfind its source!\n<br/><br/>\nAs Tails, fly through 12\naction-packed stages on a quest to\ngather all the mechanical parts and\ndiscover the secret of their origin.\n<br/><br/>\nGather items to augment Tails’s\nvarious abilities!\n<br/><br/>\nUse your wits to defeat enemies\nacross 12 stages, in order to discover\nthe origin of the mysterious machines!",
+    "name": "Tails Adventure™",
+    "genres": [
+        "Adventure"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}
