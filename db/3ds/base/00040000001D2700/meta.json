@@ -1,0 +1,27 @@
+{
+    "uid": "50010000045515",
+    "tid": "00040000001D2700",
+    "product_code": "CTR-N-LSGE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2018-09-06",
+    "formal_name": "SPACE DEFENDER \n<br><br>BATTLE INFINITY\n",
+    "description": "The galaxy was suddenly attacked by alien life forms known as the space invaders.\n<br>Fast numbers of them enveloped the galaxy and destroyed planets\n<br>Your mission with the best space pilots in the galaxy will be to destroy the space invaders ...",
+    "name": "SPACE DEFENDER",
+    "genres": [
+        "Action",
+        "Fighting",
+        "Adventure",
+        "Shooter"
+    ],
+    "features": [],
+    "languages": [
+        "English",
+        "Spanish"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

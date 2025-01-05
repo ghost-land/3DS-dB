@@ -1,0 +1,28 @@
+{
+    "uid": "50010000042535",
+    "tid": "000400000F70A700",
+    "product_code": "KTR-N-CD3P",
+    "platform_name": "New 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2017-03-30",
+    "formal_name": "Super Destronaut 3D",
+    "description": "Fight against waves of invaders in this arcade space shooter and collect power-ups to increase your fire power. Try to beat your high-score in Classic or Time Attack mode. If you like classic arcade shooters then you will love Super Destronaut 3D.",
+    "name": "Super Destronaut 3D",
+    "genres": [
+        "Arcade",
+        "Shooter",
+        "Action",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

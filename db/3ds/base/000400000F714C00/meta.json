@@ -1,0 +1,36 @@
+{
+    "uid": "50010000049255",
+    "tid": "000400000F714C00",
+    "product_code": "KTR-N-CE7P",
+    "platform_name": "New 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2021-10-28",
+    "formal_name": "Harold's Walk",
+    "description": "Explore 3D worlds and discover all the secret objects in Harold's Walk. Master the use of your special abilities to reach new areas.",
+    "name": "Harold's Walk",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Simulation"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Enhanced for New 3DS"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch",
+        "Portuguese",
+        "Russian"
+    ],
+    "disclaimer": null
+}

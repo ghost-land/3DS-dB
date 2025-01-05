@@ -1,0 +1,36 @@
+{
+    "uid": "50010000049335",
+    "tid": "000400000F714D00",
+    "product_code": "KTR-N-CE3P",
+    "platform_name": "New 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2021-12-23",
+    "formal_name": "Harold Reborn",
+    "description": "Uncover the secrets in an unusual and mysterious realm by searching the overworld and 9 sub-worlds for over 90+ hidden objects and mysterious messages.\n<br>Harold's new abilities will have him rocketing over hills and across wide gaps at ultra fast speeds.\n<br>\n<br>Walk right into a new adventure.",
+    "name": "Harold Reborn",
+    "genres": [
+        "Adventure",
+        "Action",
+        "Simulation",
+        "Racing"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Enhanced for New 3DS"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch",
+        "Portuguese",
+        "Russian"
+    ],
+    "disclaimer": null
+}

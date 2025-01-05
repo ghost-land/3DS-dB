@@ -1,0 +1,29 @@
+{
+    "uid": "50010000022024",
+    "tid": "0004000000128400",
+    "product_code": "CTR-N-JEPP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-05-22",
+    "formal_name": "PICROSS e4",
+    "description": "The 4th game in the Picross e series,\nwith a Navigation Feature!<br/>\nAs fans requested, new 20x15\npuzzles have been added. Micross and\nMega Picross modes are also\nincluded, with 150+ new puzzles!\nTutorials and rule options let\nnewcomers to the series start playing\nwith ease. With save data from\nprevious games, you can also play\nadditional Special Puzzles. Picross is\na \"Picture Crossword Puzzle Game\"\nwhere numbers act as hints to\ncomplete images. The rules are simple\nand easy to grasp. Anyone can do it!",
+    "name": "PICROSS e4",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

@@ -1,0 +1,27 @@
+{
+    "uid": "50010000024455",
+    "tid": "00040000000D6C00",
+    "product_code": "CTR-N-JAGE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-07-24",
+    "formal_name": "Pick-A-Gem",
+    "description": "Try out now the new puzzle sensation and compete with the world for the highest score in leaderboards! Pick-A-Gem is a match 3 type game. You have limited time to collect as many gems as possible. Gems are collected by tapping on the bottom screen and need to create a chain of the same color. With each game played increase your Experience Level. Thanks to this you get access to new features such as bombs, dynamites, higher multipliers, coins, chests or even Frenzy Mode! With a higher level of experience you can also get more points.",
+    "name": "Pick-A-Gem",
+    "genres": [
+        "Puzzle",
+        "Arcade",
+        "Action"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately."
+}

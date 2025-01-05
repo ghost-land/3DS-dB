@@ -1,0 +1,37 @@
+{
+    "uid": "50010000010990",
+    "tid": "0004000000084F00",
+    "product_code": "CTR-N-AACP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "rating_system": {
+        "name": null,
+        "age": null
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "New Art Academy™",
+    "description": "Try out new skills and discover\nhidden talents you didn't know you\nhad in New Art Academy for\nNintendo 3DS! With over 30\nbrand-new lessons to get your\ncreative hands on, New Art Academy\nwill have you painting and drawing\nyour own masterpieces and sharing\nthem with your friends and family in\nno time.",
+    "name": "New Art Academy™",
+    "genres": [
+        "Simulation",
+        "Education",
+        "Lifestyle"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports SpotPass",
+        "Mii",
+        "Nintendo Network"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch",
+        "Portuguese",
+        "Russian"
+    ],
+    "disclaimer": null
+}

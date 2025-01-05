@@ -1,0 +1,28 @@
+{
+    "uid": "50010000035196",
+    "tid": "000400000015B800",
+    "product_code": "CTR-N-KSRP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-07-23",
+    "formal_name": "3D Streets of Rage 2",
+    "description": "The sequel to the original rumbler is\n<br>back and re-mastered in 3D. Slam the\n<br>asphalt with bigger, better and totally\n<br>devastating attacks. Skull crushing\n<br>ex-wrestler Max Thunder joins up with\n<br>Axel and Blaze to throw earth\n<br>shattering body slams and fist\n<br>attacks. New thrasher Skate slices\n<br>punks with high speed inline attacks\n<br>and spinning jump kicks. Use secret\n<br>weapons to bash your way through\n<br>gangs of bikers to rescue your friend\n<br>and defeat Mr. X.",
+    "name": "3D Streets of Rage 2",
+    "genres": [
+        "Fighting",
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports Local Play"
+    ],
+    "languages": [
+        "English",
+        "French"
+    ],
+    "disclaimer": null
+}

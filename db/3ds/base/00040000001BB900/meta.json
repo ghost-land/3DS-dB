@@ -1,0 +1,24 @@
+{
+    "uid": "50010000042514",
+    "tid": "00040000001BB900",
+    "product_code": "CTR-N-JN5J",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2017-04-26",
+    "formal_name": "ねこあつめ",
+    "description": "ゴハンとグッズを置いておき庭先に集まってきたねこたちをただただ眺めて癒される。\n<br>基本的にはそんなゲームです。",
+    "name": "ねこあつめ",
+    "genres": [
+        "シミュレーション",
+        "テーブル"
+    ],
+    "features": [],
+    "languages": [
+        "日本語"
+    ],
+    "disclaimer": "本ソフトは3D表示に対応しておりません。"
+}

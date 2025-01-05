@@ -1,0 +1,30 @@
+{
+    "uid": "50010000030155",
+    "tid": "00040000000FEF00",
+    "product_code": "CTR-N-JTEP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-02-26",
+    "formal_name": "Best of Arcade Games -\nTetraminos",
+    "description": "Rediscover a timeless puzzle classic\nwith Tetraminos!\n<br/>\nBecome a Tetraminos pro over 50\nlevels with increasing difficulty.\n<br/>\nFind the best place for your pieces\nand eliminate as many lines as\npossible in one go. Earn points to\nunlock bonuses that can be used at\nany time: bombs, piece storage...\n<br/>\nDiscover the new Real Gravity game\nmode and build the highest Tetraminos\ntower possible before it collapses!",
+    "name": "Best of Arcade Games -\nTetraminos",
+    "genres": [
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch"
+    ],
+    "disclaimer": null
+}

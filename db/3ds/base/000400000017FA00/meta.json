@@ -1,0 +1,28 @@
+{
+    "uid": "50010000041816",
+    "tid": "000400000017FA00",
+    "product_code": "CTR-N-KGLE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2016-12-22",
+    "formal_name": "Mini Golf Resort",
+    "description": "Welcome to the most amazing mini golf resort ever on Nintendo 3DS™! Grab your golf clubs and get ready to play through 56 incredible courses in 4 unique worlds. Enjoy a combination of real golf club rules and wacky mini golf fun as you shoot your ball through pipes, up extreme ramps and around crazy obstacles towards the hole!\n<br>\n<br>With over 1001 fun and challenging courses available, packed with a character customization, a large selection of items and bonuses and 10 trophies to unlock, it's the ultimate mini golf experience!",
+    "name": "Mini Golf Resort",
+    "genres": [
+        "Sports",
+        "Arcade",
+        "Simulation",
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

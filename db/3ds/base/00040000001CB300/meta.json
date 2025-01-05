@@ -1,0 +1,25 @@
+{
+    "uid": "50010000043876",
+    "tid": "00040000001CB300",
+    "product_code": "CTR-N-KJEP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2017-10-31",
+    "formal_name": "Creeping Terror",
+    "description": "Trapped below a creepy abandoned mansion deep in the forest, a group of friends find themselves on the run from a terrifying monster. Using only her wits and what's around her, Arisa must uncover the secrets of the mansion, and figure out how to escape...before it's too late.",
+    "name": "Creeping Terror",
+    "genres": [
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

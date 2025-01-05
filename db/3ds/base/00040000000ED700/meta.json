@@ -1,0 +1,33 @@
+{
+    "uid": "50010000029235",
+    "tid": "00040000000ED700",
+    "product_code": "CTR-N-JCGP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-01-08",
+    "formal_name": "Classic Card Games",
+    "description": "\"Classic Card Games\" is a huge\ncollection of the finest card classics\nand casino games - right in your\npocket!\n<br/><br/>\nClassic card games include: Hearts,\nSpades, Euchre, Bridge, Gin Rummy,\nCanasta, Cribbage, Crazy Eights, Go\nFish, Romme, and Skat.\n<br/><br/>\nThe casino card games selection has:\nBlackJack, Texas Hold'em, Double\nFlop Hold'em, Omaha, 5-Card Draw,\n7 Card Stud, Pineapple, Crazy\nPineapple, and 5 unique versions of\nVideo Poker.\n<br/><br/>\nImmerse yourself in the game with\nunique 3D environments and\ncharacters. Change many of the\ngame's rules to your liking. An\nincredible complete card game\ncollection for endless fun!",
+    "name": "Classic Card Games",
+    "genres": [
+        "Board Game",
+        "Simulation",
+        "Strategy",
+        "Sports"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Mii"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

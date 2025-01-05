@@ -1,0 +1,30 @@
+{
+    "uid": "50010000035376",
+    "tid": "0004000000168A00",
+    "product_code": "CTR-P-ALJP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-07-30",
+    "formal_name": "Lucky Luke & The Daltons",
+    "description": "Step into the shoes of your favourite\nhero and head off to conquer the\nWest!<br/>\nFace up to the Daltons in duels which\nwill test your accuracy.<br/>\nNumerous challenges await you! Are\nyou up to the task?<br/>\nSaddle up Jolly Jumper and achieve\nyour aim in the shortest time possible.<br/>\nAnd you can count on Rantanplan\ntoo!",
+    "name": "Lucky Luke & The Daltons",
+    "genres": [
+        "Arcade",
+        "Party"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

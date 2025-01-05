@@ -1,0 +1,24 @@
+{
+    "uid": "50010000041276",
+    "tid": "000400000F707100",
+    "product_code": "KTR-N-CBFP",
+    "platform_name": "New 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2016-08-25",
+    "formal_name": "BlockForm",
+    "description": "A unique puzzle/platform game where colour affect the character's behaviour.\n<br>How quickly can you finish this game?",
+    "name": "BlockForm",
+    "genres": [
+        "Puzzle",
+        "Platformer"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

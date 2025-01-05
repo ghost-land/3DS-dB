@@ -1,0 +1,36 @@
+{
+    "uid": "50010000007938",
+    "tid": "0004000000061700",
+    "product_code": "CTR-P-AE2P",
+    "platform_name": "Nintendo 3DS (Card)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": null,
+    "formal_name": "PES 2012 3D - \nPro Evolution Soccer",
+    "description": "PES 2012 3D delivers a wealth of\nnew modes and options, with bespoke\nintuitive Touch Controls and exciting\nOnline Matches.<br>\n<br>\nExclusive modes include the UEFA\nChampions League and Copa\nSantander Libertadores competitions,\nwhile the Master League, Become a\nLegend and World Player features let\nyou experience the highs and lows of\nevery match day.",
+    "name": "PES 2012 3D",
+    "genres": [
+        "Sports"
+    ],
+    "features": [
+        "Supports Internet Play",
+        "Displays 3D Visuals",
+        "Supports Local Play",
+        "Supports StreetPass",
+        "Nintendo Network"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch",
+        "Portuguese",
+        "Russian"
+    ],
+    "disclaimer": null
+}

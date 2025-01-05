@@ -1,0 +1,24 @@
+{
+    "uid": "50010000028775",
+    "tid": "0004000000157200",
+    "product_code": "CTR-N-KSMP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-12-18",
+    "formal_name": "Sumico",
+    "description": "In Sumico you match numbers and\noperators to make sums that equal the\ntarget numbers. Sumico offers an\n82-level Campaign and an Endless\nMode. So, a lot of brain wrenching\nnumbers and operators are waiting for\nyou. Have fun!",
+    "name": "Sumico",
+    "genres": [
+        "Puzzle",
+        "Board Game"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

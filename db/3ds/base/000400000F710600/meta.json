@@ -1,0 +1,25 @@
+{
+    "uid": "50010000045236",
+    "tid": "000400000F710600",
+    "product_code": "KTR-N-CB3E",
+    "platform_name": "New 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2018-03-08",
+    "formal_name": "BRICK THRU",
+    "description": "Welcome to high speed brick dodging with BRICK THRU. The player must quickly dash left or right finding an open space in the game board as the oncoming bricks try to knock you out. See how long you can go and rack up a high score! Endless fun for everyone!",
+    "name": "BRICK THRU",
+    "genres": [
+        "Arcade",
+        "Puzzle",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

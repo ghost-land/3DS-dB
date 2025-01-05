@@ -1,0 +1,26 @@
+{
+    "uid": "50010000007643",
+    "tid": "0004000000048500",
+    "product_code": "CTR-P-AMJE",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": null,
+    "formal_name": "Michael Jackson The Experience",
+    "description": "For the first time in a video game, experience the excitement and the magic of Michael Jackson’s iconic music videos...in 3D!\n<br><br>\nMichael Jackson The Experience for the Nintendo 3DS™ invites players on a spectacular interactive journey through 15 of the King of Pop’s most legendary hits. Built for the Nintendo 3DS and true to Michel Jackson’s groundbreaking and visionary work, Michael Jackson The Experience introduces a brand new way of playing rhythm games, an experience as close as it gets to dancing on a portable console.",
+    "name": "Michael Jackson\nThe Experience",
+    "genres": [
+        "Simulation"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports StreetPass"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under."
+}

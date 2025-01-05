@@ -1,0 +1,32 @@
+{
+    "uid": "50010000011687",
+    "tid": "000400000009C900",
+    "product_code": "CTR-P-AHEE",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": null,
+    "formal_name": "Spy Hunter™",
+    "description": "Spy Hunter is a reboot of the legendary combat driving series and races forward on its most thrilling and dangerous ride yet. The player once again takes on the role of the “Agent,” the driver of the high-tech G-6155 Interceptor supercar, armed extensively with advanced weaponry, and ready to take on a global terrorist organization set on world domination. The Interceptor seamlessly transforms from supercar to off-road assault vehicle to speed boat, allowing players to go where they like within its branching mission tracks.",
+    "name": "Spy Hunter™",
+    "genres": [
+        "Arcade",
+        "Action",
+        "Racing",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports StreetPass"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "Portuguese"
+    ],
+    "disclaimer": null
+}

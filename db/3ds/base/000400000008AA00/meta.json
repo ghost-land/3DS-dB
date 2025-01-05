@@ -1,0 +1,31 @@
+{
+    "uid": "50010000010417",
+    "tid": "000400000008AA00",
+    "product_code": "CTR-N-JSLP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "3D Solitaire",
+    "description": "3D Solitaire for the Nintendo 3DS™\nbrings the classic game to beautiful\nstereoscopic 3D environments.\nFeaturing multiple modes of play,\nplayer rewards and fun environments,\n3D Solitaire provides classic\ngameplay for the Nintendo 3DS™.",
+    "name": "3D Solitaire",
+    "genres": [
+        "Board Game",
+        "Arcade",
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

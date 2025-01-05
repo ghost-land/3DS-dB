@@ -1,0 +1,26 @@
+{
+    "uid": "50010000040115",
+    "tid": "0004000000193C00",
+    "product_code": "CTR-N-KFPJ",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2016-04-20",
+    "formal_name": "ファンタジーパイレーツ",
+    "description": "宝箱の周りをグルグル回りながら砲撃を加えて攻撃していくタワーオフェンス型アクションストラテジーゲームです。\n<br>障害物や敵を避けながらドンドン砲弾を撃ち込みましょう。",
+    "name": "ファンタジーパイレーツ",
+    "genres": [
+        "アクション",
+        "シューティング"
+    ],
+    "features": [
+        "3D映像対応"
+    ],
+    "languages": [
+        "日本語"
+    ],
+    "disclaimer": null
+}

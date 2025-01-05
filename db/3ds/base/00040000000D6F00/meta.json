@@ -1,0 +1,30 @@
+{
+    "uid": "50010000014881",
+    "tid": "00040000000D6F00",
+    "product_code": "CTR-P-AAQP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "7"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-05-01",
+    "formal_name": "Mystery Case Files\nRavenhearst® ",
+    "description": "Rumors surrounding the history of\nstately Ravenhearst Manor have\ncirculated for decades. The recently\nacquired diary of Emma Ravenhearst\nmay hold the key to unraveling the\nmystery behind this eerie place, but\nthe pages are missing.\n<br/><br/>\nYou assume the role of the master\ndetective as you unlock the secrets\nburied deep in Ravenhearst®, and\nscour a myriad of intriguing rooms in\nthe manor in your search for cleverly\nhidden clues.\n<br/><br/>\nOnly when you have located and\nre-assembled all the lost diary pages\nwill you uncover the story of the\nhouse and, ultimately, solve the\nmystery.",
+    "name": "Mystery Case Files\nRavenhearst® ",
+    "genres": [
+        "Puzzle",
+        "Adventure",
+        "Strategy"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "French",
+        "German",
+        "Dutch"
+    ],
+    "disclaimer": null
+}

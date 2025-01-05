@@ -1,0 +1,25 @@
+{
+    "uid": "50010000034515",
+    "tid": "000400000016C800",
+    "product_code": "CTR-N-KTPP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-06-25",
+    "formal_name": "Tappingo 2",
+    "description": "Tappingo 2 is an awesome new\npuzzle game, in which you create\nsmall pictures by solving puzzles. Your\ngoal is to solve each puzzle picture by\nmaking all the numbered blocks\nextend into lines of the correct length.\nThe number on each block indicates\nexactly how long the line needs to be.\nThe game keeps track of the time\ntaken to solve each puzzle. You can\nchallenge your friends or yourself to\nset a better time! How fast can you\nsolve it?",
+    "name": "Tappingo 2",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

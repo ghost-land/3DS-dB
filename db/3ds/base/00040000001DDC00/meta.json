@@ -1,0 +1,27 @@
+{
+    "uid": "50010000048975",
+    "tid": "00040000001DDC00",
+    "product_code": "CTR-N-L31E",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2020-11-12",
+    "formal_name": "Kung Tutu",
+    "description": "When the Nutcracker steals her Golden Ballet Slippers, Kung Tutu vows to get them back!  Battle past DOLL ballerinas, TOY soldiers, and evade the Mouse King as you seek to confront the Nutcracker himself!  You are Kung Tutu - Ballerina AND Kung Fu Fighter!  Hi-yah!",
+    "name": "Kung Tutu",
+    "genres": [
+        "Fighting",
+        "Action",
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

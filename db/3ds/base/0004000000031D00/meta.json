@@ -1,0 +1,33 @@
+{
+    "uid": "50010000000217",
+    "tid": "0004000000031D00",
+    "product_code": "CTR-N-AWAP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "Pilotwings Resort™",
+    "description": "Pilotwings Resort on Nintendo 3DS\ntakes your Mii on 3D a tour around\nWuhu Island by hang glider, rocket\nbelt or plane! Ace objectives in\nMission Mode or relax with Free\nFlight Mode in this aerial sports game!",
+    "name": "Pilotwings Resort™",
+    "genres": [
+        "Simulation"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Mii"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch",
+        "Portuguese",
+        "Russian"
+    ],
+    "disclaimer": null
+}

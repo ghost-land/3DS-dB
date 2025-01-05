@@ -1,0 +1,24 @@
+{
+    "uid": "50010000047855",
+    "tid": "00040000001D9C00",
+    "product_code": "CTR-N-LSTP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2019-09-05",
+    "formal_name": "Squarcat",
+    "description": "High in the sky, mysterious lands hover. There lives a Squarecat and adventure begin here!\n<br>Your task is to reach the finish line by solving different puzzles.\n<br>\n<br>-The game is expanded on two screens.\n<br>-Cute, simple graphics.\n<br>-The game has a soothing atmosphere.",
+    "name": "Squarcat",
+    "genres": [
+        "Puzzle",
+        "Adventure"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

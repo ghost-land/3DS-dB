@@ -1,0 +1,28 @@
+{
+    "uid": "50010000045915",
+    "tid": "000400000F710C00",
+    "product_code": "KTR-N-CFFE",
+    "platform_name": "New 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2018-06-28",
+    "formal_name": "I.F.O",
+    "description": "I.F.O is an old school LCD-style shoot'em up game. Shoot down UFOs using a classic style aircraft and save the abducted animals from the aliens. Save the Earth from the Aliens! You're the world's last hope.",
+    "name": "I.F.O",
+    "genres": [
+        "Shooter",
+        "Action",
+        "Arcade",
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

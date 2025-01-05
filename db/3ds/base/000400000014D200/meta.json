@@ -1,0 +1,29 @@
+{
+    "uid": "50010000027115",
+    "tid": "000400000014D200",
+    "product_code": "CTR-N-KPQP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-11-13",
+    "formal_name": "PICROSS e5",
+    "description": "The 5th game in the Picross e series,\nwith a Navigation Feature!\n<br/>\nFeaturing Micross, Mega Picross and\n20×15 Picross, all three modes from\nthe previous game.\n<br/>\nAlso includes more than 150\nsatisfying, all-new puzzles to solve.\n<br/>\nTutorials and rule options let\nnewcomers to the series start playing\nwith ease.\n<br/>\nPicross is a \"Picture Crossword\nPuzzle Game\" where numbers act as\nhints to complete images.\n<br/>\nThe rules are simple and easy to\ngrasp. Anyone can do it!",
+    "name": "PICROSS e5",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

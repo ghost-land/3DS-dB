@@ -1,0 +1,25 @@
+{
+    "uid": "50010000041939",
+    "tid": "000400000F709300",
+    "product_code": "KTR-N-CBGP",
+    "platform_name": "New 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2016-12-08",
+    "formal_name": "GALAXY BLASTER",
+    "description": "In GALAXY BLASTER, you must defend your ship from the oncoming alien ships. Move your paddle left or right then tap the screen to fire the blaster. Be careful, if the target enters your base, or you miss the targets too many times, it's game over!",
+    "name": "GALAXY BLASTER",
+    "genres": [
+        "Arcade",
+        "Shooter",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "50010000047275",
+    "tid": "00040000001D8300",
+    "product_code": "CTR-N-LSAP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2019-01-10",
+    "formal_name": "Azure Snake",
+    "description": "Azure Snake is a beautiful snake in the world of light.",
+    "name": "Azure Snake",
+    "genres": [
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

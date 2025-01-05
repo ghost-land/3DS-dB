@@ -1,0 +1,30 @@
+{
+    "uid": "50010000021175",
+    "tid": "00040000000FF600",
+    "product_code": "CTR-N-JGUP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-02-05",
+    "formal_name": "Best of Arcade Games -\nBrick Breaker",
+    "description": "Rediscover all the pleasure of\nbreakout in this timeless classic!\n<br/>\nDiscover lots of increasingly complex\nobstacles to get by in the 50 levels of\nAdventure mode: moving bricks,\none-ways, indestructible bricks...\n<br/>\nExtra balls, inverted screen,\nstrafing... unlock ten bonuses and\npenalties, each more surprising than\nthe last.\n<br/>\nOnly a few bricks left to break? Take\ndirect control of the ball and aim it\nwherever you want to earn the victory!",
+    "name": "Best of Arcade Games -\nBrick Breaker",
+    "genres": [
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch"
+    ],
+    "disclaimer": null
+}

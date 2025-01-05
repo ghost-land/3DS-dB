@@ -1,0 +1,31 @@
+{
+    "uid": "50010000037996",
+    "tid": "000400000016DC00",
+    "product_code": "CTR-N-KT2P",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-11-05",
+    "formal_name": "Toki Tori 3D",
+    "description": "Game Boy Color classic Toki Tori\narrives on Nintendo 3DS™ with new\nfeatures and brand new content!\n<br/><br/>\nThe gameplay in Toki Tori is a blend\nof two genres. While it looks like a\nplatform game, it's a puzzle game at\nheart. To progress through the game,\nplayers will have to look and plan\nahead carefully while using items such\nas the Telewarp, Freeze-o-Matic and\nInstantRock™. Additional tools are\ngradually introduced as the player\nprogresses through the game's 80+\nlevels covering five unique worlds.\n<br/><br/>\n• Classic platform / puzzle action<br/>\n• A wide variety of items and weapons<br/>\n• New time-rewind feature<br/>\n• Use the touch screen for quick item\nswapping<br/>\n• Over 80 levels spread over 5 worlds<br/>\n• For all ages - accessible and hard\nlevels available",
+    "name": "Toki Tori 3D",
+    "genres": [
+        "Puzzle",
+        "Platformer",
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

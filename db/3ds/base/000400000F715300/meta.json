@@ -1,0 +1,29 @@
+{
+    "uid": "50010000049475",
+    "tid": "000400000F715300",
+    "product_code": "KTR-N-CD9P",
+    "platform_name": "New 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2022-06-09",
+    "formal_name": "D.U.N.K.L.E.R",
+    "description": "D.U.N.K.L.E.R is a 3D first-person platformer in which you have to reach the end of the level before it is too dark. \n<br>\n<br>You can jump and run. You get faster as long as you keep moving.\n<br>\n<br>There are nine main levels, four extra levels you can unlock as well as an endless mode and a speed run mode.\n<br>\n<br>You can choose between easy, normal and hard difficulty settings.",
+    "name": "D.U.N.K.L.E.R",
+    "genres": [
+        "Platformer",
+        "Action",
+        "Adventure",
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Enhanced for New 3DS"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

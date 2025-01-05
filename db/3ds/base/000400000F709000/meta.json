@@ -1,0 +1,25 @@
+{
+    "uid": "50010000041940",
+    "tid": "000400000F709000",
+    "product_code": "KTR-N-CCRE",
+    "platform_name": "New 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2016-12-01",
+    "formal_name": "CUP CRITTERS",
+    "description": "In CUP CRITTERS, you must manipulate gravity to keep those crazy balls in the cups. As you advance, your score gets higher and the tricks get more difficult. Great fun for casual players and core gamers alike!",
+    "name": "CUP CRITTERS",
+    "genres": [
+        "Arcade",
+        "Puzzle",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "50010000024615",
+    "tid": "0004000000146800",
+    "product_code": "CTR-N-KTAE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-07-31",
+    "formal_name": "Tangram Attack",
+    "description": "Tangram Attack is a fast-paced slicing game with fiendish puzzles to test your mental agility. Slice and slash your way through hundreds of brain twisting puzzles and earn prestigious badges. Complete missions with Master Tan at the Academy to earn your stripes and unlock three addictive gameplay modes with endless replayability. Choose from Zen, Blitz and the insanely frantic Arcade mode to become the ultimate mental warrior. ",
+    "name": "Tangram Attack",
+    "genres": [
+        "Action",
+        "Arcade",
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately."
+}

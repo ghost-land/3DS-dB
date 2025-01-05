@@ -1,0 +1,26 @@
+{
+    "uid": "50010000014091",
+    "tid": "00040000000CBB00",
+    "product_code": "CTR-N-JPDP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-05-02",
+    "formal_name": "Picdun 2: Witch's Curse",
+    "description": "In the new Picdun, take on 60\ndungeon levels with a young lady as\nyour partner--an Archer, Whipper or\nSpellcaster. Cover all tiles on a floor\nto reveal the hidden picture.\n<br/><br/>\nBattle dynamic, powerful enemies!\n<br/><br/>\nYou're cursed and can't attack, so\nprotect your partner with a shield and\nguide her attacks.\n<br/><br/>\nUncover the mystery of the Witch's\nCurse!",
+    "name": "Picdun 2: Witch's Curse",
+    "genres": [
+        "Action",
+        "RPG"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

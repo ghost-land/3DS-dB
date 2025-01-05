@@ -1,0 +1,27 @@
+{
+    "uid": "50010000014050",
+    "tid": "00040000000DE100",
+    "product_code": "CTR-N-JLMP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-25",
+    "formal_name": "Lola's Math Train",
+    "description": "Join Lola on her journey as she\nmakes her way through a fun filled\nenvironment of bright colors and\ncreative problem solving to get all of\nher friends to a party! Specifically\ndesigned for children 3-7 years old,\nLola’s Math Train encourages children\nto learn key skills like adding and\npuzzle solving all while having fun!",
+    "name": "Lola's Math Train",
+    "genres": [
+        "Education",
+        "Puzzle",
+        "Other"
+    ],
+    "features": [],
+    "languages": [
+        "English",
+        "French",
+        "German"
+    ],
+    "disclaimer": null
+}

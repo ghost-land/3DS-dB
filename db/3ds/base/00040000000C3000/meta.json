@@ -1,0 +1,36 @@
+{
+    "uid": "50010000017116",
+    "tid": "00040000000C3000",
+    "product_code": "CTR-N-JYJP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-10-24",
+    "formal_name": "Snow Moto Racing 3D",
+    "description": "Experience the thrill of high-speed\nsnowmobile racing across wildly\nvaried beautiful winter vistas in a game\nperfectly suited for the\nNintendo 3DS™. Challenge your\nfriends and foes in local multiplayer\nraces via Download Play. Progress\nthrough challenging tournaments for\nhigh scores and medals to unlock\nbetter, faster and more fun\nsnowmobiles.",
+    "name": "Snow Moto Racing 3D",
+    "genres": [
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Action"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports Local Play",
+        "Supports StreetPass",
+        "Supports Download Play"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Portuguese"
+    ],
+    "disclaimer": null
+}

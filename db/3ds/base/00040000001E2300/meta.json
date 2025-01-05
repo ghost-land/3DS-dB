@@ -1,0 +1,29 @@
+{
+    "uid": "50010000049575",
+    "tid": "00040000001E2300",
+    "product_code": "CTR-N-A3ZE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "13"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2022-06-23",
+    "formal_name": "Automaton Lung",
+    "description": "Make use of your special abilities to skate, shoot, and fly through over 40 unique locations, all rendered in beautiful stereoscopic 3D. In a strange land with almost no information you must be resourceful and clever.\n<br>Question everything you see and trust nothing you hear.\n<br>\n<br>Each footstep taken, every mile flown, and all doorways entered reveal more to discover in Automaton Lung.",
+    "name": "Automaton Lung",
+    "genres": [
+        "Adventure",
+        "Action",
+        "Platformer",
+        "Shooter"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Enhanced for New 3DS"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details."
+}

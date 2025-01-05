@@ -1,0 +1,26 @@
+{
+    "uid": "50010000016413",
+    "tid": "00040000000B7400",
+    "product_code": "CTR-N-JRGP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "12"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-09-19",
+    "formal_name": "Rage of the Gladiator",
+    "description": "Rage of the Gladiator is a\nfantasy-based fighting game where\nyou must fight for your life in the\narena. Prove yourself by conquering\nall opponents!",
+    "name": "Rage of the Gladiator",
+    "genres": [
+        "Action",
+        "Fighting"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

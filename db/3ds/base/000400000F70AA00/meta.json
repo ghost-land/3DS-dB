@@ -1,0 +1,25 @@
+{
+    "uid": "50010000042511",
+    "tid": "000400000F70AA00",
+    "product_code": "KTR-N-CFBE",
+    "platform_name": "New 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2017-03-30",
+    "formal_name": "FOUR BOMBS",
+    "description": "Watch your mark with FOUR BOMBS! Carefully scan the mine field for bombs by learning a common pattern among surrounding spaces. Find all 4 bombs and win - levels randomly generated for endless fun!",
+    "name": "FOUR BOMBS",
+    "genres": [
+        "Arcade",
+        "Puzzle",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

@@ -1,0 +1,29 @@
+{
+    "uid": "50010000041858",
+    "tid": "00040000001ACF00",
+    "product_code": "CTR-N-KS4J",
+    "platform_name": "ニンテンドー3DSダウンロードソフト",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2016-11-16",
+    "formal_name": "SSSNAKES",
+    "description": "炎を吐くヘビになって、遺跡を探検します。\n<br>得意の炎でジャマなライバルを足が無くても蹴散らして、遺跡の奥を目指しましょう。\n<br>ステージのミッション（卵を全部食べたり、ゴールを目指したり）をクリアしつつ、ハイスコアを目指します。\n<br>タッチスクリーンは懐かしの携帯ゲーム機風画面になっております。",
+    "name": "SSSNAKES",
+    "genres": [
+        "アドベンチャー",
+        "アクション",
+        "パズル"
+    ],
+    "features": [
+        "インターネット対応",
+        "3D映像対応",
+        "Nintendo Network"
+    ],
+    "languages": [
+        "日本語"
+    ],
+    "disclaimer": null
+}

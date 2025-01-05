@@ -1,0 +1,30 @@
+{
+    "uid": "50010000021513",
+    "tid": "00040000000DDF00",
+    "product_code": "CTR-N-AAQE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-04-03",
+    "formal_name": "Mystery Case Files®  Ravenhearst",
+    "description": "Rumors surrounding the history of stately Ravenhearst Manor have circulated for decades.\n<br>\n<br>The recently acquired diary of Emma Ravenhearst may hold the key to unraveling the tale behind this unsettling place, yet the pages are missing. Players assume the role of Master Detective to unlock secrets held within Ravenhearst™, scouring a myriad of enchanting rooms in the manor for cleverly hidden clues. Locating and assembling diary pages helps tell the story of the house and, ultimately, unlock the mystery.",
+    "name": "Mystery Case Files®\n<br>Ravenhearst",
+    "genres": [
+        "Puzzle",
+        "Strategy",
+        "Adventure",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately."
+}

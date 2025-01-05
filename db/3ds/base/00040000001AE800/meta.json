@@ -1,0 +1,25 @@
+{
+    "uid": "50010000042165",
+    "tid": "00040000001AE800",
+    "product_code": "CTR-N-JKJP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2016-12-22",
+    "formal_name": "SKYPEACE",
+    "description": "SKYPEACE is a high-speed action\n<br>game where you clear stages by\n<br>carefully avoiding the enemies that\n<br>appear.\n<br>\n<br>Feel the excitement of using simple\n<br>manoeuvres to get tons of coins!\n<br>\n<br>Collect coins consecutively to trigger\n<br>a combo, and string together combos\n<br>to get a hi-score.\n<br>\n<br>Also enjoy challenges by earning\n<br>achievements through a variety of\n<br>conditions!\n<br>\n<br>Enjoy exhilarating, high-speed action,\n<br>unfolding in the air!",
+    "name": "SKYPEACE",
+    "genres": [
+        "Action"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

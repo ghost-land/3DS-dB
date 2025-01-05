@@ -1,0 +1,30 @@
+{
+    "uid": "50010000031415",
+    "tid": "000400000012E900",
+    "product_code": "CTR-N-JUZE",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-03-05",
+    "formal_name": "Zombie Incident",
+    "description": "Hamartia, the great citadel, became the symbol of human sin. After centuries of excesses its penance was going to come. In the darkness of the night, chaos invaded everything. Beasts started to scream. Nothing was like before! No one sane would go to that place.\n<br><br>\nJoin our heroine to explore the citadel, find the eight golden stars, and run away from there!\n<br><br>\nFeatures:\n<br><br>\nCoderChild and NeneFranz bring you this adventure, awarded in 2011, to your Nintendo 3DS™.\nEnjoy an experience full of retro flavour all around.\nWith stunning pixel-art graphics and an amazing chiptune soundtrack.\nAnd so you can get challenged by and with your friends, register your high scores on the online leaderbords!",
+    "name": "Zombie Incident",
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "features": [
+        "Supports Online Play",
+        "Displays 3D Visuals",
+        "Nintendo Network"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n"
+}

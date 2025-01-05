@@ -1,0 +1,24 @@
+{
+    "uid": "50010000048395",
+    "tid": "00040000001DCB00",
+    "product_code": "CTR-N-K22P",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2020-01-16",
+    "formal_name": "Bricks Defender",
+    "description": "Bricks Defender is a brick breaker game where you will face off against the computer opponent through 15 exciting levels. \n<br>\n<br>Do your best to defend your own blocks while at the same time aiming to destroy the blocks of the computer opponent.",
+    "name": "Bricks Defender",
+    "genres": [
+        "Arcade",
+        "Other"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

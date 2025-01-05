@@ -1,0 +1,30 @@
+{
+    "uid": "50010000021176",
+    "tid": "00040000000FF700",
+    "product_code": "CTR-N-JGTP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-02-12",
+    "formal_name": "Best of Arcade Games -\nAir Hockey",
+    "description": "Rediscover a timeless amusement\narcade classic with Air Hockey!\n<br/>\nRise to 20 challenges against\ntougher and tougher opponents in\nAdventure mode to become an Air\nHockey pro.\n<br/>\nMagnetic puck, accelerated speed,\ngravity warping... Discover ten\nastonishing bonuses and penalties!\n<br/>\nAim straight to get around the\nobstacles and joker penguins crossing\nthe rink, and score the winning goal!",
+    "name": "Best of Arcade Games -\nAir Hockey",
+    "genres": [
+        "Arcade"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch"
+    ],
+    "disclaimer": null
+}

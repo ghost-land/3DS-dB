@@ -1,0 +1,27 @@
+{
+    "uid": "50010000049235",
+    "tid": "000400000F714E00",
+    "product_code": "KTR-N-CDZE",
+    "platform_name": "New 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2021-10-28",
+    "formal_name": "Soccer Shootout",
+    "description": "Soccer Shootout is a simple soccer game where you do penalty shots against a goaltender and try to get as many goals as possible.",
+    "name": "Soccer Shootout",
+    "genres": [
+        "Simulation",
+        "Strategy",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "50010000049675",
+    "tid": "000400000F711A00",
+    "product_code": "KTR-N-CCME",
+    "platform_name": "New 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2022-10-06",
+    "formal_name": "CosmiBall 3D",
+    "description": "Cruise through space in this beginner-friendly A-to-B platformer. Take your time, enjoy the music, and hone your skills as you toy with the physics of the CosmiBall. Compete with your friends and family to see who can make the fastest route!",
+    "name": "CosmiBall 3D",
+    "genres": [
+        "Platformer"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

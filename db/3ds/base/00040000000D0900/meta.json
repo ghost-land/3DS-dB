@@ -1,0 +1,32 @@
+{
+    "uid": "50010000022755",
+    "tid": "00040000000D0900",
+    "product_code": "CTR-P-BPCP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-07-04",
+    "formal_name": "Pokémon™ Art Academy™",
+    "description": "Grab your stylus and start your\n<br>Pokémon-drawing journey in Pokémon\n<br>Art Academy, only on Nintendo 3DS\n<br>family systems! This Pokémon-themed\n<br>iteration of the Art Academy series\n<br>offers budding illustrators and\n<br>Pokémon fans alike 40 lessons to\n<br>learn how to paint, sketch and draw\n<br>with beloved Pokémon characters.",
+    "name": "Pokémon™ Art Academy™",
+    "genres": [
+        "Lifestyle",
+        "Education"
+    ],
+    "features": [
+        "Supports Local Play",
+        "Supports SpotPass",
+        "Nintendo Network"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

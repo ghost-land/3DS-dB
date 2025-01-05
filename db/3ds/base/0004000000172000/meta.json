@@ -1,0 +1,27 @@
+{
+    "uid": "50010000034215",
+    "tid": "0004000000172000",
+    "product_code": "CTR-N-KXEP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "7"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-06-18",
+    "formal_name": "Xeodrifter",
+    "description": "Xeodrifter is the story of an\ninterstellar drifter traveling the stars\non a simple mission of exploration. We\njoin our nomad as he embarks on the\ninvestigation of a small cluster of four\nplanets in the omega sector, after a\ncollision with a rogue asteroid\ndamaged his warp core.\n<br/><br/>\nBlast your way through alien\nlandscapes, seek out valuable secrets,\nand defeat ancient guardians to\nunlock powers from a legendary\nsupreme culture in this exciting\njourney of mystery and adventure.",
+    "name": "Xeodrifter",
+    "genres": [
+        "Platformer",
+        "Action",
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

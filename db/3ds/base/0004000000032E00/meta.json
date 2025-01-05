@@ -1,0 +1,29 @@
+{
+    "uid": "50010000000094",
+    "tid": "0004000000032E00",
+    "product_code": "CTR-P-ASMJ",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "rating_system": {
+        "name": "CERO",
+        "age": "0"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": null,
+    "formal_name": "スーパーモンキーボール3D",
+    "description": "『スーパーモンキーボール 3D』は、パズルアクション、レース、バトルロイヤルと、まったく違うジャンルのゲームが1本で楽しめます。アクションでは2種類の操作が選べ、レースとバトルでは、ソフト1枚で4人までの対戦も可能!!",
+    "name": "スーパーモンキーボール3D",
+    "genres": [
+        "アクション",
+        "レース",
+        "格闘"
+    ],
+    "features": [
+        "3D映像対応",
+        "ローカルプレイ対応",
+        "ダウンロードプレイ対応"
+    ],
+    "languages": [
+        "日本語"
+    ],
+    "disclaimer": null
+}

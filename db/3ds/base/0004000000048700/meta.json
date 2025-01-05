@@ -1,0 +1,29 @@
+{
+    "uid": "50010000011626",
+    "tid": "0004000000048700",
+    "product_code": "CTR-P-AM4E",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": null,
+    "formal_name": "Monster 4x4 3D",
+    "description": "Live a Monster Truck experience in 3D and feel the power of fully customizable, large, aggressive, and loud vehicles that destroy and change the game environment – enabling you to deliver true Monster Truck mayhem.                                                                                                                                                                                                                                                                                                                                                                                                                                                      ",
+    "name": "Monster 4x4 3D",
+    "genres": [
+        "Racing",
+        "Arcade",
+        "Action"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "disclaimer": null
+}

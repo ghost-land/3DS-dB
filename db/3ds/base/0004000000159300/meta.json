@@ -1,0 +1,27 @@
+{
+    "uid": "50010000028815",
+    "tid": "0004000000159300",
+    "product_code": "CTR-N-KPBP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-12-25",
+    "formal_name": "PUZZLEBOX setup",
+    "description": "In PUZZLEBOX setup you hold the\nNintendo 3DS™ system upside-down.\nUse the stylus to select a colored tile\non the Touch Screen which is then on\nthe upper side. If you release the\ncolor the tile falls down in the\nselected column.\n<br/><br/>\nLet the matching tiles fall down into\nthe glass bottle on the 3D Screen to\ncopy a painting or to complete a\nsetup.\n<br/><br/>\nShare High Scores in Miiverse™.",
+    "name": "PUZZLEBOX setup",
+    "genres": [
+        "Puzzle",
+        "Action",
+        "Education"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

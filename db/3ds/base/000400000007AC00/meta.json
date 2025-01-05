@@ -1,0 +1,30 @@
+{
+    "uid": "50010000009123",
+    "tid": "000400000007AC00",
+    "product_code": "CTR-N-JELP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "SpeedThru: Potzol's Puzzle™",
+    "description": "Put your quick thinking and reactions\nto the test in this puzzle game with a\ntwist, literally!<br>\n<br>\nThe god of destruction, Kaotl, has\nstolen the heart of Creatl, the god of\ncreation. You must take control of the\nfloating Guardian stones, twisting and\nslotting them through the openings in\nwalls as you hurtle towards them, and\ncollect the hearts to restore Creatl.<br>\n<br>\nAs well as 90+ stages in single\nplayer mode, you can also enjoy two\nplayer modes via local wireless or\neven sharing one Nintendo 3DS\nsystem!",
+    "name": "SpeedThru: Potzol's Puzzle™",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports Local Play"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

@@ -1,0 +1,29 @@
+{
+    "uid": "50010000007521",
+    "tid": "000400000004A400",
+    "product_code": "CTR-P-AHPE",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": null,
+    "formal_name": "LEGO® Harry Potter™: Years 5-7",
+    "description": "The battle is building! Based on the last three Harry Potter books and final four films, LEGO Harry Potter: Years 5-7 takes players through Harry Potter's heroic adventures in the Muggle and wizarding worlds. Learn and use new charms and spells, including the Unforgivable Curses, and unlock over 150 characters, including Fenrir Greyback, Bellatrix Lestrange & Professor Slughorn. From Privet Drive in Little Whinging to Diagon Alley, Hogsmeade and Hogwarts™, players will encounter new faces, new challenges and more magic, preparing them for the ultimate face-off with Lord Voldemort™!",
+    "name": "LEGO® Harry Potter™:\nYears 5-7",
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports StreetPass"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "disclaimer": null
+}

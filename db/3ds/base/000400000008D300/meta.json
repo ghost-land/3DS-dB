@@ -1,0 +1,29 @@
+{
+    "uid": "50010000010423",
+    "tid": "000400000008D300",
+    "product_code": "CTR-P-AKHE",
+    "platform_name": "Nintendo 3DS Retail Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": null,
+    "formal_name": "KINGDOM HEARTS 3D [Dream Drop Distance]",
+    "description": "In preparation for an impending threat, Sora and Riku enter the Sleeping Worlds to take the Mark of Mastery exam. They will face new enemies and make new friends in worlds they’ve never set foot in. If they can successfully unlock seven Sleeping Keyholes and return to their world, they will retrieve a great power and be deemed true Keyblade Masters.\n<br><br>\nNew gameplay features such as Flowmotion, Reality Shift, and the introduction of Dream Eaters will elevate the acclaimed KINGDOM HEARTS experience to new heights.",
+    "name": "KINGDOM HEARTS 3D [Dream Drop Distance]",
+    "genres": [
+        "RPG",
+        "Action",
+        "Multiplayer"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports StreetPass"
+    ],
+    "languages": [
+        "English",
+        "French"
+    ],
+    "disclaimer": null
+}

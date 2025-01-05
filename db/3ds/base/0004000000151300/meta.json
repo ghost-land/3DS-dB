@@ -1,0 +1,26 @@
+{
+    "uid": "50010000039176",
+    "tid": "0004000000151300",
+    "product_code": "CTR-N-KT8E",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2016-01-14",
+    "formal_name": "Lionel City Builder 3D:\nRise of the Rails",
+    "description": "Create your own world and drive your custom-built train right through it in Lionel City Builder 3D: Rise of the Rails. Choose from Creative Mode, where you’ll create your own cities to drive your custom trains through, or from Story Mode, where you’ll learn to drive trains, repair tracks, and help keep the rail system alive. The game’s innovative design and Stereoscopic 3D gameplay graphics are perfect for train-lovers and gamers alike, providing a creative and strategic game play experience with a dose of Lionel fun that’s guaranteed to be off the tracks.\n \nFeatures:\nSelect from hundreds of objects to build amazingly unique environments\nLearn to drive numerous trains, and pick up/deliver cargo and passengers efficiently\nUnlock various exciting achievements for more action-packed train track building and world creation\nStereoscopic 3D gameplay graphics enable you to view your worlds from many wide-ranging camera perspectives\nShare your creative worlds with friends via QR Codes",
+    "name": "Lionel City Builder 3D:\nRise of the Rails",
+    "genres": [
+        "Simulation",
+        "Strategy"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\nVisit support.nintendo.com for information about storage options. Sold separately.\n"
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "50010000045235",
+    "tid": "000400000F710300",
+    "product_code": "KTR-N-CB3P",
+    "platform_name": "New 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2018-03-01",
+    "formal_name": "BRICK THRU",
+    "description": "Welcome to high speed brick dodging with BRICK THRU. The player must quickly dash left or right finding an open space in the game board as the oncoming bricks try to knock you out. See how long you can go and rack up a high score! Endless fun for everyone!",
+    "name": "BRICK THRU",
+    "genres": [
+        "Arcade",
+        "Puzzle",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

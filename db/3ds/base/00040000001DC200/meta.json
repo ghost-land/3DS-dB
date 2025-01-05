@@ -1,0 +1,24 @@
+{
+    "uid": "50010000048335",
+    "tid": "00040000001DC200",
+    "product_code": "CTR-N-A55E",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2019-10-31",
+    "formal_name": "Pinball Breaker V",
+    "description": "Pinball Breaker 5 is a breakout game which combines the game mechanics of a traditional breakout game and a flipper game.\n<br>Play through 15 exciting levels as you aim for a high score.",
+    "name": "Pinball Breaker V",
+    "genres": [
+        "Arcade",
+        "Other"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

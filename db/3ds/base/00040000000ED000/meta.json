@@ -1,0 +1,23 @@
+{
+    "uid": "50010000017554",
+    "tid": "00040000000ED000",
+    "product_code": "CTR-N-JWKP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-11-14",
+    "formal_name": "WAKEDAS",
+    "description": "WAKEDAS is a contemplative and\nthoughtful shape shifting puzzle game\nwith the perfect combination of\neye-candy visuals and serene sounds.\nRadiant multicolored tiles rests on an\ninfinite loop; aim of the game is to\ngroup same colored blocks together\nby simply dragging your finger across\nthe screen.\n<br/><br/>\nFeatures:\n<br/><br/>\n- Learn the rules in less than 3\nseconds\n<br/><br/>\n- 300 unique puzzles that will\nchallenge your brain\n<br/><br/>\n- Separate and combine similar\ncolors with minimal steps!\n<br/><br/>\n- Hint system in place to give you a\nboost\n<br/><br/>\nTry and solve all of the enjoyable\nWAKEDAS puzzles that will light up\nyour imagination.",
+    "name": "WAKEDAS",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

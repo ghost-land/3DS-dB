@@ -1,0 +1,32 @@
+{
+    "uid": "50010000024355",
+    "tid": "0004000000143D00",
+    "product_code": "CTR-N-JFEP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-07-31",
+    "formal_name": "2048",
+    "description": "Enjoy 2048, the most addictive\nnumber sliding puzzle. Move all tiles\nin one direction, double up tiles of the\nsame number. Reach the 2048 tile\nbefore the board fills up. Try different\ngames modes with 1024, 2048 and\n4096 goals for extra challenges.\nThere are 20 achievements to unlock\nfor hours and hours of puzzle fun. Can\nyou reach a new highscore? With\nintuitive controls you will enjoy 2048\nmore than ever. Try 2048 today and\nsee why this is one of the greatest\npuzzle games of all time!",
+    "name": "2048",
+    "genres": [
+        "Puzzle",
+        "Strategy",
+        "Board Game",
+        "Education"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

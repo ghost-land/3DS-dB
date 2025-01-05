@@ -1,0 +1,30 @@
+{
+    "uid": "50010000020593",
+    "tid": "0004000000117500",
+    "product_code": "CTR-N-JPRP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-03-06",
+    "formal_name": "Vacation Adventures:\nPark Ranger",
+    "description": "Spend an exciting and adventurous\nsummer working as a Park Ranger in a\nstunning National Park. Visit log\ncabins and areas of outstanding\nnatural beauty such as lakes,\nwoodland trails and mountain vistas.\nSet up outdoor activities like boating,\nrock climbing, horse riding and\nmountain biking.\n<br/><br/>\nPerform your duties as a Park Ranger\nand protect the environment by\nrecycling any trash you find. Help\nvisitors by returning all the Lost &\nFound items scattered around the\nPark.",
+    "name": "Vacation Adventures:\nPark Ranger",
+    "genres": [
+        "Adventure",
+        "Puzzle",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German"
+    ],
+    "disclaimer": null
+}

@@ -1,0 +1,24 @@
+{
+    "uid": "50010000048736",
+    "tid": "00040000001DF200",
+    "product_code": "CTR-N-K9MP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2020-10-15",
+    "formal_name": "Maze Breaker 3",
+    "description": "The goal of Maze Breaker 3 is to hit and break all the blocks to clear a level, while avoiding obstacles, and getting the highest score possible.",
+    "name": "Maze Breaker 3",
+    "genres": [
+        "Arcade",
+        "Other"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

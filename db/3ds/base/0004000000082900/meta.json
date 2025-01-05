@@ -1,0 +1,27 @@
+{
+    "uid": "50010000010367",
+    "tid": "0004000000082900",
+    "product_code": "CTR-P-AG9J",
+    "platform_name": "ニンテンドー3DSカードソフト",
+    "rating_system": {
+        "name": "CERO",
+        "age": "12"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": null,
+    "formal_name": "GUILD01",
+    "description": "まだ見ぬアイデアをパッケージ化し、多くのユーザーの皆さまに未知の体験を楽しんでいただくことを目的としたプロジェクト、それが『GUILD01』です。\n<br>作品全体をレベルファイブがプロデュースし、4つの作品を須田剛一、平井善之(アメリカザリガニ)、斎藤由多加、松野泰己が、それぞれディレクションします。",
+    "name": "GUILD01",
+    "genres": [
+        "その他"
+    ],
+    "features": [
+        "3D映像対応",
+        "すれちがい通信対応",
+        "Mii"
+    ],
+    "languages": [
+        "日本語"
+    ],
+    "disclaimer": null
+}

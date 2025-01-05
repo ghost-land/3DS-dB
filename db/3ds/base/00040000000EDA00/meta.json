@@ -1,0 +1,37 @@
+{
+    "uid": "50010000021174",
+    "tid": "00040000000EDA00",
+    "product_code": "CTR-N-JPAP",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-03-20",
+    "formal_name": "Pure Chess® ",
+    "description": "Download Pure Chess® to experience\nchess the way it's meant to be\nplayed, in stunning 3D.\n<br/><br/>\nExperience one of the oldest known\nboardgames on the advanced\ntechnology of today. With\nultra-realistic 3D visuals you can\nalmost reach out and touch the\npieces. Pure Chess® is a game that\ncan be played by everyone, at any\nage, but mastered by only a few. The\nquestion is... Are you a Grandmaster\nin the making?",
+    "name": "Pure Chess® ",
+    "genres": [
+        "Board Game",
+        "Puzzle",
+        "Simulation",
+        "Sports"
+    ],
+    "features": [
+        "Supports Internet Play",
+        "Displays 3D Visuals",
+        "Nintendo Network"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch",
+        "Portuguese",
+        "Russian"
+    ],
+    "disclaimer": null
+}

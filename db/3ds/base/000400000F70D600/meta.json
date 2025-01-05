@@ -1,0 +1,26 @@
+{
+    "uid": "50010000043815",
+    "tid": "000400000F70D600",
+    "product_code": "KTR-N-CCTE",
+    "platform_name": "New 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2017-11-09",
+    "formal_name": "RTO",
+    "description": "The enemy has struck. They approach rapidly. Your team is outnumbered and low on ammo. It’s only a matter of time until it’s all over.\n<br>\n<br>Take control of a six man team and fight your way through multiple levels with the odds against you.\n<br>RTO is a side scrolling FPS survival horror game with permadeath.",
+    "name": "RTO",
+    "genres": [
+        "First-Person Shooter",
+        "Shooter",
+        "Action",
+        "Arcade"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.\n<br>Visit support.nintendo.com for information about storage options. Sold separately."
+}

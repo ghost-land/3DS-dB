@@ -1,0 +1,30 @@
+{
+    "uid": "50010000021656",
+    "tid": "00040000000FE400",
+    "product_code": "CTR-N-JQ9E",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2014-04-10",
+    "formal_name": "Boxzle",
+    "description": "Welcome to Boxzle, a challenging three dimensional puzzle game. Boxzle contains 120 different puzzles, four different puzzle sizes and three challenging modes for you to choose from. Try a new take on the classic sliding tile puzzle or a new twist on an old classic. If those are too easy for you, try them both at the same time!\n<br><br>\nDon't let the beautiful images fool you. Boxzle is easy to pick up, but hard to put down.",
+    "name": "Boxzle",
+    "genres": [
+        "Puzzle",
+        "Board Game",
+        "Strategy"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "Portuguese"
+    ],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately."
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "50010000038075",
+    "tid": "000400000016B000",
+    "product_code": "CTR-P-BHKP",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2015-11-06",
+    "formal_name": "Hello Kitty and the Apron\n<br>of Magic: Rhythm Cooking",
+    "description": "Join Hello Kitty and her friends in the\n<br>kitchen for this fun-packed cooking\n<br>caper, jammed with mini-games that\n<br>see you baking to the beat. Learn the\n<br>joys of cooking and the power of\n<br>rhythm simultaneously, making new\n<br>friends and coming up with tasty\n<br>treats in time to the music!",
+    "name": "Hello Kitty and the Apron\nof Magic: Rhythm Cooking",
+    "genres": [
+        "Music",
+        "Puzzle",
+        "Simulation",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

@@ -1,0 +1,28 @@
+{
+    "uid": "50010000011688",
+    "tid": "00040000000A8300",
+    "product_code": "CTR-N-JB9E",
+    "platform_name": "Nintendo 3DS Download Only",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2012-09-06",
+    "formal_name": "Balloon Pop® Remix",
+    "description": "The ultimate popping puzzler is back! Balloon Pop® Remix takes the classic Balloon Pop® formula and turns it on its head! Use the stylus to draw lines on the puzzle board and all the balloons in the line’s path will pop, leading into mesmerizing chain reactions! With a deep story mode, 100+ stages in puzzle mode, exhilarating endless mode, and a pick-up-and-play mini-games mode, there is absolutely no shortage of delightful content to pop through!",
+    "name": "Balloon Pop® Remix",
+    "genres": [
+        "Puzzle",
+        "Adventure",
+        "Arcade",
+        "Other"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately."
+}

@@ -1,0 +1,31 @@
+{
+    "uid": "50010000009042",
+    "tid": "000400000005F500",
+    "product_code": "CTR-P-AG3P",
+    "platform_name": "Nintendo 3DS (Card/Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-10-24",
+    "formal_name": "Gabrielle's Ghostly\n<br>Groove 3D",
+    "description": "Terror Up the Dance Floor!\n<br><br/><br/>\n<br>Poor Gabrielle sneezed her soul right\n<br>out of her body, and only the ghouls\n<br>and ghosts of Monsterville can help!\n<br>She’ll need to bust out her best dance\n<br>moves to get herself back into her\n<br>body. It’s a spooktacular rhythm\n<br>adventure!\n<br><br/><br/>\n<br>Catchy tunes will have you tapping,\n<br>sliding, and flicking in time to the\n<br>music!\n<br><br/><br/>\n<br>Unlock chilling minigames!\n<br><br/><br/>\n<br>Earn tons of terror-ific outfits, items,\n<br>and more!",
+    "name": "Gabrielle's Ghostly\nGroove 3D",
+    "genres": [
+        "Arcade",
+        "Platformer",
+        "Music",
+        "Party"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

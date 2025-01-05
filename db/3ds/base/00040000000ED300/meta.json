@@ -1,0 +1,30 @@
+{
+    "uid": "50010000015454",
+    "tid": "00040000000ED300",
+    "product_code": "CTR-N-JT8P",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-08-08",
+    "formal_name": "Tangram Style",
+    "description": "Through an incredible journey in the\ntropical jungle, resolve the mysteries\nof the \"forgotten tangrams\" and\nretrieve all the lost idols of the\nancient Maya civilization.\n<br/><br/>\nIn Tangram Style, resolve more than\n600 tangrams though 4 different\ngame modes and collect the many\ntrophies hidden in the forgotten\ntemples' ruins.",
+    "name": "Tangram Style",
+    "genres": [
+        "Puzzle"
+    ],
+    "features": [
+        "Displays 3D Visuals"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Portuguese"
+    ],
+    "disclaimer": null
+}

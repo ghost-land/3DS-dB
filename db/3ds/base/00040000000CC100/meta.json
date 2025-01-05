@@ -1,0 +1,33 @@
+{
+    "uid": "50010000015075",
+    "tid": "00040000000CC100",
+    "product_code": "CTR-N-JM8P",
+    "platform_name": "Nintendo 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-07-11",
+    "formal_name": "My Farm 3D",
+    "description": "Calves, cows, pigs, poultry... make\nyour farm prosper like a real farmer!\n<br/><br/>\nBuy new animals, feed them, care for\nthem and make your farmyard a happy\none to unlock lots of bonuses. Sell\nyour chickens's eggs at the market,\nget new colours for your animals and\nexchange them with your friends!\n<br/><br/>\nNote: This game differs from the\nretail version of My Farm 3D and\ncontains 6 animals and 10 unlockable\nbonuses.",
+    "name": "My Farm 3D",
+    "genres": [
+        "Simulation",
+        "Lifestyle"
+    ],
+    "features": [
+        "Displays 3D Visuals",
+        "Supports Local Play"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian",
+        "Dutch",
+        "Portuguese"
+    ],
+    "disclaimer": null
+}

@@ -1,0 +1,25 @@
+{
+    "uid": "50010000045756",
+    "tid": "000400000F710D00",
+    "product_code": "KTR-N-CBQP",
+    "platform_name": "New 3DS (Download)",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2018-06-14",
+    "formal_name": "UP UP BOT",
+    "description": "In UP UP BOT help your robot friend climb the platforms by tapping the Touch Screen. Be careful and watch out for bad robots trying to stop you from progressing even higher. Endless fun for everyone!",
+    "name": "UP UP BOT",
+    "genres": [
+        "Arcade",
+        "Puzzle",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

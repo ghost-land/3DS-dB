@@ -1,0 +1,26 @@
+{
+    "uid": "50010000013212",
+    "tid": "0004000000080A00",
+    "product_code": "CTR-P-ANRW",
+    "platform_name": "Nintendo 3DS 盒裝",
+    "rating_system": {
+        "name": "CGSRR",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": null,
+    "formal_name": "星際火狐64 3D",
+    "description": "全球銷量400萬套以上的宇宙射擊遊戲於Nintendo 3DS登場！\n以許多的行星和宇宙空間為舞台，穿梭在眾多的大樓和隕石群，閃避導彈及雷射並擊落敵人。在3D影像呈現的空間中自由自在遨遊的全新3D射擊遊戲。",
+    "name": "星際火狐64 3D",
+    "genres": [
+        "射擊"
+    ],
+    "features": [
+        "對應3D影像",
+        "對應下載遊戲"
+    ],
+    "languages": [
+        "中文"
+    ],
+    "disclaimer": null
+}
