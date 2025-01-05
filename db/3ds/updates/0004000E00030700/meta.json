@@ -26,5 +26,7 @@
         "Portuguese",
         "Russian"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v3.5.0",
+    "region": "Europe"
 }

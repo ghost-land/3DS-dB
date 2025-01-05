@@ -21,5 +21,7 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "This game requires at least two players and is played by passing around a single Nintendo DSi system between players."
+    "disclaimer": "This game requires at least two players and is played by passing around a single Nintendo DSi system between players.",
+    "version": "v0.0.0",
+    "region": "North America"
 }

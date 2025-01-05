@@ -23,5 +23,7 @@
     "languages": [
         "French"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v0.2.0",
+    "region": "France"
 }

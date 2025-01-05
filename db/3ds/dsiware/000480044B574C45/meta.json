@@ -20,5 +20,7 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "You may need an external hard drive to download this software. Sold separately. Visit support.nintendo.com for information about storage options."
+    "disclaimer": "You may need an external hard drive to download this software. Sold separately. Visit support.nintendo.com for information about storage options.",
+    "version": "v0.4.0",
+    "region": "North America"
 }

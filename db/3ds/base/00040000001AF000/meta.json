@@ -22,5 +22,7 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に対応しておりません。"
+    "disclaimer": "本ソフトは3D表示に対応しておりません。",
+    "version": "v0.2.0",
+    "region": "Japan"
 }

@@ -28,5 +28,7 @@
         "German",
         "Portuguese"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v1.1.0",
+    "region": "Europe"
 }

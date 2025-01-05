@@ -19,5 +19,7 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "To have acces to Rytmik Cloud you\nmust agree to the software license\nagreement."
+    "disclaimer": "To have acces to Rytmik Cloud you\nmust agree to the software license\nagreement.",
+    "version": "v0.0.0",
+    "region": "Europe"
 }

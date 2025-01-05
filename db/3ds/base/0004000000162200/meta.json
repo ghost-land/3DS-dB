@@ -25,5 +25,7 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは3D表示に一部対応しております。"
+    "disclaimer": "本ソフトは3D表示に一部対応しております。",
+    "version": "v6.9.0",
+    "region": "Japan"
 }

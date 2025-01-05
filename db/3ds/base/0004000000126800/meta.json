@@ -22,5 +22,7 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "2017年11月8日のMiiverseサービス終了以降、Miiverseを使用した機能はご利用いただけません。"
+    "disclaimer": "2017年11月8日のMiiverseサービス終了以降、Miiverseを使用した機能はご利用いただけません。",
+    "version": "v1.1.0",
+    "region": "Japan"
 }

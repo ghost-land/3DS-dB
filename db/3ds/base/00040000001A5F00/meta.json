@@ -30,5 +30,7 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "* Additional games and systems required for multiplayer mode. Sold separately."
+    "disclaimer": "* Additional games and systems required for multiplayer mode. Sold separately.",
+    "version": "v0.1.0",
+    "region": "North America"
 }

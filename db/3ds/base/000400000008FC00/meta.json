@@ -31,5 +31,7 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v0.2.0",
+    "region": "Europe"
 }

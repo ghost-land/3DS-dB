@@ -24,5 +24,7 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v0.6.0",
+    "region": "North America"
 }

@@ -25,5 +25,7 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトでは、一部、3D映像に対応しています。"
+    "disclaimer": "本ソフトでは、一部、3D映像に対応しています。",
+    "version": "v0.1.0",
+    "region": "Japan"
 }

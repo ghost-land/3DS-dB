@@ -26,5 +26,7 @@
     "languages": [
         "中文"
     ],
-    "disclaimer": "諮詢處：general@nintendo.com.hk"
+    "disclaimer": "諮詢處：general@nintendo.com.hk",
+    "version": "v1.1.0",
+    "region": "Taiwan"
 }

@@ -24,5 +24,7 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately."
+    "disclaimer": "You may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "version": "v0.1.0",
+    "region": "North America"
 }

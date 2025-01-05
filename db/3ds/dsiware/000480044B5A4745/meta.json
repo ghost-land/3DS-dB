@@ -25,5 +25,7 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "Please note that elements of this software may have been featured in previously released software."
+    "disclaimer": "Please note that elements of this software may have been featured in previously released software.",
+    "version": "v0.0.0",
+    "region": "North America"
 }

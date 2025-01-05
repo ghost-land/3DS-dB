@@ -17,5 +17,7 @@
     ],
     "features": [],
     "languages": [],
-    "disclaimer": "This will update StreetPass Mii Plaza.\nAfter downloading this data, no new\nicon will be added to the HOME\nMenu. The data can be found under\nSystem Settings => Data Management\n=> Nintendo 3DS => Add-on\nContent. Be careful not to delete it."
+    "disclaimer": "This will update StreetPass Mii Plaza.\nAfter downloading this data, no new\nicon will be added to the HOME\nMenu. The data can be found under\nSystem Settings => Data Management\n=> Nintendo 3DS => Add-on\nContent. Be careful not to delete it.",
+    "version": "v14.7.0",
+    "region": "Europe"
 }

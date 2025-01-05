@@ -22,5 +22,7 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "Some features from the original game are not available in this version of the game.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately."
+    "disclaimer": "Some features from the original game are not available in this version of the game.\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+    "version": "v0.0.0",
+    "region": "North America"
 }

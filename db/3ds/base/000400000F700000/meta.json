@@ -23,5 +23,7 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトはニンテンドー3DS/3DS LLでは使用できません。 Newニンテンドー3DS/3DS LL専用です。"
+    "disclaimer": "本ソフトはニンテンドー3DS/3DS LLでは使用できません。 Newニンテンドー3DS/3DS LL専用です。",
+    "version": "v2.2.0",
+    "region": "Japan"
 }

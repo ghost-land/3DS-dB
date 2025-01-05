@@ -23,5 +23,7 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトには、2本の専用タッチペンが同梱されてます。"
+    "disclaimer": "本ソフトには、2本の専用タッチペンが同梱されてます。",
+    "version": "v0.0.0",
+    "region": "Japan"
 }

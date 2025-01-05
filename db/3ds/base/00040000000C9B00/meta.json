@@ -26,5 +26,7 @@
         "German",
         "Italian"
     ],
-    "disclaimer": "This software requires a broadband\ninternet connection during use.\n<br/><br/>\nThe registration of Nintendo Network\nID and acceptance of the\nnetwork-related terms and privacy\npolicies are required."
+    "disclaimer": "This software requires a broadband\ninternet connection during use.\n<br/><br/>\nThe registration of Nintendo Network\nID and acceptance of the\nnetwork-related terms and privacy\npolicies are required.",
+    "version": "v6.8.0",
+    "region": "Region Free"
 }

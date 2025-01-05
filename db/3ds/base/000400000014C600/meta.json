@@ -30,5 +30,7 @@
         "Portuguese",
         "Russian"
     ],
-    "disclaimer": "For use with the game Super Smash\nBros.™ for Wii U only.\n<br/><br/>\nSmash Controller offers the same\nfunctionality as the Connect to Wii U\nfunction available in the game Super\nSmash Bros.™ for Nintendo 3DS."
+    "disclaimer": "For use with the game Super Smash\nBros.™ for Wii U only.\n<br/><br/>\nSmash Controller offers the same\nfunctionality as the Connect to Wii U\nfunction available in the game Super\nSmash Bros.™ for Nintendo 3DS.",
+    "version": "v0.0.1",
+    "region": "Europe"
 }

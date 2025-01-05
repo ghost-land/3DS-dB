@@ -22,5 +22,7 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "In-game content available for purchase using stored account funds."
+    "disclaimer": "In-game content available for purchase using stored account funds.",
+    "version": "v0.0.0",
+    "region": "North America"
 }

@@ -23,5 +23,7 @@
         "English",
         "Spanish"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v0.5.0",
+    "region": "North America"
 }

@@ -20,5 +20,7 @@
     "languages": [
         "English"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v2.0.0",
+    "region": "Europe"
 }

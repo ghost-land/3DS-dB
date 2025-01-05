@@ -31,5 +31,7 @@
         "Dutch",
         "Portuguese"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v4.4.0",
+    "region": "Europe"
 }

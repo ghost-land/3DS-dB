@@ -23,5 +23,7 @@
         "English",
         "Spanish"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v2.3.0",
+    "region": "Europe"
 }

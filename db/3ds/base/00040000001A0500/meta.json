@@ -31,5 +31,7 @@
         "Portuguese",
         "Russian"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v4.5.0",
+    "region": "Europe"
 }

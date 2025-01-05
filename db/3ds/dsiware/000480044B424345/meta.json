@@ -22,5 +22,7 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "This game includes some content from \nBrain Challenge previously released for Nintendo DS."
+    "disclaimer": "This game includes some content from \nBrain Challenge previously released for Nintendo DS.",
+    "version": "v0.0.0",
+    "region": "North America"
 }

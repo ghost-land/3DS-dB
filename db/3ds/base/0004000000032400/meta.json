@@ -25,5 +25,7 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n"
+    "disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n",
+    "version": "v0.0.0",
+    "region": "North America"
 }

@@ -27,5 +27,7 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v0.2.0",
+    "region": "Japan"
 }

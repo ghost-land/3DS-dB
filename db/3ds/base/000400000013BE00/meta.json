@@ -33,5 +33,7 @@
         "Italian",
         "Dutch"
     ],
-    "disclaimer": "The included Portal of Power and at\nleast two Skylanders Trap Team™,\nSkylanders SWAP Force™, Skylanders\nGiants™ or Skylanders Spyro’s\nAdventure® figures are required to\nstart the Story mode tutorial."
+    "disclaimer": "The included Portal of Power and at\nleast two Skylanders Trap Team™,\nSkylanders SWAP Force™, Skylanders\nGiants™ or Skylanders Spyro’s\nAdventure® figures are required to\nstart the Story mode tutorial.",
+    "version": "v0.0.0",
+    "region": "Europe"
 }

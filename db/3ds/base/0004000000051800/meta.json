@@ -33,5 +33,7 @@
         "Portuguese",
         "Russian"
     ],
-    "disclaimer": "Please note that the feature to send\nmessages via SpotPass™ in 'Letter\nBox' has been stopped.\n<br/><br/>\nWe greatly appreciate your\nunderstanding."
+    "disclaimer": "Please note that the feature to send\nmessages via SpotPass™ in 'Letter\nBox' has been stopped.\n<br/><br/>\nWe greatly appreciate your\nunderstanding.",
+    "version": "v3.3.0",
+    "region": "Europe"
 }

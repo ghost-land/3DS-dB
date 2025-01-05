@@ -19,5 +19,7 @@
     "languages": [
         "English"
     ],
-    "disclaimer": "This game content was previously released as part of Electroplankton for \nNintendo DS."
+    "disclaimer": "This game content was previously released as part of Electroplankton for \nNintendo DS.",
+    "version": "v0.0.0",
+    "region": "North America"
 }

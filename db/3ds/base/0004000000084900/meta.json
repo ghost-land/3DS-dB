@@ -23,5 +23,7 @@
         "Spanish",
         "French"
     ],
-    "disclaimer": "Playable in 2D and 3D. 3D mode for ages 7+."
+    "disclaimer": "Playable in 2D and 3D. 3D mode for ages 7+.",
+    "version": "v0.0.0",
+    "region": "North America"
 }

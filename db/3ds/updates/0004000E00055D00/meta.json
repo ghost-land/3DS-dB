@@ -23,5 +23,7 @@
         "German",
         "Italian"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v5.7.0",
+    "region": "Region Free"
 }

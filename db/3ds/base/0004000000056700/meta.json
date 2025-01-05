@@ -23,5 +23,7 @@
     "languages": [
         "日本語"
     ],
-    "disclaimer": "本ソフトは、体験版配信ができます。"
+    "disclaimer": "本ソフトは、体験版配信ができます。",
+    "version": "v0.0.0",
+    "region": "Japan"
 }

@@ -19,5 +19,7 @@
     "languages": [
         "German"
     ],
-    "disclaimer": null
+    "disclaimer": null,
+    "version": "v1.3.0",
+    "region": "Germany"
 }

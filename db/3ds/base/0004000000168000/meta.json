@@ -27,5 +27,7 @@
         "Italian",
         "Dutch"
     ],
-    "disclaimer": "* Game contains\nEnglish voice over."
+    "disclaimer": "* Game contains\nEnglish voice over.",
+    "version": "v0.0.0",
+    "region": "Europe"
 }
