@@ -1,0 +1,25 @@
+{
+    "uid": "50010000004342",
+    "tid": "000480044B4C5456",
+    "product_code": "TWL-N-KLTV",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "My Little Restaurant",
+    "description": "Welcome to My Little Restaurant. Get\nin here and turn this place around -\nfrom a small diner to a crowded\neating palace.<br>\n<br>\nGame Features:<br>\n<br>\n- Five Restaurant Themes<br>\n<br>\n- Two extra cooking games: Burgers\nfor the Chef and SushiMaster\nChallenge<br>\n<br>\n- Thirty-three unique levels<br>\n<br>\n- Extra features and power-ups<br>\n<br>\n- Up to 40 guests at a time",
+    "name": "My Little Restaurant",
+    "genres": [
+        "Puzzle",
+        "Simulation",
+        "Arcade"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

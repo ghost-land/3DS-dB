@@ -1,0 +1,29 @@
+{
+    "uid": "50010000003164",
+    "tid": "000480044B445156",
+    "product_code": "TWL-N-KDQV",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "DRAGON QUEST® WARS™",
+    "description": "Take control of a squad of monsters\nfrom the Dragon Quest series and\nwage war!While the rules are simple,\nstrategy is the key to victory.\nFeatures single-player and DS\nWireless Play.",
+    "name": "DRAGON QUEST® WARS™",
+    "genres": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "features": [
+        "Supports DS Wireless Play"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German"
+    ],
+    "disclaimer": null
+}

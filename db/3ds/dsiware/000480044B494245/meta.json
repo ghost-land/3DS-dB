@@ -1,0 +1,26 @@
+{
+    "uid": "50010000002014",
+    "tid": "000480044B494245",
+    "product_code": "TWL-N-KIBE",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2011-05-02",
+    "formal_name": "Ikibago",
+    "description": "Play the role of a pirate and set out to discover the lost treasure of Ikibago in this fascinating puzzle and action game!\n\nBarrels of different colors move from left to right. Your objective is to align at least three barrels of the same color in one column before it disappears from the screen. Use the stylus to switch the barrels while anticipating different traps! Bonuses are available, so make sure to use them carefully to succeed in the 121 missions of this game!",
+    "name": "Ikibago",
+    "genres": [
+        "Puzzle",
+        "Other"
+    ],
+    "features": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "disclaimer": null
+}

@@ -1,0 +1,27 @@
+{
+    "uid": "50010000004361",
+    "tid": "000480044B4D4756",
+    "product_code": "TWL-N-KMGV",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "Mighty Flip Champs!™",
+    "description": "Are you ready to become a Mighty\nFlip Champ? Take control of Alta, and\nPage Flip through a series of action\npacked mazes! The Touch Screen\nreflects a preview of the next chamber,\nand shows Alta's projected\ndestination within it. When it's time to\nflip, use Alta's Magical Warp Wand to\nreplace her world with the next one.\nWill she land safely on solid ground,\nor be crushed under it? By cycling\nendlessly through room after brain\nbusting room, you'll match wits with\nsome of the most devious traps in \npuzzle/platforming history!",
+    "name": "Mighty Flip Champs!™",
+    "genres": [
+        "Action",
+        "Puzzle",
+        "Platformer"
+    ],
+    "features": [
+        "Supports DS Download Play"
+    ],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

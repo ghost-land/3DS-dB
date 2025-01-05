@@ -1,0 +1,25 @@
+{
+    "uid": "50010000012858",
+    "tid": "000480044B4B5A50",
+    "product_code": "TWL-N-KKZP",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "Academy: Chess Puzzles",
+    "description": "Play chess like never before and\nsolve hundreds of puzzles in\nAcademy: Chess Puzzles. Whether\nyou're an advanced chess player or\nyou've just started the adventure with\nthis exciting game – you will spend\nhours finding solutions to 750\nbrain-twisting chess puzzles. Two\nmodes, achievements, and intuitive\nstylus and button controls guarantee\nan enjoyable, addictive and satisfying\nadventure with Academy: Chess\nPuzzles.",
+    "name": "Academy: Chess Puzzles",
+    "genres": [
+        "Puzzle",
+        "Board Game",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        "English"
+    ],
+    "disclaimer": null
+}

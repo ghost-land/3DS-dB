@@ -1,0 +1,28 @@
+{
+    "uid": "50010000009602",
+    "tid": "000480044B484950",
+    "product_code": "TWL-N-KHIP",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "Hints Hunter",
+    "description": "Hints Hunter is an easy, casual game\nthat you can play any time and\nanywhere. The objective is simply to\nfind the keys hidden around the game.\nTo do this, you will have to work out\nthe meaning of the hints in each level.<br>\n<br>\nYou can play the game using the\nstylus only.<br>\n<br>\nMost of the hints in the game are\nhelpful and may require you to think\nabout the time of the day, game\nfunctions like clicking or dragging or\nthe principle of opening or closing.\nMake sure you examine the most\nminute details very carefully, including\nthe name of a level or even a tiny\nflower!",
+    "name": "Hints Hunter",
+    "genres": [
+        "Puzzle",
+        "Strategy"
+    ],
+    "features": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

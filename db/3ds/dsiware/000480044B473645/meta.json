@@ -1,0 +1,28 @@
+{
+    "uid": "50010000002431",
+    "tid": "000480044B473645",
+    "product_code": "TWL-N-KG6E",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2010-09-06",
+    "formal_name": "Music on: Acoustic Guitar",
+    "description": "An acoustic guitar in your pocket! Play your favorite songs easily, thanks to the predefined chord option, and enjoy the sound quality achieved. Hear the fingers on the frets and the nails while strumming! A directory of over 900 chords shows you how to place your fingers on a real guitar and lets you listen to them when selected. Five different styles will accompany you to set the mood.\n\nFeatures:\n*Over 900 chords\n*8 definable chords on the +Control Pad\n*Intensity detection while strumming\n*Palm mute function\n*Shows how to place the fingers on a real guitar\n*Five accompaniment styles: Pop Rock, Soft Rock, Country, Ballad and Blues\n*Four variations for each accompaniment\n*Eight predefined chord selections per style\n*Metronome\n*Save up to 10 sessions (chords, tempo and style selected)",
+    "name": "Music on: Acoustic Guitar",
+    "genres": [
+        "Education",
+        "Simulation",
+        "Music",
+        "Other"
+    ],
+    "features": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "disclaimer": null
+}

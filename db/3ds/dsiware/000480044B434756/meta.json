@@ -1,0 +1,32 @@
+{
+    "uid": "50010000005821",
+    "tid": "000480044B434756",
+    "product_code": "TWL-N-KCGV",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "7"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "Combat of Giants™:\nDinosaurs -\nFight For Survival",
+    "description": "Long before mankind stepped into the\nworld, the Earth was a harsh\nenvironment dominated by Dinosaurs.\nEvery species of Dinosaurs had to\nsurvive in the hostile environment and\nneeded to fight to stay alive. As one\nof the 3 breeds of dinosaurs, travel\nthrough the hostile lands while\nbattling giant enemies to save your\nkind.<br>\n<br>\nPlease note that elements of this\nsoftware may have been featured in\npreviously released software.",
+    "name": "Combat of Giants™\nDinosaurs",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fighting"
+    ],
+    "features": [
+        "Supports DS Wireless Play",
+        "Supports DS Download Play"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Dutch"
+    ],
+    "disclaimer": null
+}

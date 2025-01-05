@@ -1,0 +1,27 @@
+{
+    "uid": "50010000007947",
+    "tid": "000480044B493850",
+    "product_code": "TWL-N-KI8P",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "The Aquarium of Luck",
+    "description": "In The Aquarium of Luck, it's all\nabout decorating your fish tank and\nmaking your fish happy! Your fish may\nget hungry, fall ill, the water in the\ntank may become dirty or a new baby\nfish may need extra vitamins, so it's\nyour job to ensure the tank is clean\nand that the fish are well and happy.\nWhen you’re not busy managing your\naquarium, you can play a match-3\ngame to earn money. Use the money\nto buy food, fish or decorations for\nyour fish tank.",
+    "name": "The Aquarium of Luck",
+    "genres": [
+        "Action",
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        "English",
+        "French",
+        "German",
+        "Dutch"
+    ],
+    "disclaimer": null
+}

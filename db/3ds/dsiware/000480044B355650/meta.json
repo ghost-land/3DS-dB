@@ -1,0 +1,30 @@
+{
+    "uid": "50010000007005",
+    "tid": "000480044B355650",
+    "product_code": "TWL-N-K5VP",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "PEGI",
+        "age": "3"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2013-04-10",
+    "formal_name": "Puzzle Fever",
+    "description": "Puzzle Fever is a true test of skill for\npuzzle game fans, challenging players\nto race to prove their mental agility.\nEach puzzle consists of pieces that\nmust be fitted together on a board.\nThere is only one possible way for\nplayers to fill in the board’s gaps with\nthe pieces they select. The premise is\nsimple…the fun is endless!<br>\n<br>\nGame Modes:<br>\n<br>\n-Relax Mode<br>\n<br>\n-Time Attack Mode<br>\n<br>\n-Multiplayer",
+    "name": "Puzzle Fever",
+    "genres": [
+        "Puzzle",
+        "Board Game"
+    ],
+    "features": [
+        "Supports DS Wireless Play"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "disclaimer": null
+}

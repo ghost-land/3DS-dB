@@ -1,0 +1,26 @@
+{
+    "uid": "50010000002881",
+    "tid": "000480044B4D4A45",
+    "product_code": "TWL-N-KMJE",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "6"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2010-08-16",
+    "formal_name": "3D Mahjong",
+    "description": "Relax your mind with the ancient game of tiles. 3D Mahjong features 50 layouts of the traditional tile-matching game in 3D, each with millions of different shuffles to play. The game's style and interface has been designed for easy and intuitive operation with the stylus or +Control Pad. The graphics can be customized with six fabulous tile-sets and backgrounds. Sit back, relax and enjoy the endless challenge with this Mahjong game collection. Additional brain-sharpening challenges come in the form of the extra mini-games \"Memory\" and \"Matching\".",
+    "name": "3D Mahjong",
+    "genres": [
+        "Board Game",
+        "Puzzle"
+    ],
+    "features": [],
+    "languages": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "disclaimer": null
+}

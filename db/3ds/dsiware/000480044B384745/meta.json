@@ -1,0 +1,31 @@
+{
+    "uid": "50010000001006",
+    "tid": "000480044B384745",
+    "product_code": "TWL-N-K8GE",
+    "platform_name": "Nintendo DSiWare",
+    "rating_system": {
+        "name": "ESRB",
+        "age": "10"
+    },
+    "descriptors": [],
+    "release_date_on_eshop": "2010-03-15",
+    "formal_name": "Battle of Giants™:\nDinosaurs - Fight For Survival",
+    "description": "Long before mankind stepped into the world, the Earth was a harsh environment dominated by Dinosaurs. Every species of Dinosaurs had to survive in the hostile environment and needed to fight to stay alive. Travel through the hostile lands as one of the 3 breeds of dinosaurs, while battling giant enemies to save your kind.\n\nCreate and customize your own unique dinosaur. Explore 4 mysterious territories and discover buried fossils to complete your mission. Enhance your dinosaur's abilities and compete against your friends in epic duels.",
+    "name": "Battle of Giants™:\nDinosaurs - Fight For Survival",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Multiplayer"
+    ],
+    "features": [
+        "Supports DS Wireless Play",
+        "Supports DS Download Play"
+    ],
+    "languages": [
+        "English",
+        "Spanish",
+        "French"
+    ],
+    "disclaimer": "Please note that elements of this software may have been featured in previously released software."
+}
